@@ -1,4 +1,4 @@
-# vita-dmf
+# ViTA DMF
 ViTA DMF is a software and curriculum designed by a team of experts from DMF 
 and the USC Institute for Creative Technologies representing multiple 
 disciplines, including: special education, disability transition services, 
