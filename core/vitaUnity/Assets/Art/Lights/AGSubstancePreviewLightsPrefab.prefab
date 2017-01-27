@@ -1,0 +1,702 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &147472
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 477094}
+  - 215: {fileID: 21593108}
+  m_Layer: 0
+  m_Name: Reflection Probe
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &149268
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 490964}
+  - 114: {fileID: 11456584}
+  m_Layer: 0
+  m_Name: RenderSettings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &176928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 412908}
+  - 114: {fileID: 114000012430225534}
+  m_Layer: 0
+  m_Name: AGSubstancePreviewLightsPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &412908
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176928}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4000011554067676}
+  - {fileID: 4000012593279332}
+  - {fileID: 4000010872514472}
+  - {fileID: 4000010144958942}
+  - {fileID: 4000012799726360}
+  - {fileID: 477094}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &477094
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147472}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 2.0944135}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 412908}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &490964
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149268}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4000012799726360}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11456584
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149268}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a1517d7c363e24da27e61571ae2897, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  runOnEnable: 1
+  enableInPlayMode: 0
+  autoRunOnce: 0
+  skyboxMaterial: {fileID: 2100000, guid: aa43b7e8a1d59484d9d1d1b3ac495d89, type: 2}
+  ambientSource: 0
+  ambientLight: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  ambientEquatorColor: {r: 0.113, g: 0.125, b: 0.133, a: 1}
+  ambientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  ambientIntensity: 1
+  reflectionSource: 0
+  reflectionResolution: 0
+  reflectionSourceCompression: 2
+  reflectionCustomCubemap: {fileID: 0}
+  reflectionIntensity: 1
+  reflectionBounces: 1
+  NoAccessGiPrecomputedRealtime: 1
+  giRealtimeResolution: 40
+  NoAccessGiCpuUsage: Low (Default)
+  NoAccessGiBaked: 1
+  giBakedResolution: 40
+  giBakedPadding: 2
+  giCompressed: 1
+  NoAccessGiAmbientOcclusionNoAccess: 1
+  giAoMaxDistance: 1
+  NoAccessGiAoDirectgiAoIndirect: 1
+  NoAccessGiAoDirect: 0
+  NoAccessGiAoDirectgiFinalGather: 0
+  NoAccessGiFinalGatherRayCount: 1024
+  NoAccessGiFinalGatherDenoising: 1
+  giAtlasSize: 5
+  NoAccessLightProbesAddDirectLight: 1
+  NoAccessGiDirectionMode: Directional
+  giIndirectIntensity: 1
+  giBounceBoost: 1
+  NoAccessGiDefaultParameters: Default-Medium
+  fog: 0
+  fogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  fogMode: 3
+  fogDensity: 0.01
+  linearFogStart: 0
+  linearFogEnd: 300
+  haloStrength: 0.5
+  flareStrength: 1
+  flareFadeSpeed: 3
+  autoBake: 1
+--- !u!215 &21593108
+ReflectionProbe:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 147472}
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Type: 0
+  m_Mode: 1
+  m_RefreshMode: 0
+  m_TimeSlicingMode: 0
+  m_Resolution: 128
+  m_UpdateFrequency: 0
+  m_BoxSize: {x: 10, y: 10, z: 10}
+  m_BoxOffset: {x: 0, y: 0, z: 0}
+  m_NearClip: 0.3
+  m_FarClip: 1000
+  m_ShadowDistance: 100
+  m_ClearFlags: 1
+  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_CullingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IntensityMultiplier: 1
+  m_BlendDistance: 1
+  m_HDR: 1
+  m_BoxProjection: 0
+  m_RenderDynamicObjects: 0
+  m_UseOcclusionCulling: 1
+  m_Importance: 1
+  m_CustomBakedTexture: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 176928}
+  m_IsPrefabParent: 1
+--- !u!1 &1000010240724260
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012799726360}
+  m_Layer: 0
+  m_Name: Tomoco_Studio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &1000010405777884
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010872514472}
+  m_Layer: 0
+  m_Name: Road_In_Tenerife_Mountain
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012108828304
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010144958942}
+  m_Layer: 0
+  m_Name: Small_Apartment
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &1000013092276450
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011945102720}
+  - 114: {fileID: 114000012088301700}
+  m_Layer: 0
+  m_Name: RenderSettings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013311268492
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000014280442530}
+  - 114: {fileID: 114000010515750834}
+  m_Layer: 0
+  m_Name: RenderSettings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013519480458
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011554067676}
+  m_Layer: 0
+  m_Name: Elevator_Corridor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &1000013734818898
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012079532852}
+  - 114: {fileID: 114000010736855416}
+  m_Layer: 0
+  m_Name: RenderSettings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013812429862
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012593279332}
+  m_Layer: 0
+  m_Name: Glazed_Patio
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!1 &1000013950674666
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012190829172}
+  - 114: {fileID: 114000012724236890}
+  m_Layer: 0
+  m_Name: RenderSettings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000010144958942
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012108828304}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4000011945102720}
+  m_Father: {fileID: 412908}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4000010872514472
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010405777884}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4000014280442530}
+  m_Father: {fileID: 412908}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4000011554067676
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013519480458}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4000012079532852}
+  m_Father: {fileID: 412908}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4000011945102720
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013092276450}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4000010144958942}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4000012079532852
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013734818898}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4000011554067676}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4000012190829172
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013950674666}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4000012593279332}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4000012593279332
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013812429862}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4000012190829172}
+  m_Father: {fileID: 412908}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4000012799726360
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010240724260}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 490964}
+  m_Father: {fileID: 412908}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4000014280442530
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013311268492}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4000010872514472}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114000010515750834
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013311268492}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a1517d7c363e24da27e61571ae2897, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  runOnEnable: 1
+  enableInPlayMode: 0
+  autoRunOnce: 0
+  skyboxMaterial: {fileID: 2100000, guid: 34895bc676c77a14bb86aad8628b9434, type: 2}
+  ambientSource: 0
+  ambientLight: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  ambientEquatorColor: {r: 0.113, g: 0.125, b: 0.133, a: 1}
+  ambientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  ambientIntensity: 1
+  reflectionSource: 0
+  reflectionResolution: 0
+  reflectionSourceCompression: 2
+  reflectionCustomCubemap: {fileID: 0}
+  reflectionIntensity: 1
+  reflectionBounces: 1
+  NoAccessGiPrecomputedRealtime: 1
+  giRealtimeResolution: 40
+  NoAccessGiCpuUsage: Low (Default)
+  NoAccessGiBaked: 1
+  giBakedResolution: 40
+  giBakedPadding: 2
+  giCompressed: 1
+  NoAccessGiAmbientOcclusionNoAccess: 1
+  giAoMaxDistance: 1
+  NoAccessGiAoDirectgiAoIndirect: 1
+  NoAccessGiAoDirect: 0
+  NoAccessGiAoDirectgiFinalGather: 0
+  NoAccessGiFinalGatherRayCount: 1024
+  NoAccessGiFinalGatherDenoising: 1
+  giAtlasSize: 5
+  NoAccessLightProbesAddDirectLight: 1
+  NoAccessGiDirectionMode: Directional
+  giIndirectIntensity: 1
+  giBounceBoost: 1
+  NoAccessGiDefaultParameters: Default-Medium
+  fog: 0
+  fogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  fogMode: 3
+  fogDensity: 0.01
+  linearFogStart: 0
+  linearFogEnd: 300
+  haloStrength: 0.5
+  flareStrength: 1
+  flareFadeSpeed: 3
+  autoBake: 1
+--- !u!114 &114000010736855416
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013734818898}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a1517d7c363e24da27e61571ae2897, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  runOnEnable: 1
+  enableInPlayMode: 0
+  autoRunOnce: 0
+  skyboxMaterial: {fileID: 2100000, guid: 510a3202d2952ec47af63756d3f1b504, type: 2}
+  ambientSource: 0
+  ambientLight: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  ambientEquatorColor: {r: 0.113, g: 0.125, b: 0.133, a: 1}
+  ambientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  ambientIntensity: 1
+  reflectionSource: 0
+  reflectionResolution: 0
+  reflectionSourceCompression: 2
+  reflectionCustomCubemap: {fileID: 0}
+  reflectionIntensity: 1
+  reflectionBounces: 1
+  NoAccessGiPrecomputedRealtime: 1
+  giRealtimeResolution: 40
+  NoAccessGiCpuUsage: Low (Default)
+  NoAccessGiBaked: 1
+  giBakedResolution: 40
+  giBakedPadding: 2
+  giCompressed: 1
+  NoAccessGiAmbientOcclusionNoAccess: 1
+  giAoMaxDistance: 1
+  NoAccessGiAoDirectgiAoIndirect: 1
+  NoAccessGiAoDirect: 0
+  NoAccessGiAoDirectgiFinalGather: 0
+  NoAccessGiFinalGatherRayCount: 1024
+  NoAccessGiFinalGatherDenoising: 1
+  giAtlasSize: 5
+  NoAccessLightProbesAddDirectLight: 1
+  NoAccessGiDirectionMode: Directional
+  giIndirectIntensity: 1
+  giBounceBoost: 1
+  NoAccessGiDefaultParameters: Default-Medium
+  fog: 0
+  fogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  fogMode: 3
+  fogDensity: 0.01
+  linearFogStart: 0
+  linearFogEnd: 300
+  haloStrength: 0.5
+  flareStrength: 1
+  flareFadeSpeed: 3
+  autoBake: 1
+--- !u!114 &114000012088301700
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013092276450}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a1517d7c363e24da27e61571ae2897, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  runOnEnable: 1
+  enableInPlayMode: 0
+  autoRunOnce: 0
+  skyboxMaterial: {fileID: 2100000, guid: 48f84078c835bac4ea86582cf17e44e7, type: 2}
+  ambientSource: 0
+  ambientLight: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  ambientEquatorColor: {r: 0.113, g: 0.125, b: 0.133, a: 1}
+  ambientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  ambientIntensity: 1
+  reflectionSource: 0
+  reflectionResolution: 0
+  reflectionSourceCompression: 2
+  reflectionCustomCubemap: {fileID: 0}
+  reflectionIntensity: 1
+  reflectionBounces: 1
+  NoAccessGiPrecomputedRealtime: 1
+  giRealtimeResolution: 40
+  NoAccessGiCpuUsage: Low (Default)
+  NoAccessGiBaked: 1
+  giBakedResolution: 40
+  giBakedPadding: 2
+  giCompressed: 1
+  NoAccessGiAmbientOcclusionNoAccess: 1
+  giAoMaxDistance: 1
+  NoAccessGiAoDirectgiAoIndirect: 1
+  NoAccessGiAoDirect: 0
+  NoAccessGiAoDirectgiFinalGather: 0
+  NoAccessGiFinalGatherRayCount: 1024
+  NoAccessGiFinalGatherDenoising: 1
+  giAtlasSize: 5
+  NoAccessLightProbesAddDirectLight: 1
+  NoAccessGiDirectionMode: Directional
+  giIndirectIntensity: 1
+  giBounceBoost: 1
+  NoAccessGiDefaultParameters: Default-Medium
+  fog: 0
+  fogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  fogMode: 3
+  fogDensity: 0.01
+  linearFogStart: 0
+  linearFogEnd: 300
+  haloStrength: 0.5
+  flareStrength: 1
+  flareFadeSpeed: 3
+  autoBake: 1
+--- !u!114 &114000012430225534
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 110d2b0a211820749916d768ddabcb63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_sets:
+  - m_setName: Elevator_Corridor
+    m_setLightsAutoFound: {fileID: 1000013519480458}
+  - m_setName: Glazed_Patio
+    m_setLightsAutoFound: {fileID: 1000013812429862}
+  - m_setName: Road_In_Tenerife_Mountain
+    m_setLightsAutoFound: {fileID: 1000010405777884}
+  - m_setName: Small_Apartment
+    m_setLightsAutoFound: {fileID: 1000012108828304}
+  - m_setName: Tomoco_Studio
+    m_setLightsAutoFound: {fileID: 1000010240724260}
+  m_selectedSetIndex: 2
+--- !u!114 &114000012724236890
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013950674666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3a1517d7c363e24da27e61571ae2897, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  runOnEnable: 1
+  enableInPlayMode: 0
+  autoRunOnce: 0
+  skyboxMaterial: {fileID: 2100000, guid: cac48a03aa913f34bb103a8538086d32, type: 2}
+  ambientSource: 0
+  ambientLight: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+  ambientEquatorColor: {r: 0.113, g: 0.125, b: 0.133, a: 1}
+  ambientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+  ambientIntensity: 1
+  reflectionSource: 0
+  reflectionResolution: 0
+  reflectionSourceCompression: 2
+  reflectionCustomCubemap: {fileID: 0}
+  reflectionIntensity: 1
+  reflectionBounces: 1
+  NoAccessGiPrecomputedRealtime: 1
+  giRealtimeResolution: 40
+  NoAccessGiCpuUsage: Low (Default)
+  NoAccessGiBaked: 1
+  giBakedResolution: 40
+  giBakedPadding: 2
+  giCompressed: 1
+  NoAccessGiAmbientOcclusionNoAccess: 1
+  giAoMaxDistance: 1
+  NoAccessGiAoDirectgiAoIndirect: 1
+  NoAccessGiAoDirect: 0
+  NoAccessGiAoDirectgiFinalGather: 0
+  NoAccessGiFinalGatherRayCount: 1024
+  NoAccessGiFinalGatherDenoising: 1
+  giAtlasSize: 5
+  NoAccessLightProbesAddDirectLight: 1
+  NoAccessGiDirectionMode: Directional
+  giIndirectIntensity: 1
+  giBounceBoost: 1
+  NoAccessGiDefaultParameters: Default-Medium
+  fog: 0
+  fogColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  fogMode: 3
+  fogDensity: 0.01
+  linearFogStart: 0
+  linearFogEnd: 300
+  haloStrength: 0.5
+  flareStrength: 1
+  flareFadeSpeed: 3
+  autoBake: 1
