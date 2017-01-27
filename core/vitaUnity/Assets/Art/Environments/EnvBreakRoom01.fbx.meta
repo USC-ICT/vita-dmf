@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: cec3352fe892dd448a0fd86ef2a6a9cd
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _IctSettings_
+    100002: a_Mesh
+    100004: //RootNode
+    100006: EnvExportSettings
+    100008: group1
+    100010: IctUnitySettings
+    100012: pCube1
+    100014: pCube2
+    100016: pCube3
+    100018: pCube4
+    100020: pCube5
+    100022: pCube6
+    100024: pCube9
+    100026: polySurface11
+    100028: polySurface12
+    100030: polySurface7
+    100032: Room1
+    100034: BaseBoard
+    100036: Board
+    100038: Box
+    100040: Door1
+    100042: Metal
+    100044: Msh
+    100046: Msh1
+    100048: Msh2
+    100050: Paper
+    100052: Pin
+    100054: Props
+    100056: PrpChair02_Metal
+    100058: PrpChair02_Metal 1
+    100060: PrpChair02_Seat
+    100062: PrpChair02_Seat 1
+    100064: PrpNapkinDispenser01
+    100066: PrpTable01
+    100068: PrpVendingMachine01
+    100070: Top
+    100072: Wall
+    100074: Msh 1
+    100076: Msh 2
+    100078: Msh 3
+    100080: Msh 4
+    100082: Msh 5
+    100084: Msh 6
+    100086: Msh 7
+    100088: PrpChair02Ref01
+    100090: PrpChair02Ref02
+    100092: PrpNapkinDispenser01Ref
+    100094: PrpPinBoard01
+    100096: PrpPinBoard01Ref
+    100098: PrpPoster01Ref
+    100100: PrpPoster02Ref
+    100102: PrpPushPin01Ref01
+    100104: PrpPushPin01Ref02
+    100106: PrpPushPin01Ref03
+    100108: PrpPushPin01Ref04
+    100110: PrpTable01Ref
+    100112: PrpVendingMachine01Ref
+    100114: PrpChair02_Msh1:Base
+    100116: PrpChair02_Msh1:Metal
+    100118: PrpChair02_Msh1:Msh
+    100120: PrpChair02_Msh:Base
+    100122: PrpChair02_Msh:Metal
+    100124: PrpChair02_Msh:Msh
+    100126: PrpNapkinDispenser01_Msh:PrpNapkinDispenser01
+    100128: PrpPinBoard01_Msh:PrpPinBoard01
+    100130: PrpPoster01_Msh:Msh
+    100132: PrpPoster02_Msh:Msh
+    100134: PrpPushPin01_Msh1:Msh
+    100136: PrpPushPin01_Msh2:Msh
+    100138: PrpPushPin01_Msh3:Msh
+    100140: PrpPushPin01_Msh:Msh
+    100142: PrpTable01_Msh:Metal
+    100144: PrpTable01_Msh:PrpTable01
+    100146: PrpTable01_Msh:TableTop
+    100148: PrpVendingMachine01_Msh:a_PrpVendingMachine01
+    100150: PrpVendingMachine01_Msh:Box
+    100152: PrpVendingMachine01_Msh:Door
+    100154: a_PrpVendingMachine01
+    100156: Base
+    100158: Base 1
+    100160: Door
+    100162: Metal 1
+    100164: Metal 2
+    100166: TableTop
+    100168: Dispenser
+    100170: Napkin
+    100172: body
+    100174: glass
+    100176: PrpPinBoard01_Msh1
+    100178: PrpRoom01
+    100180: PrpRoomRef_01
+    100182: RoomCeiling_Msh
+    100184: RoomFloor_Msh
+    100186: RoomFourthWall_Msh
+    100188: RoomThreeWalls_Msh
+    100190: PrpVendingMachine01_Glass
+    100192: PrpVendingMachine01_Main
+    100194: Wall_Back
+    100196: Wall_Ceiling
+    100198: Wall_FourWalls
+    100200: PrpChair02
+    100202: PrpChair03
+    400000: _IctSettings_
+    400002: a_Mesh
+    400004: //RootNode
+    400006: EnvExportSettings
+    400008: group1
+    400010: IctUnitySettings
+    400012: pCube1
+    400014: pCube2
+    400016: pCube3
+    400018: pCube4
+    400020: pCube5
+    400022: pCube6
+    400024: pCube9
+    400026: polySurface11
+    400028: polySurface12
+    400030: polySurface7
+    400032: Room1
+    400034: BaseBoard
+    400036: Board
+    400038: Box
+    400040: Door1
+    400042: Metal
+    400044: Msh
+    400046: Msh1
+    400048: Msh2
+    400050: Paper
+    400052: Pin
+    400054: Props
+    400056: PrpChair02_Metal
+    400058: PrpChair02_Metal 1
+    400060: PrpChair02_Seat
+    400062: PrpChair02_Seat 1
+    400064: PrpNapkinDispenser01
+    400066: PrpTable01
+    400068: PrpVendingMachine01
+    400070: Top
+    400072: Wall
+    400074: Msh 1
+    400076: Msh 2
+    400078: Msh 3
+    400080: Msh 4
+    400082: Msh 5
+    400084: Msh 6
+    400086: Msh 7
+    400088: PrpChair02Ref01
+    400090: PrpChair02Ref02
+    400092: PrpNapkinDispenser01Ref
+    400094: PrpPinBoard01
+    400096: PrpPinBoard01Ref
+    400098: PrpPoster01Ref
+    400100: PrpPoster02Ref
+    400102: PrpPushPin01Ref01
+    400104: PrpPushPin01Ref02
+    400106: PrpPushPin01Ref03
+    400108: PrpPushPin01Ref04
+    400110: PrpTable01Ref
+    400112: PrpVendingMachine01Ref
+    400114: PrpChair02_Msh1:Base
+    400116: PrpChair02_Msh1:Metal
+    400118: PrpChair02_Msh1:Msh
+    400120: PrpChair02_Msh:Base
+    400122: PrpChair02_Msh:Metal
+    400124: PrpChair02_Msh:Msh
+    400126: PrpNapkinDispenser01_Msh:PrpNapkinDispenser01
+    400128: PrpPinBoard01_Msh:PrpPinBoard01
+    400130: PrpPoster01_Msh:Msh
+    400132: PrpPoster02_Msh:Msh
+    400134: PrpPushPin01_Msh1:Msh
+    400136: PrpPushPin01_Msh2:Msh
+    400138: PrpPushPin01_Msh3:Msh
+    400140: PrpPushPin01_Msh:Msh
+    400142: PrpTable01_Msh:Metal
+    400144: PrpTable01_Msh:PrpTable01
+    400146: PrpTable01_Msh:TableTop
+    400148: PrpVendingMachine01_Msh:a_PrpVendingMachine01
+    400150: PrpVendingMachine01_Msh:Box
+    400152: PrpVendingMachine01_Msh:Door
+    400154: a_PrpVendingMachine01
+    400156: Base
+    400158: Base 1
+    400160: Door
+    400162: Metal 1
+    400164: Metal 2
+    400166: TableTop
+    400168: Dispenser
+    400170: Napkin
+    400172: body
+    400174: glass
+    400176: PrpPinBoard01_Msh1
+    400178: PrpRoom01
+    400180: PrpRoomRef_01
+    400182: RoomCeiling_Msh
+    400184: RoomFloor_Msh
+    400186: RoomFourthWall_Msh
+    400188: RoomThreeWalls_Msh
+    400190: PrpVendingMachine01_Glass
+    400192: PrpVendingMachine01_Main
+    400194: Wall_Back
+    400196: Wall_Ceiling
+    400198: Wall_FourWalls
+    400200: PrpChair02
+    400202: PrpChair03
+    2300000: a_Mesh
+    2300002: pCube1
+    2300004: pCube2
+    2300006: pCube3
+    2300008: pCube4
+    2300010: pCube5
+    2300012: pCube6
+    2300014: pCube9
+    2300016: polySurface11
+    2300018: polySurface12
+    2300020: polySurface7
+    2300022: Room1
+    2300024: BaseBoard
+    2300026: Board
+    2300028: Box
+    2300030: Door1
+    2300032: Metal
+    2300034: Paper
+    2300036: Pin
+    2300038: PrpChair02_Metal
+    2300040: PrpChair02_Metal 1
+    2300042: PrpChair02_Seat
+    2300044: PrpChair02_Seat 1
+    2300046: PrpNapkinDispenser01
+    2300048: Top
+    2300050: Wall
+    2300052: Msh 2
+    2300054: Msh 3
+    2300056: Msh 4
+    2300058: Msh 5
+    2300060: Msh 6
+    2300062: Msh 7
+    2300064: PrpPinBoard01
+    2300066: PrpChair02_Msh1:Base
+    2300068: PrpChair02_Msh1:Metal
+    2300070: PrpChair02_Msh:Base
+    2300072: PrpChair02_Msh:Metal
+    2300074: PrpNapkinDispenser01_Msh:PrpNapkinDispenser01
+    2300076: PrpPinBoard01_Msh:PrpPinBoard01
+    2300078: PrpPoster01_Msh:Msh
+    2300080: PrpPoster02_Msh:Msh
+    2300082: PrpPushPin01_Msh1:Msh
+    2300084: PrpPushPin01_Msh2:Msh
+    2300086: PrpPushPin01_Msh3:Msh
+    2300088: PrpPushPin01_Msh:Msh
+    2300090: PrpTable01_Msh:Metal
+    2300092: PrpTable01_Msh:TableTop
+    2300094: PrpVendingMachine01_Msh:Box
+    2300096: PrpVendingMachine01_Msh:Door
+    2300098: Base
+    2300100: Base 1
+    2300102: Door
+    2300104: Metal 1
+    2300106: Metal 2
+    2300108: TableTop
+    2300110: Dispenser
+    2300112: Napkin
+    2300114: body
+    2300116: glass
+    2300118: PrpPinBoard01_Msh1
+    2300120: PrpVendingMachine01
+    2300122: RoomCeiling_Msh
+    2300124: RoomFloor_Msh
+    2300126: RoomFourthWall_Msh
+    2300128: RoomThreeWalls_Msh
+    2300130: PrpVendingMachine01_Glass
+    2300132: PrpVendingMachine01_Main
+    2300134: Wall_Back
+    2300136: Msh
+    2300138: Msh 1
+    2300140: Wall_Ceiling
+    2300142: Wall_FourWalls
+    3300000: a_Mesh
+    3300002: pCube1
+    3300004: pCube2
+    3300006: pCube3
+    3300008: pCube4
+    3300010: pCube5
+    3300012: pCube6
+    3300014: pCube9
+    3300016: polySurface11
+    3300018: polySurface12
+    3300020: polySurface7
+    3300022: Room1
+    3300024: BaseBoard
+    3300026: Board
+    3300028: Box
+    3300030: Door1
+    3300032: Metal
+    3300034: Paper
+    3300036: Pin
+    3300038: PrpChair02_Metal
+    3300040: PrpChair02_Metal 1
+    3300042: PrpChair02_Seat
+    3300044: PrpChair02_Seat 1
+    3300046: PrpNapkinDispenser01
+    3300048: Top
+    3300050: Wall
+    3300052: Msh 2
+    3300054: Msh 3
+    3300056: Msh 4
+    3300058: Msh 5
+    3300060: Msh 6
+    3300062: Msh 7
+    3300064: PrpPinBoard01
+    3300066: PrpChair02_Msh1:Base
+    3300068: PrpChair02_Msh1:Metal
+    3300070: PrpChair02_Msh:Base
+    3300072: PrpChair02_Msh:Metal
+    3300074: PrpNapkinDispenser01_Msh:PrpNapkinDispenser01
+    3300076: PrpPinBoard01_Msh:PrpPinBoard01
+    3300078: PrpPoster01_Msh:Msh
+    3300080: PrpPoster02_Msh:Msh
+    3300082: PrpPushPin01_Msh1:Msh
+    3300084: PrpPushPin01_Msh2:Msh
+    3300086: PrpPushPin01_Msh3:Msh
+    3300088: PrpPushPin01_Msh:Msh
+    3300090: PrpTable01_Msh:Metal
+    3300092: PrpTable01_Msh:TableTop
+    3300094: PrpVendingMachine01_Msh:Box
+    3300096: PrpVendingMachine01_Msh:Door
+    3300098: Base
+    3300100: Base 1
+    3300102: Door
+    3300104: Metal 1
+    3300106: Metal 2
+    3300108: TableTop
+    3300110: Dispenser
+    3300112: Napkin
+    3300114: body
+    3300116: glass
+    3300118: PrpPinBoard01_Msh1
+    3300120: PrpVendingMachine01
+    3300122: RoomCeiling_Msh
+    3300124: RoomFloor_Msh
+    3300126: RoomFourthWall_Msh
+    3300128: RoomThreeWalls_Msh
+    3300130: PrpVendingMachine01_Glass
+    3300132: PrpVendingMachine01_Main
+    3300134: Wall_Back
+    3300136: Msh
+    3300138: Msh 1
+    3300140: Wall_Ceiling
+    3300142: Wall_FourWalls
+    4300000: pCube2
+    4300002: pCube3
+    4300004: pCube4
+    4300006: pCube5
+    4300008: pCube6
+    4300010: polySurface7
+    4300012: pCube1
+    4300014: polySurface11
+    4300016: polySurface12
+    4300018: Room1
+    4300020: a_Mesh
+    4300022: pCube9
+    4300024: BaseBoard
+    4300026: Wall
+    4300028: Pin
+    4300030: Paper
+    4300032: Board
+    4300034: Box
+    4300036: Door1
+    4300038: PrpChair02_Metal
+    4300040: PrpChair02_Seat
+    4300042: Top
+    4300044: Metal
+    4300046: PrpNapkinDispenser01
+    4300048: PrpChair02_Metal
+    4300050: PrpChair02_Seat
+    4300052: PrpPinBoard01
+    4300054: Msh
+    4300056: Msh
+    4300058: Msh
+    4300060: Msh
+    4300062: Msh
+    4300064: Msh
+    4300066: PrpPinBoard01_Msh:PrpPinBoard01
+    4300068: PrpChair02_Msh:Base
+    4300070: PrpChair02_Msh:Metal
+    4300072: PrpChair02_Msh1:Base
+    4300074: PrpChair02_Msh1:Metal
+    4300076: PrpNapkinDispenser01_Msh:PrpNapkinDispenser01
+    4300078: PrpTable01_Msh:Metal
+    4300080: PrpTable01_Msh:TableTop
+    4300082: PrpVendingMachine01_Msh:Box
+    4300084: PrpVendingMachine01_Msh:Door
+    4300086: PrpPoster01_Msh:Msh
+    4300088: PrpPoster02_Msh:Msh
+    4300090: PrpPushPin01_Msh:Msh
+    4300092: PrpPushPin01_Msh1:Msh
+    4300094: PrpPushPin01_Msh2:Msh
+    4300096: PrpPushPin01_Msh3:Msh
+    4300098: Base
+    4300100: Base
+    4300102: Metal
+    4300104: Metal
+    4300106: TableTop
+    4300108: Door
+    4300110: Napkin
+    4300112: Dispenser
+    4300114: body
+    4300116: glass
+    4300118: PrpVendingMachine01
+    4300120: PrpPinBoard01_Msh1
+    4300122: RoomCeiling_Msh
+    4300124: RoomFloor_Msh
+    4300126: RoomThreeWalls_Msh
+    4300128: RoomFourthWall_Msh
+    4300130: PrpVendingMachine01_Glass
+    4300132: PrpVendingMachine01_Main
+    4300134: Wall_Back
+    4300136: Wall_Ceiling
+    4300138: Wall_FourWalls
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
