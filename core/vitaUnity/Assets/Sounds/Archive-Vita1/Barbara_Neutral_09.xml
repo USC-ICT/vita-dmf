@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Barbara_Neutral_09" type="application/ssml+xml" />
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrBarbaraPrefab" stopSaccade="true" name="End" />
+    <face type="FACS" eventName="Event79" au="4" side="both" start="0" end="0.7" amount="0.45" ypos="220" character="ChrBarbaraPrefab" />
+    <head start="0" type="NOD" repeats="0.5" amount="-0.06" track="NOD" ypos="160" id="Nod1" end="0.7" character="ChrBarbaraPrefab"/>
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_WhatSmall" start="0.453125" type="body" duration="1.566667" weight="1" track="BODY" ypos="180" eventName="WhatSmall" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_WhatSmall.skm"/>
+    <head start="0.765625" type="SHAKE" repeats="1" amount="0.03" track="NOD" ypos="200" id="Shake1" end="1.765625" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="Event78" au="2" side="both" start="1.65625" end="2.25625" amount="0.45" ypos="220" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="Event77" au="1" side="both" start="1.65625" end="2.25625" amount="0.45" ypos="240" character="ChrBarbaraPrefab" />
+    <head start="1.65625" type="NOD" repeats="0.5" amount="0.06" track="NOD" ypos="160" id="Nod2" end="2.35625" character="ChrBarbaraPrefab"/>
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="2.773125" type="listen" track="Saccade" ypos="120" duration="1" character="ChrBarbaraPrefab" />
+  </bml>
+</act>

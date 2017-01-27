@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.06" />I
+            <sync id="T1" time="0.2" />
+            <sync id="T2" time="0.2" />see
+            <sync id="T3" time="0.68" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Michelle_Neutral_Acknowledgement_2001" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.06" end="0.06" />
+    <lips viseme="Ah" articulation="1.0" start="0.06" ready="0.06" relax="0.13" end="0.13" />
+    <lips viseme="Ih" articulation="1.0" start="0.13" ready="0.13" relax="0.2" end="0.2" />
+    <lips viseme="Z" articulation="1.0" start="0.2" ready="0.2" relax="0.37" end="0.37" />
+    <lips viseme="Ih" articulation="1.0" start="0.37" ready="0.37" relax="0.68" end="0.68" />
+    <lips viseme="_" articulation="1.0" start="0.68" ready="0.68" relax="0.696063" end="0.696063" />
+    <curves>
+        <curve name="open" num_keys="6" owner="analysis">-0.362667 0 0 0 0.022595 0.5 0 0 0.096667 0.201976 -4.023456 -0.637743 0.182012 0.147548 0 0 0.34586 0.199956 0 0 1.122666 0 0 0</curve>
+        <curve name="wide" num_keys="6" owner="analysis">-0.362667 0 0 0 0.03 0.6 1.528013 2.855857 0.09957 0.798683 0 0 0.181211 0.494488 0 0 0.347809 0.799824 0 0 1.122666 0 0 0</curve>
+        <curve name="tBack" num_keys="3" owner="analysis">-0.372667 0 0 0 0.016925 0.399263 0 0 0.096 0 0 0</curve>
+        <curve name="tRoof" num_keys="4" owner="analysis">0.027333 0 0 0 0.174076 0.390284 0 0 0.303334 0.223464 -1.290606 -0.621884 0.662667 0 0 0</curve>
+        <curve name="Eyebrow Raise" num_keys="3" owner="analysis">-0.729334 0 0 0 0.134213 0.347381 0 0 1.639332 0 0 0</curve>
+    </curves>
+</bml>

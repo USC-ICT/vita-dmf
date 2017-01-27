@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.07" />What
+            <sync id="T1" time="0.46" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Michelle_Hostile_Acknowledgement_2003" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.07" end="0.07" />
+    <lips viseme="W" articulation="1.0" start="0.07" ready="0.07" relax="0.17" end="0.17" />
+    <lips viseme="Ah" articulation="1.0" start="0.17" ready="0.17" relax="0.29" end="0.29" />
+    <lips viseme="D" articulation="1.0" start="0.29" ready="0.29" relax="0.46" end="0.46" />
+    <lips viseme="_" articulation="1.0" start="0.46" ready="0.46" relax="0.568062" end="0.568062" />
+    <curves>
+        <curve name="open" num_keys="4" owner="analysis">0.047333 0 0 0 0.123333 0.462963 6.091622 0.651746 0.256703 0.549886 0 0 0.532667 0 0 0</curve>
+        <curve name="W" num_keys="3" owner="analysis">-0.352667 0 0 0 0.032733 0.85 0 0 0.132667 0 0 0</curve>
+        <curve name="wide" num_keys="3" owner="analysis">0.047333 0 0 0 0.141419 0.6 0 0 0.266 0 0 0</curve>
+        <curve name="tBack" num_keys="3" owner="analysis">0.044 0 0 0 0.13904 0.398696 0 0 0.229333 0 0 0</curve>
+        <curve name="tRoof" num_keys="3" owner="analysis">0.144 0 0 0 0.239792 0.798892 0 0 0.546 0 0 0</curve>
+    </curves>
+</bml>

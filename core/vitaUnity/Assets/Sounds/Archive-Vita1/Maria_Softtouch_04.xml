@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Maria_Softtouch_04" type="application/ssml+xml" />
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_LookRt01" start="0" type="body" duration="2.466667" weight="1" track="BODY" ypos="280" eventName="LookRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_LookRt01.skm"/>
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0.009345796" ypos="280" character="ChrMariaPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_Open01" start="1.841611" type="body" duration="2.533334" weight="1" track="BODY" ypos="260" eventName="Open01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Open01.skm"/>
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="5.659998" type="listen" track="Saccade" ypos="240" duration="1" character="ChrMariaPrefab" />
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_ChopBt01" start="5.273533" type="body" duration="1.666667" weight="1" track="BODY" ypos="220" eventName="ChopBt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_ChopBt01.skm"/>
+  </bml>
+</act>

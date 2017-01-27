@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.11" />Welcome
+            <sync id="T1" time="0.71" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Alex_Softtouch_Opening_2002" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.11" end="0.11" />
+    <lips viseme="W" articulation="1.0" start="0.11" ready="0.11" relax="0.19" end="0.19" />
+    <lips viseme="Eh" articulation="1.0" start="0.19" ready="0.19" relax="0.28" end="0.28" />
+    <lips viseme="L" articulation="1.0" start="0.28" ready="0.28" relax="0.34" end="0.34" />
+    <lips viseme="Kg" articulation="1.0" start="0.34" ready="0.34" relax="0.41" end="0.41" />
+    <lips viseme="Ah" articulation="1.0" start="0.41" ready="0.41" relax="0.5" end="0.5" />
+    <lips viseme="BMP" articulation="1.0" start="0.5" ready="0.5" relax="0.71" end="0.71" />
+    <lips viseme="_" articulation="1.0" start="0.71" ready="0.71" relax="0.746063" end="0.746063" />
+    <curves>
+        <curve name="open" num_keys="5" owner="analysis">0.077333 0 0 0 0.153333 0.490162 6.449506 0.378706 0.310579 0.549713 0 0 0.37 0.453912 -1.612235 -5.972521 0.446 0 0 0</curve>
+        <curve name="W" num_keys="3" owner="analysis">-0.322667 0 0 0 0.067988 0.848433 0 0 0.162667 0 0 0</curve>
+        <curve name="PBM" num_keys="3" owner="analysis">0.327334 0 0 0 0.449525 0.899022 0 0 1.129333 0 0 0</curve>
+        <curve name="wide" num_keys="5" owner="analysis">0.077333 0 0 0 0.163153 0.592355 0 0 0.306086 0.00345 0 0 0.379422 0.372486 0 0 0.446 0 0 0</curve>
+        <curve name="tBack" num_keys="5" owner="analysis">0.077333 0 0 0 0.160452 0.39213 0 0 0.246525 0.006201 0 0 0.319941 0.727733 0 0 0.446 0 0 0</curve>
+        <curve name="tRoof" num_keys="3" owner="analysis">0.160667 0 0 0 0.248529 0.794603 0 0 0.312667 0 0 0</curve>
+    </curves>
+</bml>

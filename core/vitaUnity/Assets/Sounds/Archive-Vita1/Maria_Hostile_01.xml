@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Maria_Hostile_01" type="application/ssml+xml" />
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_BeatLowLf01" start="0" type="body" duration="1.733333" weight="1" track="BODY" ypos="280" eventName="BeatLowLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowLf01.skm"/>
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0.009345959" ypos="260" character="ChrMariaPrefab" stopSaccade="true" name="End" />
+    <head start="0.18" type="NOD" repeats="0.5" amount="0.1" track="NOD" ypos="300" id="Nod1" end="0.65" character="ChrMariaPrefab"/>
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="0.18" end="0.53" amount="0.35" ypos="180" character="ChrMariaPrefab" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.18" end="0.53" amount="0.55" ypos="160" character="ChrMariaPrefab" />
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_ChopBt01" start="1.76" type="body" duration="1.666667" weight="1" track="BODY" ypos="220" eventName="ChopBt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_ChopBt01.skm"/>
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="2.08" end="2.43" amount="0.35" ypos="140" character="ChrMariaPrefab" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="2.1" end="2.45" amount="0.55" ypos="120" character="ChrMariaPrefab" />
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="2.98" type="listen" track="Saccade" ypos="240" duration="1" character="ChrMariaPrefab" />
+  </bml>
+</act>

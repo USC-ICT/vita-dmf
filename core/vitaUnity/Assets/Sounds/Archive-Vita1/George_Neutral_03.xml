@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="George_Neutral_03" type="application/ssml+xml" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="140" character="ChrGeorgePrefab" stopSaccade="true" name="End" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="0" end="0.9999998" amount="0.3" ypos="200" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0" end="0.9999998" amount="0.5" ypos="260" character="ChrGeorgePrefab" />
+    <head start="0" type="NOD" repeats="2" amount="0.05" track="NOD" ypos="280" id="FACNod1" end="1.5" character="ChrGeorgePrefab"/>
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_FrontMedLf01" start="0" type="body" duration="3.466667" weight="1" track="BODY" ypos="300" eventName="AllTapSmLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_FrontMedLf01.skm"/>
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser InnerBrowLowerer" au="4" side="both" start="1.248302" end="2.248302" amount="0.5" ypos="320" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_PointSmLf01" start="3.139998" type="body" duration="1.9" weight="1" track="BODY" ypos="340" eventName="PointSmLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_PointSmLf01.skm"/>
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="3.281882" end="4.281881" amount="0.4" ypos="360" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="3.261883" end="4.261883" amount="0.5" ypos="380" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser InnerBrowLowerer" au="4" side="both" start="4.939999" end="5.939999" amount="0.5" ypos="400" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_RollSmBt03" start="4.740001" type="body" duration="2.133333" weight="1" track="BODY" ypos="220" eventName="RollSmBt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmBt03.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="6.451999" end="7.451999" amount="0.3" ypos="440" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="6.472001" end="7.472001" amount="0.1" ypos="420" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_ShrugSm03" start="6.919997" type="body" duration="3.333333" weight="1" track="BODY" ypos="240" eventName="ShrugSm03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ShrugSm03.skm"/>
+    <head start="7.139999" type="NOD" repeats="3" amount="0.07" track="NOD" ypos="260" id="FACNod2" end="8.639999" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="8.188889" end="9.188889" amount="0.7" ypos="460" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="8.168884" end="9.168884" amount="0.5" ypos="180" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser InnerBrowLowerer" au="4" side="both" start="9.34" end="10.34" amount="0.5" ypos="160" character="ChrGeorgePrefab" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="10.37576" type="listen" track="Saccade" ypos="120" duration="1" character="ChrGeorgePrefab" />
+  </bml>
+</act>

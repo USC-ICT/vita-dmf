@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Michelle_Softtouch_03" type="application/ssml+xml" />
+    <event message="sbm bml char ChrMichellePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="140" character="ChrMichellePrefab" stopSaccade="true" name="End" />
+    <head start="0" type="NOD" repeats="3" amount="0.06" track="NOD" ypos="360" id="Nod1" end="1.5" character="ChrMichellePrefab"/>
+    <sbm:animation character="ChrMichellePrefab" name="ChrMaria@IdleSeated03_Here01" start="0" type="body" duration="4.133334" weight="1" track="BODY" ypos="240" eventName="Here01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Here01.skm"/>
+    <face type="FACS" eventName="FACS01-1 InnerBrowRaiser" au="1" side="both" start="0.2200001" end="0.8200002" amount="0.4" ypos="380" character="ChrMichellePrefab" />
+    <face type="FACS" eventName="FACS02-1 OuterBrowRaiser" au="2" side="both" start="0.2200001" end="0.8200002" amount="0.4" ypos="400" character="ChrMichellePrefab" />
+    <face type="FACS" eventName="FACS04-1 InnerBrowLowerer" au="4" side="both" start="1.04" end="1.64" amount="0.4" ypos="420" character="ChrMichellePrefab" />
+    <head start="2.04" type="SHAKE" repeats="2" amount="0.04" track="NOD" ypos="220" id="Shake" end="3.54" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="FACS01-2 InnerBrowRaiser" au="1" side="both" start="2.320001" end="3.320001" amount="0.5" ypos="460" character="ChrMichellePrefab" />
+    <face type="FACS" eventName="FACS02-2 OuterBrowRaiser" au="2" side="both" start="2.320001" end="3.320001" amount="0.5" ypos="440" character="ChrMichellePrefab" />
+    <sbm:animation character="ChrMichellePrefab" name="ChrMaria@IdleSeated03_WhatSmall" start="4.059999" type="body" duration="1.566667" weight="1" track="BODY" ypos="260" eventName="WhatSmall" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_WhatSmall.skm"/>
+    <face type="FACS" eventName="FACS02-3 OuterBrowRaiser" au="2" side="both" start="4.345625" end="5.345625" amount="0.4" ypos="520" character="ChrMichellePrefab" />
+    <face type="FACS" eventName="FACS01-3 InnerBrowRaiser" au="1" side="both" start="4.345625" end="5.345625" amount="0.4" ypos="500" character="ChrMichellePrefab" />
+    <head start="4.619998" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="280" id="Nod2" end="5.219998" character="ChrMichellePrefab"/>
+    <sbm:animation character="ChrMichellePrefab" name="ChrMaria@IdleSeated03_BeatLowRt03" start="5.603126" type="body" duration="1.666667" weight="1" track="BODY" ypos="160" eventName="BeatLowRt03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowRt03.skm"/>
+    <face type="FACS" eventName="FACS02-4 OuterBrowRaiser" au="2" side="both" start="6.400001" end="7.400001" amount="0.4" ypos="540" character="ChrMichellePrefab" />
+    <face type="FACS" eventName="FACS01-4 InnerBrowRaiser" au="1" side="both" start="6.400001" end="7.400001" amount="0.4" ypos="560" character="ChrMichellePrefab" />
+    <head start="6.280001" type="NOD" repeats="1" amount="0.06" track="NOD" ypos="300" id="Nod3" end="7.08" character="ChrMichellePrefab"/>
+    <sbm:animation character="ChrMichellePrefab" name="ChrMaria@IdleSeated03_DblBeatLowBt01" start="7.420001" type="body" duration="1.8" weight="1" track="BODY" ypos="180" eventName="Contrast02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_DblBeatLowBt01.skm"/>
+    <face type="FACS" eventName="FACS01-4 InnerBrowRaiser" au="1" side="both" start="8.52" end="9.120001" amount="0.4" ypos="320" character="ChrMichellePrefab" />
+    <face type="FACS" eventName="FACS02-4 OuterBrowRaiser" au="2" side="both" start="8.52" end="9.120001" amount="0.4" ypos="340" character="ChrMichellePrefab" />
+    <head start="8.58" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="200" id="Nod4" end="9.18" character="ChrMichellePrefab"/>
+    <event message="sbm bml char ChrMichellePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="9.38" type="listen" track="Saccade" ypos="120" duration="1" character="ChrMichellePrefab" />
+  </bml>
+</act>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0" />Yes
+            <sync id="T1" time="0.496" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Alex_Neutral_Acknowledgement_2005" />
+        </description>
+    </speech>
+    <lips viseme="Eh" articulation="1.0" start="0" ready="0" relax="0.496" end="0.496" />
+    <lips viseme="_" articulation="1.0" start="0.496" ready="0.496" relax="0.496062" end="0.496062" />
+    <curves>
+        <curve name="open" num_keys="3" owner="analysis">-0.422667 0 0 0 -0.024229 0.5 0 0 0.912667 0 0 0</curve>
+        <curve name="wide" num_keys="3" owner="analysis">-0.422667 0 0 0 -0.024229 0.6 0 0 0.912667 0 0 0</curve>
+        <curve name="tBack" num_keys="3" owner="analysis">-0.422667 0 0 0 -0.028256 0.4 0 0 0.462667 0 0 0</curve>
+    </curves>
+</bml>

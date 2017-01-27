@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Alex_Hostile_09" type="application/ssml+xml" />
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrAlexPrefab" stopSaccade="true" name="End" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="0.1256908" end="0.6756907" amount="0.35" ypos="420" character="ChrAlexPrefab" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.1278508" end="0.677851" amount="0.55" ypos="400" character="ChrAlexPrefab" />
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmRt01" start="0.9999997" type="body" duration="2.133333" weight="1" track="BODY" ypos="220" eventName="IdleUpright01_RollSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmRt01.skm"/>
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="2.56667" type="listen" track="Saccade" ypos="100" duration="1" character="ChrAlexPrefab" />
+  </bml>
+</act>

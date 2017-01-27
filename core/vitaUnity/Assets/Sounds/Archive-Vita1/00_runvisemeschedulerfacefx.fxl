@@ -1,0 +1,17 @@
+
+
+// to run:  (note no extension after FxStudio)
+// "C:\Program Files (x86)\FaceFX\FaceFX 2010\FxStudio" -exec ".\example_batch.fxl"
+
+
+print -m "Starting Batch Process"
+
+
+print -m "loadActor"
+loadActor -file "..\..\..\..\tools\VisemeSchedulerFacefx\example.facefx"
+
+print -m "analyze"
+analyze -dir "."
+
+print -m "actorxml export"
+actorxml -file "00_runvisemeschedulerfacefx.xml"

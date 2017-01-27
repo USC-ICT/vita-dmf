@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Maria_Neutral_05" type="application/ssml+xml" />
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0.009345736" ypos="280" character="ChrMariaPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_BeatLowBt02" start="0.9999997" type="body" duration="1.633333" weight="1" track="BODY" ypos="240" eventName="BeatLowBt02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowBt02.skm"/>
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_WhatSmall" start="0.7643311" type="body" duration="1.566667" weight="1" track="BODY" ypos="280" eventName="WhatSmall" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_WhatSmall.skm"/>
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_Us01" start="5.656046" type="body" duration="2.3" weight="1" track="BODY" ypos="200" eventName="Us01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Us01.skm"/>
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_Contrast02" start="7.363052" type="body" duration="2.233333" weight="1" track="BODY" ypos="260" eventName="Contrast02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Contrast02.skm"/>
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="8.389999" type="listen" track="Saccade" ypos="220" duration="1" character="ChrMariaPrefab" />
+  </bml>
+</act>

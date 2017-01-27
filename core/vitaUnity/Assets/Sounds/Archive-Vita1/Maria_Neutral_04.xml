@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Maria_Neutral_04" type="application/ssml+xml" />
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_BeatLowLf03" start="0" type="body" duration="1.966667" weight="1" track="BODY" ypos="240" eventName="BeatLowLf03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowLf03.skm"/>
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0.009345703" ypos="260" character="ChrMariaPrefab" stopSaccade="true" name="End" />
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="1.99" type="listen" track="Saccade" ypos="220" duration="1" character="ChrMariaPrefab" />
+  </bml>
+</act>

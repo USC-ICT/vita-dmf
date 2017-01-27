@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Alex_Neutral_09" type="application/ssml+xml" />
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="140" character="ChrAlexPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_ShrugSm03" start="0.1307236" type="body" duration="3.333333" weight="1" track="BODY" ypos="240" eventName="ShrugSm03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ShrugSm03.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.959427" end="1.959427" amount="0.3" ypos="180" character="ChrAlexPrefab" />
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="1.923628" type="listen" track="Saccade" ypos="120" duration="1" character="ChrAlexPrefab" />
+  </bml>
+</act>

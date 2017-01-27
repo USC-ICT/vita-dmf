@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Barbara_Softtouch_04" type="application/ssml+xml" />
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="180" character="ChrBarbaraPrefab" stopSaccade="true" name="End" />
+    <head start="0" type="SHAKE" repeats="2.5" amount="0.04" track="NOD" ypos="260" id="Shake1" end="1.5" character="ChrBarbaraPrefab"/>
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_TroublingYou01" start="0" type="body" duration="6.3" weight="1" track="BODY" ypos="1260" eventName="TroublingYou01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_TroublingYou01.skm"/>
+    <face type="FACS" eventName="FACS02-1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.002250303" end="0.5022503" amount="0.4" ypos="440" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.002250303" end="0.5022503" amount="0.5" ypos="460" character="ChrBarbaraPrefab" />
+    <gaze character="ChrBarbaraPrefab" id="GazeUpRight" target="CamMain" angle="12" start="0.3000009" duration="1" headspeed="100" eyespeed="200" fadeout="0.25" sbm:joint-range="EYES NECK" sbm:joint-speed="100 200" track="GAZE" ypos="1220" direction="UPRIGHT" sbm:handle="" targetBone="" advanced="true"/>
+    <face type="FACS" eventName="FACS04-1 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="0.5086186" end="1.008618" amount="0.5" ypos="480" character="ChrBarbaraPrefab" />
+    <gaze character="ChrBarbaraPrefab" id="GazeUp" target="CamMain" angle="5" start="1.222402" duration="1" headspeed="100" eyespeed="100" fadeout="0.25" sbm:joint-range="EYES NECK" sbm:joint-speed="100 100" track="GAZE" ypos="1320" direction="UP" sbm:handle="" targetBone="" advanced="true"/>
+    <face type="FACS" eventName="FACS02-2 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="1.421107" end="1.921107" amount="0.3" ypos="400" character="ChrBarbaraPrefab" />
+    <head start="1.702919" type="NOD" repeats="0.5" amount="0.08" track="NOD" ypos="500" id="Nod1" end="2.402919" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS01-2 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="1.421107" end="1.921107" amount="0.4" ypos="420" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS04-2 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="1.898782" end="2.598784" amount="0.4" ypos="520" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-3 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="2.869961" end="3.369961" amount="0.4" ypos="540" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-3 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="2.869961" end="3.369961" amount="0.3" ypos="560" character="ChrBarbaraPrefab" />
+    <head start="2.88298" type="NOD" repeats="0.5" amount="0.07" track="NOD" ypos="580" id="Nod2" end="3.482978" character="ChrBarbaraPrefab"/>
+    <event message="sb scene.command('char ChrBarbaraPrefab gazefade out 1')" character="ChrBarbaraPrefab" stroke="2.975001" name="StopgazeUpRightHEAD" ypos="1240"/>
+    <gaze character="ChrBarbaraPrefab" id="StopgazeUpRightEYES" target="CamMain" angle="0" start="3.27941" duration="1" headspeed="100" eyespeed="100" fadeout="0.25" sbm:joint-range="EYES" sbm:joint-speed="100 100" track="GAZE" ypos="1340" direction="NONE" sbm:handle="" targetBone="" advanced="true"/>
+    <face type="FACS" eventName="FACS04-3 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="3.895639" end="4.595637" amount="0.4" ypos="600" character="ChrBarbaraPrefab" />
+    <head start="3.963508" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="620" id="Nod3" end="4.463508" character="ChrBarbaraPrefab"/>
+    <head start="4.5928" type="NOD" repeats="0.5" amount="0.07" track="NOD" ypos="660" id="Nod4" end="5.1928" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS04-4 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="4.829487" end="5.529486" amount="0.4" ypos="640" character="ChrBarbaraPrefab" />
+    <head start="5.226871" type="SHAKE" repeats="2.5" amount="0.04" track="NOD" ypos="700" id="Shake2" end="6.726871" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS02-4 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="5.579212" end="6.079212" amount="0.3" ypos="360" character="ChrBarbaraPrefab" />
+    <head start="5.574921" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="240" id="Nod5" end="6.074921" character="ChrBarbaraPrefab"/>
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_Here03" start="6.072675" type="body" duration="1.533333" weight="1" track="BODY" ypos="680" eventName="Here03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Here03.skm"/>
+    <face type="FACS" eventName="FACS04-5 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="6.270127" end="6.97013" amount="0.4" ypos="380" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-4 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="5.579212" end="6.079212" amount="0.4" ypos="340" character="ChrBarbaraPrefab" />
+    <head start="6.905032" type="NOD" repeats="0.5" amount="0.07" track="NOD" ypos="720" id="Nod6" end="7.505031" character="ChrBarbaraPrefab"/>
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_BeatLowRt02" start="7.171351" type="body" duration="2.133333" weight="1" track="BODY" ypos="740" eventName="BeatLowRt02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowRt02.skm"/>
+    <gaze character="ChrBarbaraPrefab" id="GazeLeft" target="CamMain" angle="20" start="7.834252" duration="1" headspeed="200" eyespeed="200" fadeout="0.25" sbm:joint-range="EYES NECK" sbm:joint-speed="200 200" track="GAZE" ypos="1280" direction="LEFT" sbm:handle="" targetBone="" advanced="true"/>
+    <face type="FACS" eventName="FACS04-6 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="7.922478" end="8.622478" amount="0.4" ypos="760" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-6 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="8.622022" end="9.122022" amount="0.3" ypos="820" character="ChrBarbaraPrefab" />
+    <event message="sb scene.command('char ChrBarbaraPrefab gazefade out 1')" character="ChrBarbaraPrefab" stroke="8.527056" name="StopgazeLeftHEAD" ypos="1300"/>
+    <head start="8.620601" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="780" id="Nod7" end="9.120601" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS01-6 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="8.625229" end="9.125229" amount="0.4" ypos="800" character="ChrBarbaraPrefab" />
+    <gaze character="ChrBarbaraPrefab" id="StopgazeLeftEYES" target="CamMain" angle="0" start="8.720587" duration="1" headspeed="100" eyespeed="100" fadeout="0.25" sbm:joint-range="EYES" sbm:joint-speed="100 100" track="GAZE" ypos="1320" direction="NONE" sbm:handle="" targetBone="" advanced="true"/>
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_SeatAdjust01" start="8.976659" type="body" duration="2.3" weight="1" track="BODY" ypos="840" eventName="SeatAdjust01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_SeatAdjust01.skm"/>
+    <face type="FACS" eventName="FACS02-7 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="10.32558" end="10.82558" amount="0.3" ypos="920" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-7 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="10.32879" end="10.82879" amount="0.4" ypos="940" character="ChrBarbaraPrefab" />
+    <head start="10.35997" type="NOD" repeats="0.5" amount="0.07" track="NOD" ypos="900" id="Nod8" end="10.95997" character="ChrBarbaraPrefab"/>
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_Open01" start="11.10346" type="body" duration="2.533334" weight="1" track="BODY" ypos="960" eventName="Open01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Open01.skm"/>
+    <face type="FACS" eventName="FACS04-7 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="11.49131" end="12.19131" amount="0.4" ypos="860" character="ChrBarbaraPrefab" />
+    <head start="11.36438" type="SHAKE" repeats="2.5" amount="0.04" track="NOD" ypos="880" id="Shake4" end="12.86438" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS01-8 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="12.78581" end="13.28581" amount="0.4" ypos="1000" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-8 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="12.78581" end="13.28581" amount="0.3" ypos="980" character="ChrBarbaraPrefab" />
+    <head start="12.86996" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="1020" id="Nod9" end="13.36996" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS04-9 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="13.85396" end="14.55396" amount="0.4" ypos="1040" character="ChrBarbaraPrefab" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_Here01" start="13.51723" type="body" duration="4.133334" weight="1" track="BODY" ypos="160" eventName="Here01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Here01.skm"/>
+    <head start="13.94303" type="NOD" repeats="0.5" amount="0.07" track="NOD" ypos="1060" id="Nod10" end="14.54303" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS02-9 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="14.59821" end="15.09821" amount="0.3" ypos="1100" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-9 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="14.59565" end="15.09565" amount="0.4" ypos="1120" character="ChrBarbaraPrefab" />
+    <head start="14.57262" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="1080" id="Nod11" end="15.17262" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS04-10 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="15.53834" end="16.23834" amount="0.4" ypos="1140" character="ChrBarbaraPrefab" />
+    <head start="16.32445" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="1160" id="Nod12" end="16.82445" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS01-10 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="16.52308" end="17.02308" amount="0.4" ypos="1200" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-10 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="16.52564" end="17.02564" amount="0.3" ypos="1180" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS04-11 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="17.50769" end="18.20769" amount="0.4" ypos="280" character="ChrBarbaraPrefab" />
+    <head start="17.33575" type="SHAKE" repeats="2" amount="0.03" track="NOD" ypos="200" id="Shake3" end="18.33575" character="ChrBarbaraPrefab"/>
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_WhatSmall" start="17.44828" type="body" duration="1.566667" weight="1" track="BODY" ypos="140" eventName="WhatSmall" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_WhatSmall.skm"/>
+    <head start="18.34645" type="NOD" repeats="0.5" amount="0.07" track="NOD" ypos="220" id="Nod13" end="18.94646" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS02-11 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="18.46411" end="18.96411" amount="0.3" ypos="320" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-11 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="18.46154" end="18.96154" amount="0.4" ypos="300" character="ChrBarbaraPrefab" />
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="19.30032" type="listen" track="Saccade" ypos="120" duration="1" character="ChrBarbaraPrefab" />
+  </bml>
+</act>

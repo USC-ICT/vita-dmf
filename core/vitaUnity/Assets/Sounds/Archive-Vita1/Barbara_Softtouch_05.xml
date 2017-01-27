@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Barbara_Softtouch_05" type="application/ssml+xml" />
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrBarbaraPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_Me01" start="0" type="body" duration="1.8" weight="1" track="BODY" ypos="140" eventName="Me01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Me01.skm"/>
+    <head start="0.4104081" type="NOD" repeats="0.5" amount="0.08" track="NOD" ypos="200" id="Nod1" end="1.110408" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS01-1" au="1" side="both" start="0.4983345" end="0.9983345" amount="0.5" ypos="340" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-1" au="1" side="both" start="0.4983345" end="0.9983345" amount="0.4" ypos="320" character="ChrBarbaraPrefab" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_BeatLowBt01" start="1.579825" type="body" duration="1.633333" weight="1" track="BODY" ypos="160" eventName="BeatLowBt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowBt01.skm"/>
+    <head start="1.550388" type="SHAKE" repeats="2.5" amount="0.04" track="NOD" ypos="200" id="Shake1" end="3.050388" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS04-1" au="4" side="both" start="1.6026" end="2.1026" amount="0.5" ypos="380" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-2" au="1" side="both" start="2.12772" end="2.62772" amount="0.4" ypos="400" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-2" au="1" side="both" start="2.12772" end="2.62772" amount="0.3" ypos="380" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS04-2" au="4" side="both" start="2.630654" end="3.330654" amount="0.4" ypos="380" character="ChrBarbaraPrefab" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@Idle01_Here02" start="2.96124" type="body" duration="1.733333" weight="1" track="BODY" ypos="140" eventName="Here02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@Idle01_Here02.skm"/>
+    <face type="FACS" eventName="FACS01-3" au="1" side="both" start="3.56815" end="4.06815" amount="0.4" ypos="360" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-3" au="1" side="both" start="3.576571" end="4.076571" amount="0.3" ypos="340" character="ChrBarbaraPrefab" />
+    <head start="3.608289" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="200" id="Nod2" end="4.208289" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS04-3" au="4" side="both" start="4.26962" end="4.96962" amount="0.4" ypos="380" character="ChrBarbaraPrefab" />
+    <head start="4.937757" type="NOD" repeats="0.5" amount="0.07" track="NOD" ypos="200" id="Nod4" end="5.537757" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS02-4" au="1" side="both" start="4.97214" end="5.47214" amount="0.3" ypos="380" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-4" au="1" side="both" start="4.97214" end="5.47214" amount="0.4" ypos="400" character="ChrBarbaraPrefab" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_Contrast01" start="5.498184" type="body" duration="3.3" weight="1" track="BODY" ypos="140" eventName="Contrast01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Contrast01.skm"/>
+    <face type="FACS" eventName="FACS04-4" au="4" side="both" start="5.893996" end="6.593996" amount="0.4" ypos="380" character="ChrBarbaraPrefab" />
+    <head start="5.884063" type="SHAKE" repeats="2.5" amount="0.04" track="NOD" ypos="200" id="Shake2" end="7.384063" character="ChrBarbaraPrefab"/>
+    <head start="6.322012" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="220" id="Nod3" end="6.822012" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS04-5" au="4" side="both" start="7.15779" end="7.65779" amount="0.4" ypos="380" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-6" au="1" side="both" start="7.666086" end="8.166086" amount="0.4" ypos="280" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-6" au="1" side="both" start="7.662873" end="8.162872" amount="0.3" ypos="300" character="ChrBarbaraPrefab" />
+    <head start="7.673667" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="200" id="Nod5" end="8.173668" character="ChrBarbaraPrefab"/>
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="8.643981" type="listen" track="Saccade" ypos="100" duration="1" character="ChrBarbaraPrefab" />
+  </bml>
+</act>

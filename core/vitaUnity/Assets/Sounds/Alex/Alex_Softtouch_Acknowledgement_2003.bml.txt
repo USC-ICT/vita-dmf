@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.12" />Wow
+            <sync id="T1" time="0.48" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Alex_Softtouch_Acknowledgement_2003" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.12" end="0.12" />
+    <lips viseme="W" articulation="1.0" start="0.12" ready="0.12" relax="0.2" end="0.2" />
+    <lips viseme="Ah" articulation="1.0" start="0.2" ready="0.2" relax="0.34" end="0.34" />
+    <lips viseme="W" articulation="1.0" start="0.34" ready="0.34" relax="0.48" end="0.48" />
+    <lips viseme="_" articulation="1.0" start="0.48" ready="0.48" relax="0.576063" end="0.576063" />
+    <curves>
+        <curve name="open" num_keys="5" owner="analysis">0.094 0 0 0 0.177246 0.5 0 0 0.286667 0.407407 -0.846205 -0.438175 0.536667 0.297864 -0.438175 -0.64847 0.996 0 0 0</curve>
+        <curve name="W" num_keys="5" owner="analysis">-0.306 0 0 0 0.079784 0.849824 0 0 0.175262 0 0 0 0.321858 0.549653 0 0 0.996 0 0 0</curve>
+        <curve name="wide" num_keys="3" owner="analysis">0.094 0 0 0 0.174021 0.6 0 0 0.312667 0 0 0</curve>
+        <curve name="tBack" num_keys="3" owner="analysis">0.094 0 0 0 0.174021 0.4 0 0 0.312667 0 0 0</curve>
+        <curve name="Eye Yaw" num_keys="5" owner="analysis">-0.56959 0 0 0 0.200352 -1.599699 0 0 0.760351 -0.452667 0 0 1.035738 -0.798365 0 0 1.915742 0 0 0</curve>
+        <curve name="Head Yaw" num_keys="5" owner="analysis">-0.56959 0 0 0 0.200352 1.599699 0 0 0.760351 0.452667 0 0 1.035738 0.798365 0 0 1.915742 0 0 0</curve>
+        <curve name="Squint" num_keys="3" owner="analysis">-0.552924 0 0 0 0.20415 0.35887 0 0 1.532409 0 0 0</curve>
+    </curves>
+</bml>

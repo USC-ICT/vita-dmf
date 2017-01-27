@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Alex_Softtouch_05" type="application/ssml+xml" />
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0.004949429" ypos="140" character="ChrAlexPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmRt03" start="0.007397509" type="body" duration="2.133333" weight="1" track="BODY" ypos="240" eventName="RollSmRt03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmRt03.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.2589976" end="0.9589978" amount="0.3" ypos="260" character="ChrAlexPrefab" />
+    <head start="1.054893" type="NOD" repeats="1" amount="0.05" track="NOD" ypos="180" id="FACS 133" end="0.7" character="ChrAlexPrefab"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_FrontSmRt01" start="1.943661" type="body" duration="2.133333" weight="1" track="BODY" ypos="220" eventName="FrontSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_FrontSmRt01.skm"/>
+    <face type="FACS" eventName="FACS 45 Blink Blink" au="45" side="both" start="2.258028" end="2.658028" amount="1" ypos="160" character="ChrAlexPrefab" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="2.472553" end="3.172554" amount="0.3" ypos="200" character="ChrAlexPrefab" />
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="4.565633" type="listen" track="Saccade" ypos="120" duration="1" character="ChrAlexPrefab" />
+  </bml>
+</act>

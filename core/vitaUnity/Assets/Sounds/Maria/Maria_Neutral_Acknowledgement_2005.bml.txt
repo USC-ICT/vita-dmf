@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.1" />Yes
+            <sync id="T1" time="0.63" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Maria_Neutral_Acknowledgement_2005" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.1" end="0.1" />
+    <lips viseme="Sh" articulation="1.0" start="0.1" ready="0.1" relax="0.25" end="0.25" />
+    <lips viseme="Eh" articulation="1.0" start="0.25" ready="0.25" relax="0.39" end="0.39" />
+    <lips viseme="Z" articulation="1.0" start="0.39" ready="0.39" relax="0.63" end="0.63" />
+    <lips viseme="_" articulation="1.0" start="0.63" ready="0.63" relax="0.715062" end="0.715062" />
+    <curves>
+        <curve name="open" num_keys="4" owner="analysis">0.077333 0 0 0 0.220931 0.5 0 0 0.353333 0.152305 -2.626048 -0.19627 1.129333 0 0 0</curve>
+        <curve name="W" num_keys="3" owner="analysis">-0.322667 0 0 0 0.063811 0.5 0 0 0.212667 0 0 0</curve>
+        <curve name="ShCh" num_keys="3" owner="analysis">-0.322667 0 0 0 0.063811 0.3 0 0 0.212667 0 0 0</curve>
+        <curve name="wide" num_keys="5" owner="analysis">0.077333 0 0 0 0.22567 0.6 0 0 0.336667 0.507407 -0.83419 -0.488665 0.62 0.368952 -0.488665 -0.724384 1.129333 0 0 0</curve>
+        <curve name="tBack" num_keys="3" owner="analysis">0.077333 0 0 0 0.21945 0.4 0 0 0.362667 0 0 0</curve>
+        <curve name="tRoof" num_keys="5" owner="analysis">-0.322667 0 0 0 0.063811 0.4 0 0 0.21945 0 0 0 0.364821 0.398888 0 0 0.679334 0 0 0</curve>
+    </curves>
+</bml>

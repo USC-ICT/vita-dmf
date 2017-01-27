@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Maria_Announce1" type="application/ssml+xml" />
+    <event message="sbm bml char  &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="560" character="" stopSaccade="true" name="StopSaccades" />
+    <face type="FACS" eventName="Squint" au="7" side="both" start="0.16" end="0.66" amount="0.3" ypos="380" character="" />
+    <face type="FACS" eventName="Inbrowsdown01" au="4" side="both" start="0.16" end="0.66" amount="0.3" ypos="360" character="" />
+    <head start="0.2" type="NOD" repeats="0.5" amount="-0.05" track="NOD" ypos="320" id="NodD01" end="0.7" character=""/>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="George_Neutral_06" type="application/ssml+xml" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrGeorgePrefab" stopSaccade="true" name="End" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0" end="0.8" amount="0.5" ypos="160" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS 2 OutterBrowRaiser" au="2" side="both" start="0" end="0.8000002" amount="0.5" ypos="180" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_EmptyMedBt01" start="0" type="body" duration="2.633333" weight="1" track="BODY" ypos="220" eventName="EmptyMedBt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_EmptyMedBt01.skm"/>
+    <head start="0.3966944" type="NOD" repeats="1" amount="0.08" track="NOD" ypos="340" id="Nod4" end="1" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS 4 InnerBrowLowerer" au="4" side="both" start="1.695122" end="2.495122" amount="0.6" ypos="160" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_ShrugSm01" start="1.780488" type="body" duration="1.166667" weight="1" track="BODY" ypos="200" eventName="ShrugSm01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ShrugSm01.skm"/>
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="3.089512" type="listen" track="Saccade" ypos="120" duration="1" character="ChrGeorgePrefab" />
+  </bml>
+</act>

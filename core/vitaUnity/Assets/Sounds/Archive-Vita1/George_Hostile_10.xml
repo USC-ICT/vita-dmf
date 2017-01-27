@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="George_Hostile_10" type="application/ssml+xml" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="160" character="ChrGeorgePrefab" stopSaccade="true" name="End" />
+    <head start="0" type="SHAKE" repeats="2" amount="0.03" track="NOD" ypos="180" id="Shake1" end="1.3" character="ChrGeorgePrefab"/>
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_IndicateSmRt01" start="0" type="body" duration="2.133333" weight="1" track="BODY" ypos="140" eventName="IndicateRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_IndicateSmRt01.skm"/>
+    <face type="FACS" eventName="FACS02-1 OuterBrowRaiser" au="2" side="both" start="0.003867974" end="0.6038681" amount="0.5" ypos="380" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-1 InnerBrowRaiser" au="1" side="both" start="0.003867974" end="0.6038681" amount="0.5" ypos="400" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS04-1 InnerBrowLowerer" au="4" side="both" start="0.4921169" end="1.092117" amount="0.5" ypos="360" character="ChrGeorgePrefab" />
+    <head start="0.5039433" type="NOD" repeats="0.5" amount="0.09" track="NOD" ypos="240" id="Nod2" end="1.203943" character="ChrGeorgePrefab"/>
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="2.519433" type="listen" track="Saccade" ypos="120" duration="1" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS02-2 OuterBrowRaiser" au="2" side="both" start="1.590965" end="2.190965" amount="0.6" ypos="340" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-2 InnerBrowRaiser" au="1" side="both" start="1.590965" end="2.190965" amount="0.4" ypos="360" character="ChrGeorgePrefab" />
+    <head start="1.59892" type="NOD" repeats="0.5" amount="-0.09" track="NOD" ypos="220" id="Nod3" end="2.09892" character="ChrGeorgePrefab"/>
+  </bml>
+</act>

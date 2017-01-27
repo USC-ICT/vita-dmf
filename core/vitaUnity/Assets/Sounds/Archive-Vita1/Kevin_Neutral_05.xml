@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Kevin_Neutral_05" type="application/ssml+xml" />
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="140" character="ChrKevinPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_CenterSmLf01" start="0" type="body" duration="1.466667" weight="1" track="BODY" ypos="180" eventName="CenterSmLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_CenterSmLf01.skm"/>
+    <face type="FACS" eventName="FACS 4" au="4" side="both" start="0.1225007" end="0.9225007" amount="0.6" ypos="260" character="ChrKevinPrefab" />
+    <head start="0.2500219" type="SHAKE" repeats="1.5" amount="0.04" track="NOD" ypos="200" id="Shake1" end="1.250022" character="ChrKevinPrefab"/>
+    <head start="0.364559" type="NOD" repeats="0.5" amount="0.07" track="NOD" ypos="280" id="Nod3" end="0.864559" character="ChrKevinPrefab"/>
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_ShrugSm01" start="1.289256" type="body" duration="1.166667" weight="1" track="BODY" ypos="220" eventName="ShrugSm01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ShrugSm01.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="1.929384" end="2.429384" amount="0.4" ypos="280" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="1.944252" end="2.444252" amount="0.4" ypos="240" character="ChrKevinPrefab" />
+    <head start="1.928483" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="260" id="Nod2" end="2.428483" character="ChrKevinPrefab"/>
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="2.791624" type="listen" track="Saccade" ypos="100" duration="1" character="ChrKevinPrefab" />
+  </bml>
+</act>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text />
+        <description level="1" type="audio/x-wav">
+            <file ref="Kevin_Neutral_Acknowledgement_2005" />
+        </description>
+    </speech>
+    <lips viseme="Kg" articulation="1.0" start="0" ready="0" relax="0.09" end="0.09" />
+    <lips viseme="Eh" articulation="1.0" start="0.09" ready="0.09" relax="0.24" end="0.24" />
+    <lips viseme="Z" articulation="1.0" start="0.24" ready="0.24" relax="0.48" end="0.48" />
+    <lips viseme="Th" articulation="1.0" start="0.48" ready="0.48" relax="0.51" end="0.51" />
+    <lips viseme="_" articulation="1.0" start="0.51" ready="0.51" relax="0.613063" end="0.613063" />
+    <curves>
+        <curve name="open" num_keys="5" owner="analysis">-0.332667 0 0 0 0.05457 0.5 0 0 0.21406 0.15 0 0 0.443763 0.449318 0 0 0.586 0 0 0</curve>
+        <curve name="wide" num_keys="4" owner="analysis">-0.332667 0 0 0 0.059496 0.6 0 0 0.26 0.443938 -0.778349 -2.304174 0.452667 0 0 0</curve>
+        <curve name="tBack" num_keys="5" owner="analysis">-0.422667 0 0 0 -0.036651 0.8 0 0 0.036667 0.466717 -4.545764 -2.213663 0.103333 0.319139 -2.213663 -2.918956 0.212667 0 0 0</curve>
+        <curve name="tRoof" num_keys="3" owner="analysis">0.060667 0 0 0 0.212049 0.397974 0 0 0.446 0 0 0</curve>
+        <curve name="tTeeth" num_keys="3" owner="analysis">0.210667 0 0 0 0.446779 0.898334 0 0 0.579334 0 0 0</curve>
+    </curves>
+</bml>

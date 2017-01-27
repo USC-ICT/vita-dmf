@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Alex_Hostile_06" type="application/ssml+xml" />
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_ScootSmRt01" start="0.01049629" type="body" duration="2.633333" weight="1" track="BODY" ypos="320" eventName="IdleUpright01_ScootSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ScootSmRt01.skm"/>
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="200" character="ChrAlexPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_ShrugSm02" start="3.007748" type="body" duration="1.466667" weight="1" track="BODY" ypos="260" eventName="IdleUpright01_ShrugSm02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ShrugSm02.skm"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_SingleTapSmRt01" start="4.356588" type="body" duration="2.733334" weight="1" track="BODY" ypos="280" eventName="IdleUpright01_SingleTapSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_SingleTapSmRt01.skm"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_EmptyMedBt02" start="7.379845" type="body" duration="3.4" weight="1" track="BODY" ypos="300" eventName="IdleUpright01_EmptyMedBt02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_EmptyMedBt02.skm"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_DiscardMedLf01" start="10.06202" type="body" duration="1.9" weight="1" track="BODY" ypos="240" eventName="IdleUpright01_DiscardMedLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_DiscardMedLf01.skm"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmLf02" start="11.34885" type="body" duration="3.4" weight="1" track="BODY" ypos="220" eventName="IdleUpright01_RollSmLf02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmLf02.skm"/>
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="14.62963" type="listen" track="Saccade" ypos="120" duration="1" character="ChrAlexPrefab" />
+  </bml>
+</act>

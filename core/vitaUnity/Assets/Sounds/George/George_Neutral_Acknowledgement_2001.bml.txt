@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.12" />I
+            <sync id="T1" time="0.25" />
+            <sync id="T2" time="0.25" />see
+            <sync id="T3" time="0.61" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="George_Neutral_Acknowledgement_2001" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.12" end="0.12" />
+    <lips viseme="Ah" articulation="1.0" start="0.12" ready="0.12" relax="0.185" end="0.185" />
+    <lips viseme="Ih" articulation="1.0" start="0.185" ready="0.185" relax="0.25" end="0.25" />
+    <lips viseme="Z" articulation="1.0" start="0.25" ready="0.25" relax="0.41" end="0.41" />
+    <lips viseme="Ih" articulation="1.0" start="0.41" ready="0.41" relax="0.61" end="0.61" />
+    <lips viseme="_" articulation="1.0" start="0.61" ready="0.61" relax="0.737063" end="0.737063" />
+    <curves>
+        <curve name="open" num_keys="7" owner="analysis">-0.306 0 0 0 0.079959 0.499896 0 0 0.161566 0.200581 0 0 0.164833 0.200932 0 0 0.23902 0.146239 0 0 0.379206 0.199754 0 0 0.712667 0 0 0</curve>
+        <curve name="wide" num_keys="7" owner="analysis">-0.306 0 0 0 0.086667 0.599876 1.527697 2.767358 0.158843 0.799612 0 0 0.238122 0.499298 0 0 0.286667 0.636196 2.820046 1.735449 0.380487 0.799016 0 0 0.712667 0 0 0</curve>
+        <curve name="tBack" num_keys="3" owner="analysis">-0.306 0 0 0 0.079347 0.399917 0 0 0.162667 0 0 0</curve>
+        <curve name="tRoof" num_keys="5" owner="analysis">0.094 0 0 0 0.136667 0.161244 3.779156 2.761359 0.216972 0.382995 0 0 0.353334 0.213678 -1.241677 -0.594652 0.712667 0 0 0</curve>
+        <curve name="Eye Pitch" num_keys="4" owner="analysis">-0.711193 0 0 0 0.0759 -1.991336 0 0 1.709309 0.5951 0 0 2.524139 0 0 0</curve>
+        <curve name="Eyebrow Raise" num_keys="3" owner="analysis">-0.37786 0 0 0 0.414509 0.415878 0 0 1.790806 0 0 0</curve>
+        <curve name="Head Pitch" num_keys="4" owner="analysis">-0.711193 0 0 0 0.0759 1.991336 0 0 1.709309 -0.5951 0 0 2.524139 0 0 0</curve>
+        <curve name="Head Roll" num_keys="3" owner="analysis">0.188807 0 0 0 0.585171 0.310154 0 0 0.82414 0 0 0</curve>
+    </curves>
+</bml>

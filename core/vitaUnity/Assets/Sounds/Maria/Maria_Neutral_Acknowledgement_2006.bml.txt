@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.09" />No
+            <sync id="T1" time="0.47" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Maria_Neutral_Acknowledgement_2006" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.09" end="0.09" />
+    <lips viseme="D" articulation="1.0" start="0.09" ready="0.09" relax="0.2" end="0.2" />
+    <lips viseme="Ow" articulation="1.0" start="0.2" ready="0.2" relax="0.47" end="0.47" />
+    <lips viseme="_" articulation="1.0" start="0.47" ready="0.47" relax="0.549062" end="0.549062" />
+    <curves>
+        <curve name="open" num_keys="3" owner="analysis">-0.222667 0 0 0 0.174956 0.4 0 0 0.962666 0 0 0</curve>
+        <curve name="W" num_keys="3" owner="analysis">-0.222667 0 0 0 0.174956 0.55 0 0 0.962666 0 0 0</curve>
+        <curve name="tRoof" num_keys="3" owner="analysis">-0.339333 0 0 0 0.049762 0.799341 0 0 0.162667 0 0 0</curve>
+    </curves>
+</bml>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.08" />What
+            <sync id="T1" time="0.63" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="George_Hostile_Acknowledgement_2003" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.08" end="0.08" />
+    <lips viseme="W" articulation="1.0" start="0.08" ready="0.08" relax="0.28" end="0.28" />
+    <lips viseme="Aa" articulation="1.0" start="0.28" ready="0.28" relax="0.42" end="0.42" />
+    <lips viseme="D" articulation="1.0" start="0.42" ready="0.42" relax="0.63" end="0.63" />
+    <lips viseme="_" articulation="1.0" start="0.63" ready="0.63" relax="0.729062" end="0.729062" />
+    <curves>
+        <curve name="open" num_keys="5" owner="analysis">0.057333 0 0 0 0.250636 0.55 0 0 0.35 0.403493 -1.47444 -0.392681 0.6 0.305323 -0.392681 -0.580463 1.126 0 0 0</curve>
+        <curve name="W" num_keys="3" owner="analysis">-0.342667 0 0 0 0.045078 0.85 0 0 0.242667 0 0 0</curve>
+        <curve name="tRoof" num_keys="3" owner="analysis">0.244 0 0 0 0.367465 0.797953 0 0 0.696 0 0 0</curve>
+    </curves>
+</bml>

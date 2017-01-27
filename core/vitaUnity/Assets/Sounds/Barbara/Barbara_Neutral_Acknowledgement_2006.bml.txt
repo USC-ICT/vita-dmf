@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.09" />No
+            <sync id="T1" time="0.48" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Barbara_Neutral_Acknowledgement_2006" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.09" end="0.09" />
+    <lips viseme="D" articulation="1.0" start="0.09" ready="0.09" relax="0.18" end="0.18" />
+    <lips viseme="Ow" articulation="1.0" start="0.18" ready="0.18" relax="0.48" end="0.48" />
+    <lips viseme="_" articulation="1.0" start="0.48" ready="0.48" relax="0.649063" end="0.649063" />
+    <curves>
+        <curve name="open" num_keys="3" owner="analysis">-0.242667 0 0 0 0.151299 0.4 0 0 0.626 0 0 0</curve>
+        <curve name="W" num_keys="3" owner="analysis">-0.242667 0 0 0 0.151299 0.55 0 0 0.626 0 0 0</curve>
+        <curve name="tRoof" num_keys="3" owner="analysis">-0.339333 0 0 0 0.048528 0.799341 0 0 0.146 0 0 0</curve>
+    </curves>
+</bml>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.1" />Welcome
+            <sync id="T1" time="0.68" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Barbara_Softtouch_Opening_2002" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.1" end="0.1" />
+    <lips viseme="W" articulation="1.0" start="0.1" ready="0.1" relax="0.16" end="0.16" />
+    <lips viseme="Eh" articulation="1.0" start="0.16" ready="0.16" relax="0.24" end="0.24" />
+    <lips viseme="L" articulation="1.0" start="0.24" ready="0.24" relax="0.35" end="0.35" />
+    <lips viseme="Kg" articulation="1.0" start="0.35" ready="0.35" relax="0.43" end="0.43" />
+    <lips viseme="Ah" articulation="1.0" start="0.43" ready="0.43" relax="0.52" end="0.52" />
+    <lips viseme="BMP" articulation="1.0" start="0.52" ready="0.52" relax="0.68" end="0.68" />
+    <lips viseme="_" articulation="1.0" start="0.68" ready="0.68" relax="0.786062" end="0.786062" />
+    <curves>
+        <curve name="open" num_keys="8" owner="analysis">0.077333 0 0 0 0.136667 0.416132 7.013453 0.751599 0.314778 0.55 0 0 0.403334 0.364831 -2.090997 -7.076177 0.453334 0.011022 -7.076177 -0.568414 0.469535 0.001813 0 0 0.646835 0.225455 0 0 0.762667 0 0 0</curve>
+        <curve name="W" num_keys="3" owner="analysis">-0.322667 0 0 0 0.062855 0.85 0 0 0.179333 0 0 0</curve>
+        <curve name="PBM" num_keys="3" owner="analysis">0.344 0 0 0 0.464204 0.895875 0 0 0.712667 0 0 0</curve>
+        <curve name="wide" num_keys="5" owner="analysis">0.077333 0 0 0 0.139168 0.451964 0 0 0.314761 0 0 0 0.398442 0.382275 0 0 0.462667 0 0 0</curve>
+        <curve name="tBack" num_keys="5" owner="analysis">0.077333 0 0 0 0.132106 0.29645 0 0 0.208599 0.00595 0 0 0.322196 0.8 0 0 0.462667 0 0 0</curve>
+        <curve name="tRoof" num_keys="3" owner="analysis">0.094 0 0 0 0.209907 0.791432 0 0 0.312667 0 0 0</curve>
+    </curves>
+</bml>

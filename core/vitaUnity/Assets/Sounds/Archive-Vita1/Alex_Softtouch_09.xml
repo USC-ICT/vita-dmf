@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Alex_Softtouch_09" type="application/ssml+xml" />
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="140" character="ChrAlexPrefab" stopSaccade="true" name="End" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.01762111" end="1.517621" amount="0.5" ypos="180" character="ChrAlexPrefab" />
+    <head start="0.06167387" type="NOD" repeats="2" amount="0.08" track="NOD" ypos="200" id="Event104" end="2" character="ChrAlexPrefab"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmRt01" start="0.02151324" type="body" duration="2.133333" weight="1" track="BODY" ypos="260" eventName="RollSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmRt01.skm"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmBt03" start="2.403785" type="body" duration="2.133333" weight="1" track="BODY" ypos="220" eventName="RollSmBt03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmBt03.skm"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_SelfMedLf01" start="4.642164" type="body" duration="1.8" weight="1" track="BODY" ypos="240" eventName="SelfMedLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_SelfMedLf01.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="5.330398" end="6.330399" amount="0.4" ypos="160" character="ChrAlexPrefab" />
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="7.861982" type="listen" track="Saccade" ypos="280" duration="1" character="ChrAlexPrefab" />
+  </bml>
+</act>

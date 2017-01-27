@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0" />Good
+            <sync id="T1" time="0.17" />
+            <sync id="T2" time="0.17" />answer
+            <sync id="T3" time="0.75" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Michelle_Softtouch_Acknowledgement_2001" />
+        </description>
+    </speech>
+    <lips viseme="Kg" articulation="1.0" start="0" ready="0" relax="0.08" end="0.08" />
+    <lips viseme="W" articulation="1.0" start="0.08" ready="0.08" relax="0.14" end="0.14" />
+    <lips viseme="D" articulation="1.0" start="0.14" ready="0.14" relax="0.17" end="0.17" />
+    <lips viseme="Ah" articulation="1.0" start="0.17" ready="0.17" relax="0.38" end="0.38" />
+    <lips viseme="D" articulation="1.0" start="0.38" ready="0.38" relax="0.43" end="0.43" />
+    <lips viseme="Z" articulation="1.0" start="0.43" ready="0.43" relax="0.56" end="0.56" />
+    <lips viseme="Er" articulation="1.0" start="0.56" ready="0.56" relax="0.75" end="0.75" />
+    <lips viseme="_" articulation="1.0" start="0.75" ready="0.75" relax="0.760063" end="0.760063" />
+    <curves>
+        <curve name="open" num_keys="6" owner="analysis">-0.342667 0 0 0 0.066667 0.409018 0.99923 1.191375 0.141764 0.498487 0 0 0.396135 0.15 0 0 0.539522 0.399969 0 0 1.176 0 0 0</curve>
+        <curve name="W" num_keys="3" owner="analysis">-0.342667 0 0 0 0.042553 0.55 0 0 0.142667 0 0 0</curve>
+        <curve name="ShCh" num_keys="3" owner="analysis">0.407334 0 0 0 0.54026 0.499961 0 0 1.176 0 0 0</curve>
+        <curve name="wide" num_keys="4" owner="analysis">0.057333 0 0 0 0.154688 0.599568 0 0 0.416667 0.477452 -0.466128 -4.366938 0.526 0 0 0</curve>
+        <curve name="tBack" num_keys="5" owner="analysis">-0.422667 0 0 0 -0.037359 0.8 0 0 0.05882 0.041925 0 0 0.14388 0.398557 0 0 0.346 0 0 0</curve>
+        <curve name="tRoof" num_keys="7" owner="analysis">-0.022667 0 0 0 0.07698 0.439519 0 0 0.144258 0.004012 0 0 0.347444 0.798729 0 0 0.42329 0.393124 0 0 0.527145 0.498877 0 0 0.729333 0 0 0</curve>
+    </curves>
+</bml>

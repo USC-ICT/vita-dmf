@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Dec2809" type="application/ssml+xml" />
+    <face type="FACS" eventName="BrowsUpOutter01  OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="0.06094478" end="0.5609449" amount="0.5" ypos="580" character="ChrMichellePrefab" />
+    <head start="0" type="NOD" repeats="0.5" amount="0.09" track="NOD" ypos="260" id="Nod01" end="0.5" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="BrowsUp01 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.07207076" end="0.5720704" amount="0.5" ypos="280" character="ChrMichellePrefab" />
+    <sbm:animation character="ChrMichellePrefab" name="ChrMaria@IdleSeated03_ChopBt01" start="0.4767439" type="body" duration="1.666667" weight="1" track="BODY" ypos="300" eventName="PlayAnim Chop01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_ChopBt01.skm"/>
+    <event message="sbm bml char ChrMichellePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="600" character="ChrMichellePrefab" stopSaccade="true" name="End" />
+    <head start="0.4854282" type="SHAKE" repeats="1" amount="0.04" track="NOD" ypos="320" id="Shake01" end="1.085428" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="BrowsDown01 InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="1.05317" end="1.453171" amount="0.5" ypos="340" character="ChrMichellePrefab" />
+    <head start="1.081481" type="NOD" repeats="0.5" amount="-0.09" track="NOD" ypos="360" id="Nod02" end="1.581481" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="BrowsUp02 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="2.011126" end="2.511125" amount="0.5" ypos="400" character="ChrMichellePrefab" />
+    <head start="2" type="NOD" repeats="0.5" amount="0.09" track="NOD" ypos="420" id="Nod03" end="2.5" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="BrowsUpOutter02 OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="2" end="2.5" amount="0.5" ypos="380" character="ChrMichellePrefab" />
+    <head start="2.465116" type="SHAKE" repeats="2" amount="0.04" track="NOD" ypos="440" id="Shake02" end="3.465116" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="BrowsDown02 InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="2.646914" end="3.646914" amount="0.5" ypos="460" character="ChrMichellePrefab" />
+    <sbm:animation character="ChrMichellePrefab" name="ChrMaria@IdleSeated03_BeatLowLf02" start="2.709302" type="body" duration="1.833333" weight="1" track="BODY" ypos="480" eventName="PlayAnim BeatLowLf02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowLf02.skm"/>
+    <head start="3.547009" type="NOD" repeats="0.5" amount="-0.09" track="NOD" ypos="500" id="Nod04" end="4.047009" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="BrowsUp03 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="4.70933" end="5.209329" amount="0.5" ypos="540" character="ChrMichellePrefab" />
+    <head start="4.539289" type="SHAKE" repeats="2.5" amount="0.04" track="NOD" ypos="200" id="Shake03" end="6.039289" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="BrowsUpOutter03 OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="4.698204" end="5.198204" amount="0.5" ypos="520" character="ChrMichellePrefab" />
+    <sbm:animation character="ChrMichellePrefab" name="ChrMaria@IdleSeated03_BeatLowBt03" start="5.72093" type="body" duration="1.366667" weight="1" track="BODY" ypos="220" eventName="PlayAnim Interject01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowBt03.skm"/>
+    <face type="FACS" eventName="BrowsDown03 InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="5.866596" end="6.866596" amount="0.5" ypos="560" character="ChrMichellePrefab" />
+    <head start="6.191788" type="NOD" repeats="0.5" amount="-0.09" track="NOD" ypos="580" id="Nod05" end="6.691788" character="ChrMichellePrefab"/>
+    <head start="7.078369" type="SHAKE" repeats="1.5" amount="0.04" track="NOD" ypos="620" id="Shake04" end="7.778368" character="ChrMichellePrefab"/>
+    <sbm:animation character="ChrMichellePrefab" name="ChrMaria@IdleSeated03_BeatLowLf06" start="7.209303" type="body" duration="1.966667" weight="1" track="BODY" ypos="240" eventName="PlayAnim BeatLowLf06" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowLf06.skm"/>
+    <head start="7.85356" type="NOD" repeats="0.5" amount="0.09" track="NOD" ypos="160" id="Nod06" end="8.353561" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="BrowsUp04 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="7.880599" end="8.3806" amount="0.5" ypos="140" character="ChrMichellePrefab" />
+    <face type="FACS" eventName="BrowsUpOutter04 OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="7.883799" end="8.383799" amount="0.5" ypos="120" character="ChrMichellePrefab" />
+    <event message="sbm bml char ChrMichellePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="8.692307" type="listen" track="Saccade" ypos="180" duration="1" character="ChrMichellePrefab" />
+  </bml>
+</act>

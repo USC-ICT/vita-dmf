@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Dec2812" type="application/ssml+xml" />
+    <face type="FACS" eventName="LidTightener01 LidTightener LidTightener" au="7" side="both" start="0" end="1.1" amount="0.7" ypos="160" character="ChrMichellePrefab" />
+    <head start="0" type="NOD" repeats="0.5" amount="-0.09" track="NOD" ypos="180" id="Nod01" end="0.5" character="ChrMichellePrefab"/>
+    <sbm:animation character="ChrMichellePrefab" name="ChrMaria@IdleSeated03_BeatLowBt02" start="0" type="body" duration="1.633333" weight="1" track="BODY" ypos="220" eventName="PlayAnim BeatLowBt02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowBt02.skm"/>
+    <head start="0" type="SHAKE" repeats="1.5" amount="0.07" track="NOD" ypos="200" id="Shake01" end="0.7" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="InnerBrowLowerer01 InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="0" end="0.7" amount="0.8" ypos="120" character="ChrMichellePrefab" />
+    <event message="sbm bml char ChrMichellePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="240" character="ChrMichellePrefab" stopSaccade="true" name="End" />
+    <head start="0.6748158" type="NOD" repeats="0.5" amount="0.09" track="NOD" ypos="240" id="Nod02" end="1.174816" character="ChrMichellePrefab"/>
+    <face type="FACS" eventName="BrowsUpOutter01 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.737299" end="1.237298" amount="0.5" ypos="140" character="ChrMichellePrefab" />
+    <face type="FACS" eventName="BrowsUp01 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.7004113" end="1.20041" amount="0.7" ypos="260" character="ChrMichellePrefab" />
+    <event message="sbm bml char ChrMichellePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="1.269448" type="listen" track="Saccade" ypos="240" duration="1" character="ChrMichellePrefab" />
+  </bml>
+</act>

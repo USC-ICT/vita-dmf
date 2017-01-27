@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.18" />Fine
+            <sync id="T1" time="0.71" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Barbara_Neutral_Acknowledgement_2004" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.18" end="0.18" />
+    <lips viseme="F" articulation="1.0" start="0.18" ready="0.18" relax="0.24" end="0.24" />
+    <lips viseme="Ah" articulation="1.0" start="0.24" ready="0.24" relax="0.39" end="0.39" />
+    <lips viseme="Ih" articulation="1.0" start="0.39" ready="0.39" relax="0.54" end="0.54" />
+    <lips viseme="D" articulation="1.0" start="0.54" ready="0.54" relax="0.71" end="0.71" />
+    <lips viseme="_" articulation="1.0" start="0.71" ready="0.71" relax="0.826063" end="0.826063" />
+    <curves>
+        <curve name="open" num_keys="5" owner="analysis">0.144 0 0 0 0.223472 0.42795 0 0 0.360634 0.20152 0 0 0.511279 0.39885 0 0 0.796 0 0 0</curve>
+        <curve name="FV" num_keys="3" owner="analysis">-0.422667 0 0 0 0.12938 0.749923 0 0 0.229333 0 0 0</curve>
+        <curve name="wide" num_keys="4" owner="analysis">0.144 0 0 0 0.203333 0.505993 8.527978 1.978955 0.351613 0.799431 0 0 0.512667 0 0 0</curve>
+        <curve name="tBack" num_keys="3" owner="analysis">0.127333 0 0 0 0.213153 0.384665 0 0 0.362667 0 0 0</curve>
+        <curve name="tRoof" num_keys="4" owner="analysis">0.210667 0 0 0 0.386667 0.250147 1.421292 4.356235 0.512231 0.797135 0 0 0.796 0 0 0</curve>
+        <curve name="Eye Pitch" num_keys="3" owner="analysis">-0.736 0 0 0 0.244943 -4 0 0 2.182665 0 0 0</curve>
+        <curve name="Head Pitch" num_keys="3" owner="analysis">-0.736 0 0 0 0.244943 4 0 0 2.182665 0 0 0</curve>
+        <curve name="Head Roll" num_keys="3" owner="analysis">0.247333 0 0 0 0.887403 1.274331 0 0 1.332666 0 0 0</curve>
+    </curves>
+</bml>

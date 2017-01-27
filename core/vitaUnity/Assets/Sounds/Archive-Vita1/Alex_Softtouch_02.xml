@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Alex_Softtouch_02" type="application/ssml+xml" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.004950728" end="1.004951" amount="0.3" ypos="160" character="ChrAlexPrefab" />
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrAlexPrefab" stopSaccade="true" name="End" />
+    <head start="0.03465426" type="NOD" repeats="1" amount="0.05" track="NOD" ypos="260" id="Nod1" end="1" character="ChrAlexPrefab"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmBt02" start="0.7481813" type="body" duration="3.466667" weight="1" track="BODY" ypos="220" eventName="RollSmBt02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmBt02.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="1.689288" end="2.689288" amount="0.3" ypos="260" character="ChrAlexPrefab" />
+    <head start="2.668529" type="NOD" repeats="1.5" amount="0.08" track="NOD" ypos="200" id="Nod2" end="2" character="ChrAlexPrefab"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmLf03" start="3.081098" type="body" duration="1.466667" weight="1" track="BODY" ypos="240" eventName="RollSmLf03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmLf03.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="3.24105" end="4.24105" amount="0.3" ypos="140" character="ChrAlexPrefab" />
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="5.754178" type="listen" track="Saccade" ypos="180" duration="1" character="ChrAlexPrefab" />
+  </bml>
+</act>

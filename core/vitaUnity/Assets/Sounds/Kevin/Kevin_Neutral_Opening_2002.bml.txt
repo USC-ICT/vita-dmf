@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.08" />Hi
+            <sync id="T1" time="0.45" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Kevin_Neutral_Opening_2002" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.08" end="0.08" />
+    <lips viseme="H" articulation="1.0" start="0.08" ready="0.08" relax="0.1" end="0.1" />
+    <lips viseme="Ah" articulation="1.0" start="0.1" ready="0.1" relax="0.275" end="0.275" />
+    <lips viseme="Ih" articulation="1.0" start="0.275" ready="0.275" relax="0.45" end="0.45" />
+    <lips viseme="_" articulation="1.0" start="0.45" ready="0.45" relax="0.502062" end="0.502062" />
+    <curves>
+        <curve name="open" num_keys="5" owner="analysis">-0.322667 0 0 0 0.065813 0.5 0 0 0.236667 0.201976 -1.744323 -0.229531 0.47 0.148419 -0.229531 -0.323118 0.929333 0 0 0</curve>
+        <curve name="wide" num_keys="5" owner="analysis">-0.322667 0 0 0 -0.08 0.410156 1.690205 1.147469 0.12 0.63965 1.147469 1.238213 0.24921 0.799639 0 0 0.929333 0 0 0</curve>
+        <curve name="tBack" num_keys="3" owner="analysis">-0.356 0 0 0 0.046289 0.399653 0 0 0.246 0 0 0</curve>
+        <curve name="tRoof" num_keys="3" owner="analysis">0.044 0 0 0 0.245739 0.199212 0 0 0.479334 0 0 0</curve>
+        <curve name="Eye Pitch" num_keys="3" owner="analysis">-0.793949 0 0 0 0.102973 -3.999976 0 0 1.891383 0 0 0</curve>
+        <curve name="Head Pitch" num_keys="3" owner="analysis">-0.793949 0 0 0 0.102973 3.999976 0 0 1.891383 0 0 0</curve>
+    </curves>
+</bml>

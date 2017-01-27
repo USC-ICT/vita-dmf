@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="George_Neutral_05" type="application/ssml+xml" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0" end="1" amount="0.4" ypos="140" character="ChrGeorgePrefab" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrGeorgePrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_ShrugSm02" start="0" type="body" duration="1.466667" weight="1" track="BODY" ypos="200" eventName="ShrugSm02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ShrugSm02.skm"/>
+    <face type="FACS" eventName="FACS 2 OutterBrowRaiser" au="2" side="both" start="0" end="1" amount="0.4" ypos="160" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS 4 InnerBrowLowerer" au="4" side="both" start="1.207317" end="2.207317" amount="0.7" ypos="140" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_RollSmBt02" start="1.47561" type="body" duration="3.466667" weight="1" track="BODY" ypos="200" eventName="RollSmBt02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmBt02.skm"/>
+    <head start="1.914634" type="SHAKE" repeats="3" amount="0.03" track="NOD" ypos="240" id="Shake1" end="3.914634" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS 2 OutterBrowRaiser" au="2" side="both" start="2.878049" end="3.878049" amount="0.3" ypos="160" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="2.878049" end="3.878049" amount="0.5" ypos="140" character="ChrGeorgePrefab" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="4.634852" type="listen" track="Saccade" ypos="120" duration="1" character="ChrGeorgePrefab" />
+  </bml>
+</act>

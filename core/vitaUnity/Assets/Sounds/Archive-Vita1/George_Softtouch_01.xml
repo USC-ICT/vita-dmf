@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="George_Softtouch_01" type="application/ssml+xml" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrGeorgePrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_EmptyMedLf01" start="0" type="body" duration="1.8" weight="1" track="BODY" ypos="140" eventName="EmptyMedLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_EmptyMedLf01.skm"/>
+    <head start="0" type="NOD" repeats="1" amount="0.08" track="NOD" ypos="180" id="Nod" end="0.9653465" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS02-1" au="2" side="both" start="0.16" end="0.66" amount="0.4" ypos="240" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-1" au="1" side="both" start="0.18" end="0.68" amount="0.4" ypos="220" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS02-2" au="2" side="both" start="1.02" end="1.52" amount="0.4" ypos="240" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-2" au="1" side="both" start="1.04" end="1.54" amount="0.4" ypos="220" character="ChrGeorgePrefab" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="1.837041" type="listen" track="Saccade" ypos="120" duration="1" character="ChrGeorgePrefab" />
+  </bml>
+</act>

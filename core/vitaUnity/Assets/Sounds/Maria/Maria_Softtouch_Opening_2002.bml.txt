@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.08" />Welcome
+            <sync id="T1" time="0.87" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Maria_Softtouch_Opening_2002" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.08" end="0.08" />
+    <lips viseme="W" articulation="1.0" start="0.08" ready="0.08" relax="0.19" end="0.19" />
+    <lips viseme="Eh" articulation="1.0" start="0.19" ready="0.19" relax="0.29" end="0.29" />
+    <lips viseme="L" articulation="1.0" start="0.29" ready="0.29" relax="0.37" end="0.37" />
+    <lips viseme="Kg" articulation="1.0" start="0.37" ready="0.37" relax="0.49" end="0.49" />
+    <lips viseme="Ah" articulation="1.0" start="0.49" ready="0.49" relax="0.63" end="0.63" />
+    <lips viseme="BMP" articulation="1.0" start="0.63" ready="0.63" relax="0.87" end="0.87" />
+    <lips viseme="_" articulation="1.0" start="0.87" ready="0.87" relax="0.896312" end="0.896312" />
+    <curves>
+        <curve name="open" num_keys="5" owner="analysis">0.057333 0 0 0 0.15 0.488355 5.270015 0.32833 0.337143 0.549799 0 0 0.483334 0.44205 -0.737045 -4.770329 0.576 0 0 0</curve>
+        <curve name="W" num_keys="3" owner="analysis">-0.342667 0 0 0 0.042927 0.85 0 0 0.159333 0 0 0</curve>
+        <curve name="PBM" num_keys="3" owner="analysis">0.457334 0 0 0 0.579838 0.899076 0 0 1.292666 0 0 0</curve>
+        <curve name="wide" num_keys="5" owner="analysis">0.057333 0 0 0 0.163573 0.597592 0 0 0.337143 0.002408 0 0 0.459659 0.593655 0 0 0.576 0 0 0</curve>
+        <curve name="tBack" num_keys="7" owner="analysis">0.044 0 0 0 0.159301 0.395771 0 0 0.255517 0.005096 0 0 0.343767 0.79595 0 0 0.42 0.503702 -3.833574 -2.442441 0.486667 0.340873 -2.442441 -4.485173 0.562667 0 0 0</curve>
+        <curve name="tRoof" num_keys="3" owner="analysis">0.160667 0 0 0 0.258425 0.789808 0 0 0.346 0 0 0</curve>
+    </curves>
+</bml>

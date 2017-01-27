@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Kevin_Hostile_07" type="application/ssml+xml" />
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="160" character="ChrKevinPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_ScootSmRt01" start="0" type="body" duration="2.633333" weight="1" track="BODY" ypos="180" eventName="ScootSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ScootSmRt01.skm"/>
+    <face type="FACS" eventName="FACS1-1" au="1" side="both" start="0" end="0.7" amount="0.6" ypos="200" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS2-1" au="2" side="both" start="0" end="0.7" amount="0.4" ypos="220" character="ChrKevinPrefab" />
+    <head start="0.1775608" type="NOD" repeats="0.5" amount="-0.06" track="NOD" ypos="280" id="Nod1" end="0.6775608" character="ChrKevinPrefab"/>
+    <head start="2.419981" type="SHAKE" repeats="1.5" amount="0.04" track="NOD" ypos="200" id="Shake1" end="3.169981" character="ChrKevinPrefab"/>
+    <head start="3.182562" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="200" id="Nod3" end="3.682562" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS4-2" au="4" side="both" start="3.206704" end="3.806704" amount="0.6" ypos="260" character="ChrKevinPrefab" />
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_EmptyMedBt01" start="2.343949" type="body" duration="2.633333" weight="1" track="BODY" ypos="160" eventName="EmptyMedBt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_EmptyMedBt01.skm"/>
+    <head start="1.277795" type="NOD" repeats="0.5" amount="0.06" track="NOD" ypos="280" id="Nod2" end="1.777795" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS4-1" au="4" side="both" start="1.262503" end="1.862503" amount="0.6" ypos="220" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS1-2" au="1" side="both" start="3.865308" end="4.565308" amount="0.6" ypos="300" character="ChrKevinPrefab" />
+    <head start="3.778196" type="NOD" repeats="0.5" amount="0.06" track="NOD" ypos="200" id="Nod4" end="4.278196" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS2-2" au="2" side="both" start="3.873117" end="4.573117" amount="0.4" ypos="320" character="ChrKevinPrefab" />
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_ShrugSm03" start="4.802548" type="body" duration="3.333333" weight="1" track="BODY" ypos="140" eventName="ShrugSm03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ShrugSm03.skm"/>
+    <face type="FACS" eventName="FACS4-3" au="4" side="both" start="4.815642" end="6.815642" amount="0.6" ypos="240" character="ChrKevinPrefab" />
+    <head start="4.674226" type="SHAKE" repeats="3" amount="0.04" track="NOD" ypos="220" id="Shake2" end="6.674226" character="ChrKevinPrefab"/>
+    <head start="4.803216" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="280" id="Nod5" end="5.303216" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS1-5" au="1" side="both" start="6.264825" end="6.764825" amount="0.6" ypos="300" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS2-5" au="2" side="both" start="6.265227" end="6.765227" amount="0.4" ypos="320" character="ChrKevinPrefab" />
+    <head start="6.268157" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="280" id="Nod6" end="6.768157" character="ChrKevinPrefab"/>
+    <head start="6.815643" type="SHAKE" repeats="1.5" amount="0.04" track="NOD" ypos="200" id="Shake4" end="7.565643" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS1-3" au="1" side="both" start="7.318436" end="8.018436" amount="0.6" ypos="300" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS2-3" au="2" side="both" start="7.326246" end="8.026246" amount="0.4" ypos="320" character="ChrKevinPrefab" />
+    <head start="7.351955" type="NOD" repeats="0.5" amount="0.06" track="NOD" ypos="280" id="Nod7" end="7.851955" character="ChrKevinPrefab"/>
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="8.044585" type="listen" track="Saccade" ypos="120" duration="1" character="ChrKevinPrefab" />
+  </bml>
+</act>

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Alex_Neutral_07" type="application/ssml+xml" />
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_AllTapSmLf01" start="0.01099532" type="body" duration="1.466667" weight="1" track="BODY" ypos="360" eventName="AllTapSmLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_AllTapSmLf01.skm"/>
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrAlexPrefab" stopSaccade="true" name="End" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.4101332" end="1.310133" amount="0.5" ypos="400" character="ChrAlexPrefab" />
+    <head start="0.3592106" type="NOD" repeats="1" amount="0.08" track="NOD" ypos="520" id="Nod1" end="1" character="ChrAlexPrefab"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_CenterSmLf01" start="1.824433" type="body" duration="1.466667" weight="1" track="BODY" ypos="320" eventName="CenterSmLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_CenterSmLf01.skm"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmRt02" start="2.805282" type="body" duration="2.633333" weight="1" track="BODY" ypos="340" eventName="RollSmRt02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmRt02.skm"/>
+    <head start="3.346062" type="NOD" repeats="1" amount="0.08" track="NOD" ypos="440" id="Nod2" end="0.8" character="ChrAlexPrefab"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="3.553718" end="4.453718" amount="0.5" ypos="200" character="ChrAlexPrefab" />
+    <face type="FACS" eventName="FACS 4 InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="5.160001" end="6.160001" amount="0.4" ypos="420" character="ChrAlexPrefab" />
+    <head start="5.365071" type="NOD" repeats="1" amount="0.08" track="NOD" ypos="460" id="Nod3" end="1.3" character="ChrAlexPrefab"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="6.538735" end="7.438735" amount="0.5" ypos="180" character="ChrAlexPrefab" />
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmBt03" start="6.394918" type="body" duration="2.133333" weight="1" track="BODY" ypos="240" eventName="RollSmBt03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmBt03.skm"/>
+    <head start="8.038103" type="NOD" repeats="1" amount="0.08" track="NOD" ypos="480" id="Nod4" end="1" character="ChrAlexPrefab"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_RollSmRt01" start="8.251033" type="body" duration="2.133333" weight="1" track="BODY" ypos="260" eventName="RollSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmRt01.skm"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_PointSmRt01" start="10.76567" type="body" duration="2.466667" weight="1" track="BODY" ypos="280" eventName="PointSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_PointSmRt01.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="11.46" end="12.36" amount="0.5" ypos="380" character="ChrAlexPrefab" />
+    <head start="11.51202" type="NOD" repeats="1" amount="0.08" track="NOD" ypos="500" id="Nod5" end="1" character="ChrAlexPrefab"/>
+    <sbm:animation character="ChrAlexPrefab" name="ChrAlex@IdleUpright01_ShrugSm02" start="12.65497" type="body" duration="1.466667" weight="1" track="BODY" ypos="300" eventName="ShrugSm02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ShrugSm02.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="13.35463" end="14.25463" amount="0.5" ypos="160" character="ChrAlexPrefab" />
+    <head start="13.43088" type="NOD" repeats="1" amount="0.08" track="NOD" ypos="220" id="Nod6" end="1" character="ChrAlexPrefab"/>
+    <event message="sbm bml char ChrAlexPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="14.83463" type="listen" track="Saccade" ypos="140" duration="1" character="ChrAlexPrefab" />
+  </bml>
+</act>

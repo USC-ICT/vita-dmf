@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Barbara_Neutral_10" type="application/ssml+xml" />
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="180" character="ChrBarbaraPrefab" stopSaccade="true" name="End" />
+    <face type="FACS" eventName="Event77 InnerBrowRaiser" au="1" side="both" start="0" end="0.6" amount="0.3" ypos="240" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="Event78 OuterBrowRaiser" au="2" side="both" start="0" end="0.6" amount="0.45" ypos="260" character="ChrBarbaraPrefab" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_You01" start="0" type="body" duration="1.766667" weight="1" track="BODY" ypos="200" eventName="You01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_You01.skm"/>
+    <head start="0.1874998" type="NOD" repeats="0.5" amount="-0.06" track="NOD" ypos="280" id="Nod1" end="0.8874998" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="Event78 OuterBrowRaiser" au="2" side="both" start="2.062501" end="3.062501" amount="0.45" ypos="140" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="Event77 InnerBrowRaiser" au="1" side="both" start="2.062501" end="3.062501" amount="0.45" ypos="160" character="ChrBarbaraPrefab" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_Me01" start="1.937499" type="body" duration="1.8" weight="1" track="BODY" ypos="220" eventName="Me01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Me01.skm"/>
+    <head start="1.984375" type="NOD" repeats="0.5" amount="0.06" track="NOD" ypos="240" id="Nod2" end="2.684375" character="ChrBarbaraPrefab"/>
+    <head start="3.24" type="NOD" repeats="0.5" amount="-0.06" track="NOD" ypos="240" id="Nod3" end="3.74" character="ChrBarbaraPrefab"/>
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="3.88" type="listen" track="Saccade" ypos="120" duration="1" character="ChrBarbaraPrefab" />
+  </bml>
+</act>

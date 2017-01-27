@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Kevin_Neutral_03" type="application/ssml+xml" />
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="200" character="ChrKevinPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_NodSm01" start="0" type="body" duration="2.133333" weight="1" track="BODY" ypos="360" eventName="NodSm01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_NodSm01.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0" end="1" amount="0.4" ypos="320" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="0" end="1" amount="0.2" ypos="340" character="ChrKevinPrefab" />
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_EmptyMedBt01" start="1.459998" type="body" duration="2.633333" weight="1" track="BODY" ypos="140" eventName="EmptyMedBt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_EmptyMedBt01.skm"/>
+    <face type="FACS" eventName="FACS45 Blink Blink Blink" au="45" side="both" start="1.823528" end="2.823528" amount="1" ypos="380" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="2.212243" end="2.712243" amount="0.1" ypos="400" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="2.222245" end="2.722245" amount="0.3" ypos="420" character="ChrKevinPrefab" />
+    <head start="3.605883" type="NOD" repeats="0.5" amount="-0.05" track="NOD" ypos="460" id="Nod1" end="4.105885" character="ChrKevinPrefab"/>
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_RollSmRt01" start="3.555883" type="body" duration="2.133333" weight="1" track="BODY" ypos="480" eventName="RollSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmRt01.skm"/>
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="4.529409" end="5.029409" amount="0.1" ypos="500" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="4.539415" end="5.039415" amount="0.3" ypos="520" character="ChrKevinPrefab" />
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_SingleTapSmRt01" start="5.119999" type="body" duration="2.733334" weight="1" track="BODY" ypos="160" eventName="SingleTapRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_SingleTapSmRt01.skm"/>
+    <head start="5.088234" type="NOD" repeats="0.5" amount="-0.05" track="NOD" ypos="540" id="Nod2" end="5.588234" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS45-2 Blink Blink Blink" au="45" side="both" start="5.485291" end="5.985291" amount="1" ypos="580" character="ChrKevinPrefab" />
+    <gaze character="ChrKevinPrefab" id="GazeDownLeft" target="CamMain" angle="15" start="5.544115" duration="1" headspeed="150" eyespeed="150" fadeout="0.25" sbm:joint-range="HEAD EYES" sbm:joint-speed="150 150" track="GAZE" ypos="280" direction="DOWNLEFT" sbm:handle="" targetBone="" advanced="true"/>
+    <head start="6.10294" type="NOD" repeats="0.5" amount="-0.05" track="NOD" ypos="560" id="Nod3" end="6.60294" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS 4 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="6.125881" end="6.625881" amount="0.3" ypos="600" character="ChrKevinPrefab" />
+    <event message="sb scene.command('char ChrKevinPrefab gazefade out 0.75')" character="ChrKevinPrefab" stroke="7.04" name="StopGaze" ypos="320"/>
+    <face type="FACS" eventName="FACS45-3 Blink Blink Blink" au="45" side="both" start="6.720589" end="7.220589" amount="1" ypos="640" character="ChrKevinPrefab" />
+    <gaze character="ChrKevinPrefab" id="GazeEyes" target="CamMain" angle="0" start="7.327065" duration="1" headspeed="100" eyespeed="100" fadeout="0.75" sbm:joint-range="EYES" sbm:joint-speed="100 100" track="GAZE" ypos="300" direction="NONE" sbm:handle="" targetBone="" advanced="true"/>
+    <head start="7.165297" type="SHAKE" repeats="1.5" amount="0.04" track="NOD" ypos="620" id="Shake1" end="8.165296" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS 4 InnerBrowLowerer InnerBrowLowerer InnerBrowLowerer" au="4" side="both" start="8.102943" end="8.602943" amount="0.3" ypos="220" character="ChrKevinPrefab" />
+    <head start="8.132352" type="NOD" repeats="0.5" amount="-0.05" track="NOD" ypos="260" id="Nod4" end="8.632352" character="ChrKevinPrefab"/>
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_RollSmBt03" start="8.259998" type="body" duration="2.133333" weight="1" track="BODY" ypos="180" eventName="RollSmBt03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmBt03.skm"/>
+    <head start="9.558819" type="NOD" repeats="0.5" amount="0.07" track="NOD" ypos="240" id="Nod5" end="10.15882" character="ChrKevinPrefab"/>
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="10.45576" type="listen" track="Saccade" ypos="120" duration="1" character="ChrKevinPrefab" />
+  </bml>
+</act>

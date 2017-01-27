@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Barbara_Hostile_05" type="application/ssml+xml" />
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="180" character="ChrBarbaraPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@Idle01_Here02" start="0" type="body" duration="1.733333" weight="1" track="BODY" ypos="200" eventName="Interject01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@Idle01_Here02.skm"/>
+    <face type="FACS" eventName="FACS04-1 InnerBrowLowerer" au="4" side="both" start="0.4543193" end="0.9543192" amount="0.5" ypos="440" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-1 InnerBrowRaiser" au="1" side="both" start="1.396628" end="1.896628" amount="0.5" ypos="460" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-1 OuterBrowRaiser" au="2" side="both" start="1.396931" end="1.896931" amount="0.5" ypos="480" character="ChrBarbaraPrefab" />
+    <head start="1.708931" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="280" id="Nod1" end="2.20893" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS04-1 InnerBrowLowerer" au="4" side="both" start="1.903482" end="2.703482" amount="0.5" ypos="300" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS04-2 InnerBrowLowerer" au="4" side="both" start="3.05656" end="3.656559" amount="0.5" ypos="400" character="ChrBarbaraPrefab" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_BeatLowRt01" start="2.672362" type="body" duration="2.133333" weight="1" track="BODY" ypos="160" eventName="BeatLowRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowRt01.skm"/>
+    <face type="FACS" eventName="FACS02-2 OuterBrowRaiser" au="2" side="both" start="2.602813" end="3.102813" amount="0.5" ypos="500" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS01-2 InnerBrowRaiser" au="1" side="both" start="2.602813" end="3.102813" amount="0.5" ypos="380" character="ChrBarbaraPrefab" />
+    <head start="2.606924" type="SHAKE" repeats="2" amount="0.04" track="NOD" ypos="220" id="Shake1" end="3.606924" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS01-2 InnerBrowRaiser" au="1" side="both" start="3.640437" end="4.140437" amount="0.4" ypos="340" character="ChrBarbaraPrefab" />
+    <head start="3.640776" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="220" id="Nod2" end="4.140776" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS02-2 OuterBrowRaiser" au="2" side="both" start="3.641007" end="4.141007" amount="0.3" ypos="320" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS04-2 InnerBrowLowerer" au="4" side="both" start="4.404569" end="5.004569" amount="0.5" ypos="360" character="ChrBarbaraPrefab" />
+    <sbm:animation character="ChrBarbaraPrefab" name="ChrMaria@IdleSeated03_WhatSmall" start="4.705113" type="body" duration="1.566667" weight="1" track="BODY" ypos="140" eventName="WhatSmall" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_WhatSmall.skm"/>
+    <head start="4.999039" type="NOD" repeats="0.5" amount="0.08" track="NOD" ypos="240" id="Nod3" end="5.699039" character="ChrBarbaraPrefab"/>
+    <face type="FACS" eventName="FACS01-2 InnerBrowRaiser" au="1" side="both" start="5.023549" end="5.523549" amount="0.5" ypos="420" character="ChrBarbaraPrefab" />
+    <face type="FACS" eventName="FACS02-2 OuterBrowRaiser" au="2" side="both" start="5.023549" end="5.523549" amount="0.5" ypos="440" character="ChrBarbaraPrefab" />
+    <event message="sbm bml char ChrBarbaraPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="5.768632" type="listen" track="Saccade" ypos="120" duration="1" character="ChrBarbaraPrefab" />
+  </bml>
+</act>

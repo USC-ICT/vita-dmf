@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Kevin_Neutral_11" type="application/ssml+xml" />
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="140" character="ChrKevinPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_FrontSmRt01" start="0" type="body" duration="2.133333" weight="1" track="BODY" ypos="160" eventName="FrontSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_FrontSmRt01.skm"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0.2086086" end="0.7086086" amount="0.4" ypos="220" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="0.2086086" end="0.7086089" amount="0.4" ypos="260" character="ChrKevinPrefab" />
+    <head start="0.4372034" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="280" id="Nod2" end="0.9372034" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS 4 InnerBrowLowerer" au="4" side="both" start="0.7218659" end="1.521866" amount="0.6" ypos="240" character="ChrKevinPrefab" />
+    <head start="0.8612954" type="SHAKE" repeats="1.5" amount="0.03" track="NOD" ypos="300" id="Shake1" end="1.861295" character="ChrKevinPrefab"/>
+    <head start="1.721509" type="NOD" repeats="0.5" amount="0.08" track="NOD" ypos="280" id="Nod4" end="2.421509" character="ChrKevinPrefab"/>
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="1.836962" end="2.336962" amount="0.4" ypos="240" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="1.829745" end="2.329746" amount="0.4" ypos="260" character="ChrKevinPrefab" />
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="2.429156" type="listen" track="Saccade" ypos="120" duration="1" character="ChrKevinPrefab" />
+  </bml>
+</act>

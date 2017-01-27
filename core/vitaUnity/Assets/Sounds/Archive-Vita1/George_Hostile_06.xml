@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="George_Hostile_06" type="application/ssml+xml" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrGeorgePrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_DiscardMedLf01" start="0" type="body" duration="1.9" weight="1" track="BODY" ypos="140" eventName="DiscardMedLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_DiscardMedLf01.skm"/>
+    <face type="FACS" eventName="FACS04-1" au="4" side="both" start="0.09824721" end="0.6982473" amount="0.5" ypos="380" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-1" au="1" side="both" start="0.6976531" end="1.297653" amount="0.5" ypos="360" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS02-1" au="2" side="both" start="0.6976531" end="1.297653" amount="0.5" ypos="340" character="ChrGeorgePrefab" />
+    <head start="0.7515923" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="220" id="Nod4" end="1.251592" character="ChrGeorgePrefab"/>
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_ShrugSm03" start="1.430646" type="body" duration="3.333333" weight="1" track="BODY" ypos="160" eventName="ShrugSm03" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_ShrugSm03.skm"/>
+    <face type="FACS" eventName="FACS01-2" au="1" side="both" start="1.872404" end="2.472404" amount="0.4" ypos="360" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS02-2" au="2" side="both" start="1.872404" end="2.472404" amount="0.6" ypos="340" character="ChrGeorgePrefab" />
+    <head start="1.832019" type="NOD" repeats="0.5" amount="0.1" track="NOD" ypos="220" id="Nod1" end="2.632019" character="ChrGeorgePrefab"/>
+    <head start="2.476089" type="SHAKE" repeats="2" amount="0.04" track="NOD" ypos="200" id="Shake1" end="3.776089" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS04-2" au="4" side="both" start="2.5141" end="3.1141" amount="0.5" ypos="380" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS02-3" au="2" side="both" start="3.104934" end="3.704934" amount="0.5" ypos="340" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-3" au="1" side="both" start="3.109392" end="3.709392" amount="0.5" ypos="360" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS04-5" au="4" side="both" start="3.69434" end="4.29434" amount="0.5" ypos="380" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_FrontSmRt01" start="4.496816" type="body" duration="2.133333" weight="1" track="BODY" ypos="140" eventName="FrontSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_FrontSmRt01.skm"/>
+    <face type="FACS" eventName="FACS02-5" au="2" side="both" start="4.465864" end="5.065864" amount="0.5" ypos="340" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-5" au="1" side="both" start="4.461394" end="5.061394" amount="0.4" ypos="360" character="ChrGeorgePrefab" />
+    <head start="3.720181" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="220" id="Nod2" end="4.220181" character="ChrGeorgePrefab"/>
+    <head start="5.160181" type="NOD" repeats="0.5" amount="-0.07" track="NOD" ypos="220" id="Nod3" end="5.660181" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS02-6" au="2" side="both" start="5.108619" end="5.708619" amount="0.5" ypos="360" character="ChrGeorgePrefab" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="5.866242" type="listen" track="Saccade" ypos="100" duration="1" character="ChrGeorgePrefab" />
+  </bml>
+</act>

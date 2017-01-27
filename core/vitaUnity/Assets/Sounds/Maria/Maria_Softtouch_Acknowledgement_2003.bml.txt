@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<bml>
+    <speech id="sp1" start="0.0" ready="0.1" stroke="0.1" relax="0.2" end="0.2">
+        <text>
+            <sync id="T0" time="0.08" />Wow
+            <sync id="T1" time="0.69" />
+        </text>
+        <description level="1" type="audio/x-wav">
+            <file ref="Maria_Softtouch_Acknowledgement_2003" />
+        </description>
+    </speech>
+    <lips viseme="_" articulation="1.0" start="0" ready="0" relax="0.08" end="0.08" />
+    <lips viseme="W" articulation="1.0" start="0.08" ready="0.08" relax="0.17" end="0.17" />
+    <lips viseme="Ah" articulation="1.0" start="0.17" ready="0.17" relax="0.43" end="0.43" />
+    <lips viseme="W" articulation="1.0" start="0.43" ready="0.43" relax="0.69" end="0.69" />
+    <lips viseme="_" articulation="1.0" start="0.69" ready="0.69" relax="0.801063" end="0.801063" />
+    <curves>
+        <curve name="open" num_keys="4" owner="analysis">0.057333 0 0 0 0.154111 0.499568 0 0 0.483334 0.348538 -0.458747 -1.190905 0.776 0 0 0</curve>
+        <curve name="W" num_keys="5" owner="analysis">-0.342667 0 0 0 0.042553 0.85 0 0 0.149032 0.002378 0 0 0.402796 0.55 0 0 0.776 0 0 0</curve>
+        <curve name="wide" num_keys="3" owner="analysis">0.057333 0 0 0 0.146852 0.597406 0 0 0.392667 0 0 0</curve>
+        <curve name="tBack" num_keys="3" owner="analysis">0.044 0 0 0 0.144522 0.398395 0 0 0.396 0 0 0</curve>
+    </curves>
+</bml>

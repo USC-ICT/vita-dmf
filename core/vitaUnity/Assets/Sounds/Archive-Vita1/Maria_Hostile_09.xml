@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Maria_Hostile_09" type="application/ssml+xml" />
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0.00934615" ypos="320" character="ChrMariaPrefab" stopSaccade="true" name="End" />
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_Me01" start="0" type="body" duration="1.8" weight="1" ready="0.35" strokestart="0.55"
+                                    emphasis="0.65" stroke="0.75" relax="0.85" end="1.8" track="BODY" ypos="300" eventName="WhatSmall" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_Me01.skm"/>
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_BeatLowBt01" start="0.9999997" type="body" duration="1.633333" weight="1" ready="1.3" strokestart="1.5"
+                                    emphasis="1.7" stroke="1.9" relax="2.2" end="2.633333" track="BODY" ypos="240" eventName="BeatLowbt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_BeatLowBt01.skm"/>
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_WhatSmall" start="2.743958" type="body" duration="1.566667" weight="1" track="BODY" ypos="260" eventName="WhatSmall" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_WhatSmall.skm"/>
+    <sbm:animation character="ChrMariaPrefab" name="ChrMaria@IdleSeated03_DblBeatLowBt01" start="5.043477" type="body" duration="1.8" weight="1" track="BODY" ypos="280" eventName="DblBeatLowBt02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrMaria/motion/ChrMaria@IdleSeated03_DblBeatLowBt01.skm"/>
+    <event message="sbm bml char ChrMariaPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="7.400001" type="listen" track="Saccade" ypos="220" duration="1" character="ChrMariaPrefab" />
+  </bml>
+</act>

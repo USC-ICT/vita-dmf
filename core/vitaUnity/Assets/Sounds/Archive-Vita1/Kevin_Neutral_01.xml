@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="Kevin_Neutral_01" type="application/ssml+xml" />
+    <face type="FACS" eventName="FACS 1 InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser InnerBrowRaiser" au="1" side="both" start="0" end="1" amount="0.5" ypos="140" character="ChrKevinPrefab" />
+    <face type="FACS" eventName="FACS 2 OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser OuterBrowRaiser" au="2" side="both" start="0" end="1" amount="0.25" ypos="160" character="ChrKevinPrefab" />
+    <sbm:animation character="ChrKevinPrefab" name="ChrAlex@IdleUpright01_EmptyMedLf01" start="0" type="body" duration="1.8" weight="1" track="BODY" ypos="240" eventName="EmptyMedLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_EmptyMedLf01.skm"/>
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="220" character="ChrKevinPrefab" stopSaccade="true" name="End" />
+    <head start="0.1213592" type="NOD" repeats="0.5" amount="-0.05" track="NOD" ypos="200" id="Nod1" end="0.5213592" character="ChrKevinPrefab"/>
+    <head start="0.8261147" type="NOD" repeats="0.5" amount="0.05" track="NOD" ypos="200" id="Nod2" end="1.226115" character="ChrKevinPrefab"/>
+    <event message="sbm bml char ChrKevinPrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="1.605744" type="listen" track="Saccade" ypos="120" duration="1" character="ChrKevinPrefab" />
+  </bml>
+</act>

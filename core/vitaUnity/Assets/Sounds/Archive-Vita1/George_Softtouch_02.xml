@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<act>
+  <bml xmlns:sbm="http://sourceforge.net/apps/mediawiki/smartbody/index.php?title=SmartBody_BML">
+  <speech id="visSeq_3" ref="George_Softtouch_02" type="application/ssml+xml" />
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade finish=&quot;true&quot; /&gt;" stroke="0" ypos="120" character="ChrGeorgePrefab" stopSaccade="true" name="End" />
+    <head start="0" type="SHAKE" repeats="1.5" amount="0.03" track="NOD" ypos="180" id="Shake1" end="1" character="ChrGeorgePrefab"/>
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_FrontMedLf01" start="0" type="body" duration="3.466667" weight="1" track="BODY" ypos="140" eventName="FrontMeLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_FrontMedLf01.skm"/>
+    <face type="FACS" eventName="FACS02-1" au="2" side="both" start="0" end="0.5" amount="0.4" ypos="260" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-1" au="1" side="both" start="0" end="0.5" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS04-1" au="4" side="both" start="0.7016129" end="1.201613" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <head start="1.823082" type="NOD" repeats="0.5" amount="-0.08" track="NOD" ypos="220" id="Nod1" end="2.423082" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS01-1" au="1" side="both" start="1.822581" end="2.322581" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS02-1" au="2" side="both" start="1.822581" end="2.322581" amount="0.4" ypos="260" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS04-1" au="4" side="both" start="2.459677" end="2.959677" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-2" au="1" side="both" start="3.022409" end="3.522409" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <head start="3.111851" type="NOD" repeats="3" amount="-0.05" track="NOD" ypos="220" id="Nod2" end="5.111852" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS02-2" au="2" side="both" start="3.022409" end="3.522409" amount="0.4" ypos="260" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS04-2" au="4" side="both" start="4.123215" end="4.623215" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_RollSmRt02" start="4.080001" type="body" duration="2.633333" weight="1" track="BODY" ypos="140" eventName="RollSmRt02" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_RollSmRt02.skm"/>
+    <face type="FACS" eventName="FACS01-3" au="1" side="both" start="4.90982" end="5.40982" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS02-3" au="2" side="both" start="4.90982" end="5.40982" amount="0.4" ypos="260" character="ChrGeorgePrefab" />
+    <head start="5.727843" type="NOD" repeats="0.5" amount="-0.08" track="NOD" ypos="220" id="Nod3" end="6.327844" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS04-3" au="4" side="both" start="5.723807" end="6.223807" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_PointSmLf01" start="7.02" type="body" duration="1.9" weight="1" track="BODY" ypos="140" eventName="PointSmLf01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_PointSmLf01.skm"/>
+    <face type="FACS" eventName="FACS01-4" au="1" side="both" start="7.07918" end="7.57918" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS02-4" au="2" side="both" start="7.07918" end="7.57918" amount="0.4" ypos="260" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS04-4" au="4" side="both" start="7.700146" end="8.200146" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <head start="8.549342" type="NOD" repeats="0.5" amount="-0.08" track="NOD" ypos="220" id="Nod4" end="9.149343" character="ChrGeorgePrefab"/>
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_EmptyMedBt01" start="9.160002" type="body" duration="2.633333" weight="1" track="BODY" ypos="140" eventName="EmptyMedBt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_EmptyMedBt01.skm"/>
+    <face type="FACS" eventName="FACS02-5" au="2" side="both" start="8.555301" end="9.055301" amount="0.4" ypos="260" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-5" au="1" side="both" start="8.555301" end="9.055301" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS04-5" au="4" side="both" start="9.816867" end="10.31687" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <head start="10.00672" type="SHAKE" repeats="2" amount="0.04" track="NOD" ypos="180" id="Shake2" end="11.50672" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS02-6" au="2" side="both" start="10.85881" end="11.35881" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-6" au="1" side="both" start="10.85881" end="11.35881" amount="0.4" ypos="300" character="ChrGeorgePrefab" />
+    <head start="10.86409" type="NOD" repeats="0.5" amount="-0.08" track="NOD" ypos="220" id="Nod5" end="11.46409" character="ChrGeorgePrefab"/>
+    <face type="FACS" eventName="FACS04-6" au="4" side="both" start="11.52413" end="12.02413" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <sbm:animation character="ChrGeorgePrefab" name="ChrAlex@IdleUpright01_IndicateSmRt01" start="11.82" type="body" duration="2.133333" weight="1" track="BODY" ypos="140" eventName="IndicateSmRt01" assetPath="Assets/StreamingAssets/Art/Characters/SB/ChrAlex/motion/ChrAlex@IdleUpright01_IndicateSmRt01.skm"/>
+    <face type="FACS" eventName="FACS04-7" au="4" side="both" start="12.70134" end="13.20134" amount="0.4" ypos="300" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS01-7" au="1" side="both" start="13.3188" end="13.8188" amount="0.4" ypos="280" character="ChrGeorgePrefab" />
+    <face type="FACS" eventName="FACS02-7" au="2" side="both" start="13.3188" end="13.8188" amount="0.4" ypos="260" character="ChrGeorgePrefab" />
+    <head start="13.31162" type="NOD" repeats="0.5" amount="-0.08" track="NOD" ypos="220" id="Nod6" end="13.91162" character="ChrGeorgePrefab"/>
+    <event message="sbm bml char ChrGeorgePrefab &lt;saccade mode=&quot;listen&quot; finish=&quot;False&quot; sbm:duration=&quot;1&quot; /&gt;" stroke="14.25418" type="listen" track="Saccade" ypos="120" duration="1" character="ChrGeorgePrefab" />
+  </bml>
+</act>
