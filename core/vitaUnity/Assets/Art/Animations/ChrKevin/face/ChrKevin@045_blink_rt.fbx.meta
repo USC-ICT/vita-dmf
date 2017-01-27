@@ -1,0 +1,2074 @@
+fileFormatVersion: 2
+guid: 3fbe19d46bd33034e93dac60ed4d4fdb
+timeCreated: 1476488833
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _IctSettings_
+    100002: AnmDef_045_blink_rt
+    100004: AnmDefGlobalSettings
+    100006: CharacterRoot
+    100008: ChrDefSettings
+    100010: //RootNode
+    100012: JtAnkleLf
+    100014: JtAnkleRt
+    100016: JtBallLf
+    100018: JtBallRt
+    100020: JtCheekLowerJawRotLf
+    100022: JtCheekLowerJawRotRt
+    100024: JtCheekLowerLf
+    100026: JtCheekLowerRt
+    100028: JtCheekUpperLf
+    100030: JtCheekUpperRt
+    100032: JtChest
+    100034: JtClavicleLf
+    100036: JtClavicleRt
+    100038: JtEarLf
+    100040: JtEarRt
+    100042: JtElbowLf
+    100044: JtElbowRt
+    100046: JtEyebrow01Lf
+    100048: JtEyebrow01Rt
+    100050: JtEyebrow02Lf
+    100052: JtEyebrow02Rt
+    100054: JtEyebrow03Lf
+    100056: JtEyebrow03Rt
+    100058: JtEyebrow04Lf
+    100060: JtEyebrow04Rt
+    100062: JtEyebrowParentLf
+    100064: JtEyebrowParentRt
+    100066: JtEyeLeafLf
+    100068: JtEyeLeafRt
+    100070: JtEyeLf
+    100072: JtEyelidLowerLf
+    100074: JtEyelidLowerRt
+    100076: JtEyelidLowerSecondaryLf
+    100078: JtEyelidLowerSecondaryRt
+    100080: JtEyelidLowerSoftLf
+    100082: JtEyelidLowerSoftRt
+    100084: JtEyelidUpperLf
+    100086: JtEyelidUpperRt
+    100088: JtEyelidUpperSecondaryLf
+    100090: JtEyelidUpperSecondaryRt
+    100092: JtEyelidUpperSoftLf
+    100094: JtEyelidUpperSoftRt
+    100096: JtEyeRt
+    100098: JtForeArmTwistALf
+    100100: JtForeArmTwistARt
+    100102: JtForeArmTwistBLf
+    100104: JtForeArmTwistBRt
+    100106: JtHead
+    100108: JtHeadLeaf
+    100110: JtHeelLf
+    100112: JtHeelRt
+    100114: JtHipLf
+    100116: JtHipRt
+    100118: JtIndexALf
+    100120: JtIndexARt
+    100122: JtIndexBLf
+    100124: JtIndexBRt
+    100126: JtIndexCLf
+    100128: JtIndexCRt
+    100130: JtIndexDLf
+    100132: JtIndexDRt
+    100134: JtJaw
+    100136: JtJawLeaf
+    100138: JtKneeLf
+    100140: JtKneeRt
+    100142: JtLipCornerJawRotLf
+    100144: JtLipCornerJawRotRt
+    100146: JtLipCornerLf
+    100148: JtLipCornerRt
+    100150: JtLipLower01JawRotLf
+    100152: JtLipLower01JawRotRt
+    100154: JtLipLower01Lf
+    100156: JtLipLower01Rt
+    100158: JtLipLower02JawRotLf
+    100160: JtLipLower02JawRotRt
+    100162: JtLipLower02Lf
+    100164: JtLipLower02Rt
+    100166: JtLipLower03JawRotLf
+    100168: JtLipLower03JawRotRt
+    100170: JtLipLower03Lf
+    100172: JtLipLower03Rt
+    100174: JtLipLowerMid
+    100176: JtLipLowerMidJawRot
+    100178: JtLipRoot
+    100180: JtLipUpper01JawRotLf
+    100182: JtLipUpper01JawRotRt
+    100184: JtLipUpper01Lf
+    100186: JtLipUpper01Rt
+    100188: JtLipUpper02JawRotLf
+    100190: JtLipUpper02JawRotRt
+    100192: JtLipUpper02Lf
+    100194: JtLipUpper02Rt
+    100196: JtLipUpper03JawRotLf
+    100198: JtLipUpper03JawRotRt
+    100200: JtLipUpper03Lf
+    100202: JtLipUpper03Rt
+    100204: JtLipUpperMid
+    100206: JtLipUpperMidJawRot
+    100208: JtLittleALf
+    100210: JtLittleARt
+    100212: JtLittleBLf
+    100214: JtLittleBRt
+    100216: JtLittleCLf
+    100218: JtLittleCRt
+    100220: JtLittleDLf
+    100222: JtLittleDRt
+    100224: JtMiddleALf
+    100226: JtMiddleARt
+    100228: JtMiddleBLf
+    100230: JtMiddleBRt
+    100232: JtMiddleCLf
+    100234: JtMiddleCRt
+    100236: JtMiddleDLf
+    100238: JtMiddleDRt
+    100240: JtNeck
+    100242: JtNoseLowerLf
+    100244: JtNoseLowerRt
+    100246: JtNoseUpperLf
+    100248: JtNoseUpperRt
+    100250: JtRingALf
+    100252: JtRingARt
+    100254: JtRingBLf
+    100256: JtRingBRt
+    100258: JtRingCLf
+    100260: JtRingCRt
+    100262: JtRingDLf
+    100264: JtRingDRt
+    100266: JtRoot
+    100268: JtShoulderLf
+    100270: JtShoulderRt
+    100272: JtSpine
+    100274: JtThumbALf
+    100276: JtThumbARt
+    100278: JtThumbBLf
+    100280: JtThumbBRt
+    100282: JtThumbCLf
+    100284: JtThumbCRt
+    100286: JtThumbDLf
+    100288: JtThumbDRt
+    100290: JtToeLf
+    100292: JtToeRt
+    100294: JtTongueA
+    100296: JtTongueB
+    100298: JtTongueC
+    100300: JtUpperArmTwistALf
+    100302: JtUpperArmTwistARt
+    100304: JtUpperArmTwistBLf
+    100306: JtUpperArmTwistBRt
+    100308: JtUpperArmTwistCLf
+    100310: JtUpperArmTwistCRt
+    100312: JtWristLf
+    100314: JtWristRt
+    100316: Mesh
+    100318: MorphTargets
+    100320: MshRef
+    100322: SkinnedMesh
+    400000: _IctSettings_
+    400002: AnmDef_045_blink_rt
+    400004: AnmDefGlobalSettings
+    400006: CharacterRoot
+    400008: ChrDefSettings
+    400010: //RootNode
+    400012: JtAnkleLf
+    400014: JtAnkleRt
+    400016: JtBallLf
+    400018: JtBallRt
+    400020: JtCheekLowerJawRotLf
+    400022: JtCheekLowerJawRotRt
+    400024: JtCheekLowerLf
+    400026: JtCheekLowerRt
+    400028: JtCheekUpperLf
+    400030: JtCheekUpperRt
+    400032: JtChest
+    400034: JtClavicleLf
+    400036: JtClavicleRt
+    400038: JtEarLf
+    400040: JtEarRt
+    400042: JtElbowLf
+    400044: JtElbowRt
+    400046: JtEyebrow01Lf
+    400048: JtEyebrow01Rt
+    400050: JtEyebrow02Lf
+    400052: JtEyebrow02Rt
+    400054: JtEyebrow03Lf
+    400056: JtEyebrow03Rt
+    400058: JtEyebrow04Lf
+    400060: JtEyebrow04Rt
+    400062: JtEyebrowParentLf
+    400064: JtEyebrowParentRt
+    400066: JtEyeLeafLf
+    400068: JtEyeLeafRt
+    400070: JtEyeLf
+    400072: JtEyelidLowerLf
+    400074: JtEyelidLowerRt
+    400076: JtEyelidLowerSecondaryLf
+    400078: JtEyelidLowerSecondaryRt
+    400080: JtEyelidLowerSoftLf
+    400082: JtEyelidLowerSoftRt
+    400084: JtEyelidUpperLf
+    400086: JtEyelidUpperRt
+    400088: JtEyelidUpperSecondaryLf
+    400090: JtEyelidUpperSecondaryRt
+    400092: JtEyelidUpperSoftLf
+    400094: JtEyelidUpperSoftRt
+    400096: JtEyeRt
+    400098: JtForeArmTwistALf
+    400100: JtForeArmTwistARt
+    400102: JtForeArmTwistBLf
+    400104: JtForeArmTwistBRt
+    400106: JtHead
+    400108: JtHeadLeaf
+    400110: JtHeelLf
+    400112: JtHeelRt
+    400114: JtHipLf
+    400116: JtHipRt
+    400118: JtIndexALf
+    400120: JtIndexARt
+    400122: JtIndexBLf
+    400124: JtIndexBRt
+    400126: JtIndexCLf
+    400128: JtIndexCRt
+    400130: JtIndexDLf
+    400132: JtIndexDRt
+    400134: JtJaw
+    400136: JtJawLeaf
+    400138: JtKneeLf
+    400140: JtKneeRt
+    400142: JtLipCornerJawRotLf
+    400144: JtLipCornerJawRotRt
+    400146: JtLipCornerLf
+    400148: JtLipCornerRt
+    400150: JtLipLower01JawRotLf
+    400152: JtLipLower01JawRotRt
+    400154: JtLipLower01Lf
+    400156: JtLipLower01Rt
+    400158: JtLipLower02JawRotLf
+    400160: JtLipLower02JawRotRt
+    400162: JtLipLower02Lf
+    400164: JtLipLower02Rt
+    400166: JtLipLower03JawRotLf
+    400168: JtLipLower03JawRotRt
+    400170: JtLipLower03Lf
+    400172: JtLipLower03Rt
+    400174: JtLipLowerMid
+    400176: JtLipLowerMidJawRot
+    400178: JtLipRoot
+    400180: JtLipUpper01JawRotLf
+    400182: JtLipUpper01JawRotRt
+    400184: JtLipUpper01Lf
+    400186: JtLipUpper01Rt
+    400188: JtLipUpper02JawRotLf
+    400190: JtLipUpper02JawRotRt
+    400192: JtLipUpper02Lf
+    400194: JtLipUpper02Rt
+    400196: JtLipUpper03JawRotLf
+    400198: JtLipUpper03JawRotRt
+    400200: JtLipUpper03Lf
+    400202: JtLipUpper03Rt
+    400204: JtLipUpperMid
+    400206: JtLipUpperMidJawRot
+    400208: JtLittleALf
+    400210: JtLittleARt
+    400212: JtLittleBLf
+    400214: JtLittleBRt
+    400216: JtLittleCLf
+    400218: JtLittleCRt
+    400220: JtLittleDLf
+    400222: JtLittleDRt
+    400224: JtMiddleALf
+    400226: JtMiddleARt
+    400228: JtMiddleBLf
+    400230: JtMiddleBRt
+    400232: JtMiddleCLf
+    400234: JtMiddleCRt
+    400236: JtMiddleDLf
+    400238: JtMiddleDRt
+    400240: JtNeck
+    400242: JtNoseLowerLf
+    400244: JtNoseLowerRt
+    400246: JtNoseUpperLf
+    400248: JtNoseUpperRt
+    400250: JtRingALf
+    400252: JtRingARt
+    400254: JtRingBLf
+    400256: JtRingBRt
+    400258: JtRingCLf
+    400260: JtRingCRt
+    400262: JtRingDLf
+    400264: JtRingDRt
+    400266: JtRoot
+    400268: JtShoulderLf
+    400270: JtShoulderRt
+    400272: JtSpine
+    400274: JtThumbALf
+    400276: JtThumbARt
+    400278: JtThumbBLf
+    400280: JtThumbBRt
+    400282: JtThumbCLf
+    400284: JtThumbCRt
+    400286: JtThumbDLf
+    400288: JtThumbDRt
+    400290: JtToeLf
+    400292: JtToeRt
+    400294: JtTongueA
+    400296: JtTongueB
+    400298: JtTongueC
+    400300: JtUpperArmTwistALf
+    400302: JtUpperArmTwistARt
+    400304: JtUpperArmTwistBLf
+    400306: JtUpperArmTwistBRt
+    400308: JtUpperArmTwistCLf
+    400310: JtUpperArmTwistCRt
+    400312: JtWristLf
+    400314: JtWristRt
+    400316: Mesh
+    400318: MorphTargets
+    400320: MshRef
+    400322: SkinnedMesh
+    7400000: Take 001
+    7400002: 045_blink_rt
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 045_blink_rt
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: _IctSettings_
+        weight: 0
+      - path: _IctSettings_/ChrDefSettings
+        weight: 0
+      - path: CharacterRoot
+        weight: 0
+      - path: CharacterRoot/JtRoot
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipLf/JtKneeLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipLf/JtKneeLf/JtAnkleLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipLf/JtKneeLf/JtAnkleLf/JtBallLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipLf/JtKneeLf/JtAnkleLf/JtBallLf/JtToeLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipLf/JtKneeLf/JtAnkleLf/JtBallLf/JtToeLf/JtHeelLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipRt/JtKneeRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipRt/JtKneeRt/JtAnkleRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipRt/JtKneeRt/JtAnkleRt/JtBallRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipRt/JtKneeRt/JtAnkleRt/JtBallRt/JtToeRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtHipRt/JtKneeRt/JtAnkleRt/JtBallRt/JtToeRt/JtHeelRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtForeArmTwistALf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtForeArmTwistALf/JtForeArmTwistBLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtIndexALf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtIndexALf/JtIndexBLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtIndexALf/JtIndexBLf/JtIndexCLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtIndexALf/JtIndexBLf/JtIndexCLf/JtIndexDLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtLittleALf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtLittleALf/JtLittleBLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtLittleALf/JtLittleBLf/JtLittleCLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtLittleALf/JtLittleBLf/JtLittleCLf/JtLittleDLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtMiddleALf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtMiddleALf/JtMiddleBLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtMiddleALf/JtMiddleBLf/JtMiddleCLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtMiddleALf/JtMiddleBLf/JtMiddleCLf/JtMiddleDLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtRingALf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtRingALf/JtRingBLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtRingALf/JtRingBLf/JtRingCLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtRingALf/JtRingBLf/JtRingCLf/JtRingDLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtThumbALf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtThumbALf/JtThumbBLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtThumbALf/JtThumbBLf/JtThumbCLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtElbowLf/JtWristLf/JtThumbALf/JtThumbBLf/JtThumbCLf/JtThumbDLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtUpperArmTwistALf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtUpperArmTwistALf/JtUpperArmTwistBLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleLf/JtShoulderLf/JtUpperArmTwistALf/JtUpperArmTwistBLf/JtUpperArmTwistCLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtForeArmTwistARt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtForeArmTwistARt/JtForeArmTwistBRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtIndexARt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtIndexARt/JtIndexBRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtIndexARt/JtIndexBRt/JtIndexCRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtIndexARt/JtIndexBRt/JtIndexCRt/JtIndexDRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtLittleARt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtLittleARt/JtLittleBRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtLittleARt/JtLittleBRt/JtLittleCRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtLittleARt/JtLittleBRt/JtLittleCRt/JtLittleDRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtMiddleARt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtMiddleARt/JtMiddleBRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtMiddleARt/JtMiddleBRt/JtMiddleCRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtMiddleARt/JtMiddleBRt/JtMiddleCRt/JtMiddleDRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtRingARt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtRingARt/JtRingBRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtRingARt/JtRingBRt/JtRingCRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtRingARt/JtRingBRt/JtRingCRt/JtRingDRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtThumbARt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtThumbARt/JtThumbBRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtThumbARt/JtThumbBRt/JtThumbCRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtElbowRt/JtWristRt/JtThumbARt/JtThumbBRt/JtThumbCRt/JtThumbDRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtUpperArmTwistARt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtUpperArmTwistARt/JtUpperArmTwistBRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtClavicleRt/JtShoulderRt/JtUpperArmTwistARt/JtUpperArmTwistBRt/JtUpperArmTwistCRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtCheekLowerJawRotLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtCheekLowerJawRotLf/JtCheekLowerLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtCheekLowerJawRotRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtCheekLowerJawRotRt/JtCheekLowerRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtCheekUpperLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtCheekUpperRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEarLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEarRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentLf/JtEyebrow01Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentLf/JtEyebrow02Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentLf/JtEyebrow03Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentLf/JtEyebrow04Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentRt/JtEyebrow01Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentRt/JtEyebrow02Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentRt/JtEyebrow03Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyebrowParentRt/JtEyebrow04Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyeLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyeLf/JtEyeLeafLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidLowerSoftLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidLowerSoftLf/JtEyelidLowerLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidLowerSoftLf/JtEyelidLowerSecondaryLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidLowerSoftRt
+        weight: 1
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidLowerSoftRt/JtEyelidLowerRt
+        weight: 1
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidLowerSoftRt/JtEyelidLowerSecondaryRt
+        weight: 1
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidUpperSoftLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidUpperSoftLf/JtEyelidUpperLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidUpperSoftLf/JtEyelidUpperSecondaryLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidUpperSoftRt
+        weight: 1
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidUpperSoftRt/JtEyelidUpperRt
+        weight: 1
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyelidUpperSoftRt/JtEyelidUpperSecondaryRt
+        weight: 1
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyeRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtEyeRt/JtEyeLeafRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtHeadLeaf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtJaw
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtJaw/JtJawLeaf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtJaw/JtTongueA
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtJaw/JtTongueA/JtTongueB
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtJaw/JtTongueA/JtTongueB/JtTongueC
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipCornerJawRotLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipCornerJawRotLf/JtLipCornerLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipCornerJawRotRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipCornerJawRotRt/JtLipCornerRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower01JawRotLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower01JawRotLf/JtLipLower01Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower01JawRotRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower01JawRotRt/JtLipLower01Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower02JawRotLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower02JawRotLf/JtLipLower02Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower02JawRotRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower02JawRotRt/JtLipLower02Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower03JawRotLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower03JawRotLf/JtLipLower03Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower03JawRotRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLower03JawRotRt/JtLipLower03Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLowerMidJawRot
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipLowerMidJawRot/JtLipLowerMid
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper01JawRotLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper01JawRotLf/JtLipUpper01Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper01JawRotRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper01JawRotRt/JtLipUpper01Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper02JawRotLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper02JawRotLf/JtLipUpper02Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper02JawRotRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper02JawRotRt/JtLipUpper02Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper03JawRotLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper03JawRotLf/JtLipUpper03Lf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper03JawRotRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpper03JawRotRt/JtLipUpper03Rt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpperMidJawRot
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtLipRoot/JtLipUpperMidJawRot/JtLipUpperMid
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtNoseLowerLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtNoseLowerRt
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtNoseUpperLf
+        weight: 0
+      - path: CharacterRoot/JtRoot/JtSpine/JtChest/JtNeck/JtHead/JtNoseUpperRt
+        weight: 0
+      - path: CharacterRoot/Mesh
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/Body
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/EyeballLf
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/EyeballRt
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/EyeShadow
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/EyeShellLf
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/EyeShellRt
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/Hair
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/Hairbun
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/Head
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/Lower_Teeth
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/LowerEyelashes
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/Tongue
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/Upper_Teeth
+        weight: 0
+      - path: CharacterRoot/Mesh/SkinnedMesh/MshRef/HeadGrp/UpperEyelashes
+        weight: 0
+      maskType: 1
+      maskSource: {fileID: 101100000, guid: 221c67b62d7e81a4999ba86ee6d242b3, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: JtRoot
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtHipLf
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtHipRt
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtKneeLf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtKneeRt
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtAnkleLf
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtAnkleRt
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtSpine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtChest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtNeck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtHead
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtClavicleLf
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtClavicleRt
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtShoulderLf
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtShoulderRt
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtElbowLf
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtElbowRt
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtWristLf
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtWristRt
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtBallLf
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtBallRt
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtEyeLf
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtEyeRt
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbALf
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbBLf
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbCLf
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexALf
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexBLf
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexCLf
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleALf
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleBLf
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleCLf
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingALf
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingBLf
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingCLf
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleALf
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleBLf
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleCLf
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbARt
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbBRt
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtThumbCRt
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexARt
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexBRt
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtIndexCRt
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleARt
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleBRt
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtMiddleCRt
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingARt
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingBRt
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtRingCRt
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleARt
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleBRt
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: JtLittleCRt
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: ChrKevin(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: _IctSettings_
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ChrDefSettings
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: CharacterRoot
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Mesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: SkinnedMesh
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: MshRef
+      position: {x: 0.0015500832, y: 0.8778008, z: 0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyelashLowerLf
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyelashLowerRt
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyelashUpperLf
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyelashUpperRt
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyeLf
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyeRt
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyeShadowLf
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyeShadowRt
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyeShellLf
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: EyeShellRt
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Hands
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Head
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Lowerbody
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TeethLower
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: TeethUpper
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: Upperbody
+      position: {x: -0.0015500832, y: -0.8778008, z: -0.08785053}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtRoot
+      position: {x: -0, y: 1.01948, z: 0.019}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtHipRt
+      position: {x: 0.09824, y: -0.05865, z: -0.0063}
+      rotation: {x: -0.5421473, y: 0.45083177, z: -0.49649438, w: 0.5062809}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtKneeRt
+      position: {x: 0.4491079, y: -6.692957e-12, z: -4.7912124e-10}
+      rotation: {x: 0.00000001125073, y: -0.00000001563222, z: 0.15698329, w: 0.9876013}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtAnkleRt
+      position: {x: 0.44919917, y: 1.4719292e-10, z: -0.000000005121915}
+      rotation: {x: -0.024009332, y: 0.044754345, z: -0.6203763, w: 0.7826582}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtBallRt
+      position: {x: 0.18055354, y: 3.340429e-10, z: -0.0000000027493632}
+      rotation: {x: 4.346174e-12, y: -0.0000000017002723, z: -0.22988552, w: 0.9732177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtToeRt
+      position: {x: 0.06392, y: 1.4007016e-10, z: -0.0000000013821416}
+      rotation: {x: 2.7755576e-16, y: 6.123234e-17, z: 1, w: 6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtHeelRt
+      position: {x: 0.29599, y: 6.4861344e-10, z: 0.0000000064001893}
+      rotation: {x: 0, y: -1.6543612e-24, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtSpine
+      position: {x: -0, y: 0.07767, z: -0.00521}
+      rotation: {x: 0.48119655, y: -0.5181215, z: -0.48119655, w: 0.5181215}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtChest
+      position: {x: -0.12750769, y: 3.5527136e-17, z: -2.8312394e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtNeck
+      position: {x: -0.2767207, y: 0.019565191, z: -5.4927817e-17}
+      rotation: {x: -1.1974003e-16, y: 1.7423237e-16, z: -0.1376055, w: 0.99048716}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtHead
+      position: {x: -0.0967413, y: -7.105427e-17, z: -1.1884085e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtCheekLowerJawRotLf
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.58128434, y: 0.8137005, z: -1.7969621e-16, w: 2.3578486e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtCheekLowerLf
+      position: {x: -0.044379175, y: 0.03093081, z: -0.059895236}
+      rotation: {x: -0.096932225, y: -0.39498556, z: -0.2627686, w: 0.8749533}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtCheekLowerJawRotRt
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.58128434, y: 0.8137005, z: -1.7969621e-16, w: 2.3578486e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtCheekLowerRt
+      position: {x: -0.0497192, y: 0.032883584, z: 0.057257425}
+      rotation: {x: 0.09153686, y: 0.362295, z: -0.2607232, w: 0.8901611}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrowParentLf
+      position: {x: -0.08054309, y: 0.013253389, z: 0.015249999}
+      rotation: {x: 0.96600735, y: -0.09948449, z: -0.0716161, w: -0.22760445}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrow01Lf
+      position: {x: -0.018098895, y: -0.053801697, z: 0.033595417}
+      rotation: {x: -0.1374777, y: 0.22626866, z: 0.558219, w: 0.7863167}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrow02Lf
+      position: {x: -0.020427525, y: -0.056559954, z: 0.02205556}
+      rotation: {x: -0.09201274, y: 0.14904173, z: 0.5642057, w: 0.80684084}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrow04Lf
+      position: {x: -0.022469148, y: -0.05775765, z: -0.004838924}
+      rotation: {x: 0.020819021, y: -0.032950707, z: 0.56408, w: 0.8247997}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrow03Lf
+      position: {x: -0.022567494, y: -0.058045954, z: 0.009883627}
+      rotation: {x: -0.04202244, y: 0.06649979, z: 0.56270367, w: 0.8229073}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrowParentRt
+      position: {x: -0.08054309, y: 0.013253389, z: -0.015249999}
+      rotation: {x: 0.96600735, y: -0.09948449, z: 0.0716161, w: 0.22760445}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrow01Rt
+      position: {x: -0.018098898, y: -0.0538017, z: -0.033595406}
+      rotation: {x: 0.13747765, y: -0.22626857, z: 0.558219, w: 0.7863167}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrow04Rt
+      position: {x: -0.022674274, y: -0.056544084, z: 0.005361288}
+      rotation: {x: -0.023634998, y: 0.03698238, z: 0.5596899, w: 0.8275391}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrow02Rt
+      position: {x: -0.020427527, y: -0.056559958, z: -0.02205555}
+      rotation: {x: 0.09201268, y: -0.14904164, z: 0.5642057, w: 0.8068409}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyebrow03Rt
+      position: {x: -0.021954495, y: -0.05785634, z: -0.008797688}
+      rotation: {x: 0.03748343, y: -0.059854276, z: 0.5663858, w: 0.82110876}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidLowerSoftLf
+      position: {x: -0.06199752, y: 0.053531885, z: 0.033405498}
+      rotation: {x: 0.76614946, y: -0.6426624, z: 2.4239762e-16, w: 1.2340608e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidLowerLf
+      position: {x: 1.3322676e-16, y: -5.684342e-16, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidLowerSecondaryLf
+      position: {x: 1.3322676e-16, y: -5.684342e-16, z: 8.881784e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidLowerSoftRt
+      position: {x: -0.06199752, y: 0.053531885, z: -0.033405498}
+      rotation: {x: 0.76614946, y: -0.6426624, z: 7.369041e-17, w: -1.8109108e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidLowerRt
+      position: {x: 4.4408918e-17, y: -2.842171e-16, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidLowerSecondaryRt
+      position: {x: 1.0658141e-16, y: -5.684342e-16, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidUpperSoftLf
+      position: {x: -0.06199752, y: 0.053531885, z: 0.033405498}
+      rotation: {x: 0.76614946, y: -0.6426624, z: 2.4239762e-16, w: 1.2340608e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidUpperLf
+      position: {x: 3.5527136e-17, y: -2.842171e-16, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidUpperSecondaryLf
+      position: {x: 3.5527136e-17, y: -2.842171e-16, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidUpperSoftRt
+      position: {x: -0.06199752, y: 0.053531885, z: -0.033405498}
+      rotation: {x: 0.76614946, y: -0.6426624, z: 7.369041e-17, w: -1.8109108e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidUpperSecondaryRt
+      position: {x: 1.0658141e-16, y: -5.684342e-16, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyelidUpperRt
+      position: {x: 1.0658141e-16, y: -5.684342e-16, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtHeadLeaf
+      position: {x: -0.16511866, y: -0.030749837, z: -9.210396e-17}
+      rotation: {x: 0.9957655, y: 0.0919298, z: 1.3645157e-16, w: -2.9707889e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipRoot
+      position: {x: -5.684342e-16, y: -3.5527136e-17, z: -6.310887e-32}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipCornerJawRotLf
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.5850444, y: 0.8098977, z: 0.037975654, w: 0.01861685}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipCornerLf
+      position: {x: -0.07316415, y: 0.03459905, z: -0.020715654}
+      rotation: {x: -0.5850444, y: 0.8098977, z: 0.037975654, w: -0.01861685}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipCornerJawRotRt
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.585019, y: 0.8100822, z: -0.034972087, w: -0.017219728}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipCornerRt
+      position: {x: -0.07340743, y: 0.0347141, z: 0.020784535}
+      rotation: {x: 0.017219728, y: -0.034972087, z: -0.8100822, w: 0.585019}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower01JawRotLf
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.5805097, y: 0.81419253, z: 0.009117849, w: 0.003974496}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower01Lf
+      position: {x: -0.08618915, y: 0.04082133, z: -0.0062845913}
+      rotation: {x: -0.5805097, y: 0.81419253, z: 0.009117849, w: -0.003974496}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower01JawRotRt
+      position: {x: 0.015167565, y: 0.0078696115, z: 3.0996035e-16}
+      rotation: {x: -0.58130145, y: 0.8135981, z: -0.011068629, w: -0.0049238503}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower01Rt
+      position: {x: -0.08614833, y: 0.04080199, z: 0.006281615}
+      rotation: {x: 0.0049238503, y: -0.011068629, z: -0.8135981, w: 0.58130145}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower02JawRotLf
+      position: {x: 0.015167565, y: 0.0078696115, z: 3.0996035e-16}
+      rotation: {x: -0.5810172, y: 0.8137481, z: 0.013965163, w: 0.006164267}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower02Lf
+      position: {x: -0.084113866, y: 0.039795134, z: -0.01243464}
+      rotation: {x: -0.5810172, y: 0.8137481, z: 0.013965163, w: -0.006164267}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower02JawRotRt
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.5809586, y: 0.81358486, z: -0.021769648, w: -0.009637477}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower02Rt
+      position: {x: -0.083454005, y: 0.039482944, z: 0.012337092}
+      rotation: {x: 0.009637477, y: -0.021769648, z: -0.81358486, w: 0.5809586}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower03JawRotLf
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.5821937, y: 0.8124874, z: 0.027505403, w: 0.0125778895}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower03Lf
+      position: {x: -0.07927324, y: 0.03732944, z: -0.016987894}
+      rotation: {x: -0.5821937, y: 0.8124874, z: 0.027505403, w: -0.0125778895}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower03JawRotRt
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.5808917, y: 0.81331545, z: -0.030080734, w: -0.013340243}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLower03Rt
+      position: {x: -0.07891564, y: 0.03716105, z: 0.016911263}
+      rotation: {x: 0.013340243, y: -0.030080734, z: -0.81331545, w: 0.5808917}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLowerMidJawRot
+      position: {x: 0.015167565, y: 0.0078696115, z: 3.0996035e-16}
+      rotation: {x: -0.5803443, y: 0.8143712, z: 0.00000033486378, w: 0.00000014831004}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipLowerMid
+      position: {x: -0.08639005, y: 0.04075682, z: 2.5339067e-14}
+      rotation: {x: -0.5803443, y: 0.8143712, z: 0.00000033486378, w: -0.00000014831004}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper01JawRotLf
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.5692804, y: 0.8221123, z: 0.006913981, w: 0.0018467765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper01Lf
+      position: {x: -0.08266442, y: 0.046565417, z: -0.006570774}
+      rotation: {x: -0.5692804, y: 0.8221123, z: 0.006913981, w: -0.0018467765}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper01JawRotRt
+      position: {x: 0.015167565, y: 0.0078696115, z: 3.0996035e-16}
+      rotation: {x: -0.56972504, y: 0.8217664, z: -0.010136452, w: -0.0032708214}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper01Rt
+      position: {x: -0.082777165, y: 0.046628926, z: 0.0065797362}
+      rotation: {x: 0.0032708214, y: -0.010136452, z: -0.8217664, w: 0.56972504}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper02JawRotLf
+      position: {x: 0.015167565, y: 0.0078696115, z: 3.0996035e-16}
+      rotation: {x: -0.57284355, y: 0.81957465, z: 0.01164552, w: 0.0034886969}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper02Lf
+      position: {x: -0.08172929, y: 0.04453769, z: -0.01278682}
+      rotation: {x: -0.57284355, y: 0.81957465, z: 0.01164552, w: -0.0034886969}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper02JawRotRt
+      position: {x: 0.015167565, y: 0.0078696115, z: 3.0996035e-16}
+      rotation: {x: -0.5736874, y: 0.81880903, z: -0.01959495, w: -0.0071163317}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper02Rt
+      position: {x: -0.0805843, y: 0.043913737, z: 0.012607682}
+      rotation: {x: 0.0071163317, y: -0.01959495, z: -0.81880903, w: 0.5736874}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper03JawRotLf
+      position: {x: 0.015167565, y: 0.0078696115, z: 3.0996035e-16}
+      rotation: {x: -0.5779496, y: 0.8154882, z: 0.028552148, w: 0.011749178}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper03Lf
+      position: {x: -0.077790685, y: 0.03999329, z: -0.017086627}
+      rotation: {x: -0.5779496, y: 0.8154882, z: 0.028552148, w: -0.011749178}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper03JawRotRt
+      position: {x: 0.015167565, y: 0.0078696115, z: 3.0996035e-16}
+      rotation: {x: -0.5773939, y: 0.81588215, z: -0.02860103, w: -0.011601086}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpper03Rt
+      position: {x: -0.077515736, y: 0.039851937, z: 0.017026236}
+      rotation: {x: 0.011601086, y: -0.02860103, z: -0.81588215, w: 0.5773939}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpperMidJawRot
+      position: {x: 0.015167565, y: 0.0078696115, z: 3.0996035e-16}
+      rotation: {x: -0.5700038, y: 0.82164204, z: 0.00000034473805, w: 0.00000014749943}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLipUpperMid
+      position: {x: -0.0829398, y: 0.047021747, z: 2.6779907e-14}
+      rotation: {x: -0.5700038, y: 0.82164204, z: 0.00000034473805, w: -0.00000014749943}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEarLf
+      position: {x: -0.026510496, y: -0.014413762, z: 0.07246121}
+      rotation: {x: -0.5832251, y: 0.31559354, z: 0.48117515, w: 0.57334083}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEarRt
+      position: {x: -0.032464936, y: -0.017001525, z: -0.073031776}
+      rotation: {x: 0.5880172, y: -0.29241925, z: 0.4645789, w: 0.59404814}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtNoseLowerRt
+      position: {x: -0.031225553, y: 0.09022149, z: -0.018447405}
+      rotation: {x: 0.8101143, y: -0.57834363, z: 0.07040175, w: 0.06539945}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtCheekUpperLf
+      position: {x: -0.038707964, y: 0.07687343, z: 0.04371376}
+      rotation: {x: 0.8190181, y: -0.5212462, z: -0.16677155, w: -0.1723343}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtNoseLowerLf
+      position: {x: -0.029301336, y: 0.08855116, z: 0.01837651}
+      rotation: {x: 0.80606896, y: -0.583691, z: -0.07207349, w: -0.06605374}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtCheekUpperRt
+      position: {x: -0.038707376, y: 0.07687361, z: -0.043713767}
+      rotation: {x: 0.8190165, y: -0.52124876, z: 0.16677202, w: 0.1723337}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtJaw
+      position: {x: 0.015167565, y: 0.0078696115, z: 2.981654e-16}
+      rotation: {x: -0.58128434, y: 0.8137005, z: -8.8451225e-16, w: -3.6884966e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtJawLeaf
+      position: {x: -0.093978316, y: -8.5265126e-16, z: 1.3014935e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtTongueA
+      position: {x: -0.048942093, y: 0.009611973, z: 2.6393134e-16}
+      rotation: {x: -7.867538e-17, y: -6.0049707e-16, z: -0.35234573, w: 0.93586993}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtTongueB
+      position: {x: -0.013468632, y: 5.684342e-16, z: 2.990637e-18}
+      rotation: {x: -4.6345995e-16, y: 9.5594246e-17, z: 0.08256771, w: 0.9965855}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtTongueC
+      position: {x: -0.015298613, y: 8.5265126e-16, z: -2.949323e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtNoseUpperLf
+      position: {x: -0.04983265, y: 0.08127614, z: 0.013961669}
+      rotation: {x: 0.8690181, y: -0.48872232, z: -0.050578207, w: -0.058308624}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtNoseUpperRt
+      position: {x: -0.049833085, y: 0.081279054, z: -0.0139644155}
+      rotation: {x: 0.8690141, y: -0.4887276, z: 0.050586734, w: 0.05831768}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyeLf
+      position: {x: -0.06199752, y: 0.053531885, z: 0.033405498}
+      rotation: {x: 0.76614946, y: -0.6426624, z: -9.8507305e-17, w: -1.625522e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyeLeafLf
+      position: {x: -0.014255836, y: -5.684342e-16, z: 4.440892e-18}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyeRt
+      position: {x: -0.06199752, y: 0.053531885, z: -0.033405498}
+      rotation: {x: 0.76614946, y: -0.6426624, z: -2.1027027e-17, w: -3.87379e-16}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtEyeLeafRt
+      position: {x: -0.014255836, y: -8.5265126e-16, z: -1.3322676e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtClavicleRt
+      position: {x: -0.21220954, y: 0.0026983086, z: -0.02299}
+      rotation: {x: 0.7537922, y: -0.030253798, z: -0.6560645, w: -0.021482147}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtShoulderRt
+      position: {x: 0.16435234, y: -4.9754326e-11, z: 9.407864e-10}
+      rotation: {x: 0.00034085658, y: -0.04532769, z: -0.0036394666, w: 0.99896556}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtElbowRt
+      position: {x: 0.2514613, y: -3.774758e-16, z: -0.0000000011362792}
+      rotation: {x: -0.009362005, y: -0.022601971, z: -0.02415846, w: 0.99940884}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtWristRt
+      position: {x: 0.25146067, y: 0.000000003943456, z: 0.0000000055768696}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtRingARt
+      position: {x: 0.090341784, y: 0.023308363, z: -0.0011243256}
+      rotation: {x: 0.70380014, y: 0.06870743, z: -0.037919447, w: 0.70605016}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtRingBRt
+      position: {x: 0.04598162, y: 0.000000026275423, z: -0.000000016148118}
+      rotation: {x: -0.00000581145, y: -0.00002085044, z: -0.03711654, w: 0.999311}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtRingCRt
+      position: {x: 0.0256743, y: -0.000000008606739, z: 0.0000000048028874}
+      rotation: {x: -0.0000019481743, y: 0.00004937889, z: -0.039556228, w: 0.99921733}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtRingDRt
+      position: {x: 0.020502489, y: -0.000000013277714, z: 0.0000000072358057}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtMiddleARt
+      position: {x: 0.09746794, y: -0.00002769312, z: -0.0003252777}
+      rotation: {x: 0.70530474, y: 0.047668587, z: -0.047574114, w: 0.70569795}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtMiddleBRt
+      position: {x: 0.045145307, y: -0.0000000029889349, z: 0.0000000019436674}
+      rotation: {x: -0.0000014901156, y: -0.0000055059772, z: -0.036613576, w: 0.9993295}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtMiddleCRt
+      position: {x: 0.02690106, y: 0.000000020299794, z: -0.000000011948046}
+      rotation: {x: -0.000000735488, y: 0.000008540779, z: -0.038605273, w: 0.9992545}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtMiddleDRt
+      position: {x: 0.02333458, y: -0.000000016341483, z: 0.000000009423039}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLittleARt
+      position: {x: 0.08359215, y: 0.043937925, z: -0.009015645}
+      rotation: {x: 0.70196456, y: 0.07849579, z: -0.028685497, w: 0.70729154}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLittleBRt
+      position: {x: 0.03894414, y: 0.0000000053975424, z: -0.000000003089685}
+      rotation: {x: -0.000010043378, y: -0.00010802219, z: -0.03959551, w: 0.99921584}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLittleCRt
+      position: {x: 0.02209569, y: 0.0000000055219678, z: -0.0000000029603568}
+      rotation: {x: -0.0000074171057, y: 0.00008182434, z: -0.037172537, w: 0.9993089}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLittleDRt
+      position: {x: 0.016739957, y: -0.00000000741297, z: 0.000000003792918}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtIndexARt
+      position: {x: 0.103919655, y: -0.02335935, z: -0.0024890224}
+      rotation: {x: 0.7060987, y: 0.04791438, z: -0.0670294, w: 0.70330364}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtIndexBRt
+      position: {x: 0.038497977, y: 0.000000025139792, z: -0.000000016204599}
+      rotation: {x: 0.000016778698, y: 0.000118687676, z: -0.038488116, w: 0.9992591}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtIndexCRt
+      position: {x: 0.024998132, y: -0.000000033344012, z: 0.000000020465182}
+      rotation: {x: -0.0000000040132337, y: -0.0003868319, z: 0.000045228764, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtIndexDRt
+      position: {x: 0.020021165, y: 0.000000029304903, z: -0.00000001798933}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtThumbARt
+      position: {x: 0.015273691, y: -0.015103619, z: -0.011730898}
+      rotation: {x: 0.8713395, y: -0.30522203, z: -0.2097958, w: 0.32185838}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtThumbBRt
+      position: {x: 0.030524544, y: 2.5672534e-10, z: 0.000000008326607}
+      rotation: {x: -0.000009980561, y: -0.0029053977, z: -0.02741743, w: 0.9996199}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtThumbCRt
+      position: {x: 0.047460765, y: 5.0420695e-10, z: 0.000000012642458}
+      rotation: {x: -0.000077821656, y: 0.0006456289, z: -0.035932068, w: 0.999354}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtThumbDRt
+      position: {x: 0.03437478, y: -7.0047435e-10, z: -0.000000008043586}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtForeArmTwistARt
+      position: {x: 0.12573034, y: 0.000000001971728, z: 0.000000002788435}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtForeArmTwistBRt
+      position: {x: 0.12573034, y: 0.000000001971728, z: 0.0000000027884346}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtUpperArmTwistARt
+      position: {x: -0, y: 0, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtUpperArmTwistBRt
+      position: {x: 0.12573065, y: -1.8096635e-16, z: -5.6813915e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtUpperArmTwistCRt
+      position: {x: 0.12573065, y: -1.7763567e-16, z: -5.681393e-10}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtClavicleLf
+      position: {x: -0.21220954, y: 0.0026983086, z: 0.02299}
+      rotation: {x: 0.030253798, y: 0.7537922, z: -0.021482147, w: 0.6560645}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtShoulderLf
+      position: {x: -0.16435231, y: -6.4392934e-17, z: 2.842171e-16}
+      rotation: {x: 0.0003408603, y: -0.04532766, z: -0.0036394666, w: 0.9989655}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtElbowLf
+      position: {x: -0.2514613, y: 0, z: -1.4210854e-16}
+      rotation: {x: -0.009362018, y: -0.022601888, z: -0.024158701, w: 0.99940884}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtWristLf
+      position: {x: -0.25146064, y: -1.4210854e-16, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtMiddleALf
+      position: {x: -0.09746794, y: 0.000027687047, z: 0.0003252691}
+      rotation: {x: 0.70530474, y: 0.047668587, z: -0.047574114, w: 0.70569795}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtMiddleBLf
+      position: {x: -0.045145307, y: -4.2632563e-16, z: 7.105427e-17}
+      rotation: {x: -0.0000015199181, y: -0.0000046901396, z: -0.036614254, w: 0.99932945}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtMiddleCLf
+      position: {x: -0.026901057, y: 7.105427e-16, z: -1.4210854e-16}
+      rotation: {x: -0.0000005491584, y: 0.000009198006, z: -0.038607948, w: 0.99925447}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtMiddleDLf
+      position: {x: -0.02333458, y: 5.684342e-16, z: 2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtRingALf
+      position: {x: -0.09034179, y: -0.023308374, z: 0.0011243082}
+      rotation: {x: 0.70380014, y: 0.06870743, z: -0.037919447, w: 0.70605016}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtRingBLf
+      position: {x: -0.045981605, y: 2.842171e-16, z: 1.4210854e-16}
+      rotation: {x: -0.0000056624385, y: -0.000022049982, z: -0.03712061, w: 0.9993108}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtRingCLf
+      position: {x: -0.025674302, y: -1.4210854e-16, z: -1.4210854e-16}
+      rotation: {x: -0.0000017062322, y: 0.000048810674, z: -0.039556418, w: 0.99921733}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtRingDLf
+      position: {x: -0.02050249, y: -4.2632563e-16, z: -7.105427e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLittleALf
+      position: {x: -0.083592154, y: -0.04393794, z: 0.009015627}
+      rotation: {x: 0.7019643, y: 0.078497, z: -0.02868605, w: 0.70729166}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLittleBLf
+      position: {x: -0.038944136, y: -2.842171e-16, z: -2.842171e-16}
+      rotation: {x: -0.000010013576, y: -0.00010764221, z: -0.039592393, w: 0.99921596}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLittleCLf
+      position: {x: -0.022095688, y: -2.842171e-16, z: 1.4210854e-16}
+      rotation: {x: -0.0000075975286, y: 0.000080709106, z: -0.03717643, w: 0.9993087}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtLittleDLf
+      position: {x: -0.016739959, y: -1.4210854e-16, z: -7.105427e-17}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtIndexALf
+      position: {x: -0.10391966, y: 0.023359338, z: 0.0024890073}
+      rotation: {x: 0.7060986, y: 0.04791387, z: -0.0670281, w: 0.70330375}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtIndexBLf
+      position: {x: -0.038497966, y: 4.2632563e-16, z: 3.5527135e-16}
+      rotation: {x: 0.00001648068, y: 0.000117655814, z: -0.03848484, w: 0.99925923}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtIndexCLf
+      position: {x: -0.024998138, y: -2.842171e-16, z: 3.5527135e-16}
+      rotation: {x: -0.0000000040132337, y: -0.0003868319, z: 0.000045228764, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtIndexDLf
+      position: {x: -0.020021161, y: -2.842171e-16, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtThumbALf
+      position: {x: -0.015273692, y: 0.015103618, z: 0.011730896}
+      rotation: {x: 0.871339, y: -0.3052234, z: -0.2097951, w: 0.3218586}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtThumbBLf
+      position: {x: -0.030524543, y: 0, z: 0}
+      rotation: {x: -0.000009980561, y: -0.0029053977, z: -0.02741743, w: 0.9996199}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtThumbCLf
+      position: {x: -0.047460765, y: -1.4210854e-16, z: 7.105427e-17}
+      rotation: {x: -0.00007771495, y: 0.0006458396, z: -0.035934396, w: 0.999354}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtThumbDLf
+      position: {x: -0.03437478, y: 5.684342e-16, z: -2.842171e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtForeArmTwistALf
+      position: {x: -0.12573032, y: 7.105427e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtForeArmTwistBLf
+      position: {x: -0.12573032, y: -1.4210854e-16, z: -4.2632563e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtUpperArmTwistALf
+      position: {x: -1.4210854e-16, y: -1.110223e-18, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtUpperArmTwistBLf
+      position: {x: -0.12573065, y: 4.9960035e-17, z: -1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtUpperArmTwistCLf
+      position: {x: -0.12573065, y: 4.9960035e-17, z: 1.4210854e-16}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtHipLf
+      position: {x: -0.09824, y: -0.05865, z: -0.0063}
+      rotation: {x: 0.5062809, y: 0.49649438, z: 0.45083177, w: 0.5421473}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtKneeLf
+      position: {x: -0.4491079, y: 1.2434498e-16, z: 1.4210854e-16}
+      rotation: {x: 4.824609e-10, y: -0.00000001392056, z: 0.15698329, w: 0.9876013}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtAnkleLf
+      position: {x: -0.44919917, y: -5.950795e-16, z: 0.0000000071369093}
+      rotation: {x: -0.024009332, y: 0.044754345, z: -0.6203763, w: 0.7826582}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtBallLf
+      position: {x: -0.18055354, y: 9.296658e-10, z: -0.000000007865048}
+      rotation: {x: -3.5146004e-17, y: -1.1498816e-16, z: -0.22988552, w: 0.9732177}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtToeLf
+      position: {x: -0.06392, y: 3.291225e-10, z: -0.0000000032476142}
+      rotation: {x: 2.7755576e-16, y: -6.123234e-17, z: 1, w: -6.123234e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: JtHeelLf
+      position: {x: -0.29599, y: 0.0000000015240451, z: 0.000000015038506}
+      rotation: {x: 0, y: 3.3087225e-24, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 1
+    foreArmTwist: 1
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 7bdced2ace74b0b45a5286f7a9d41bea,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
