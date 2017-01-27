@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ChrMaria_Skin_Mat
+  m_Shader: {fileID: 4800000, guid: b1f7d3edb7c5d2e4b8286fa6f5625370, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _Albedo
+      second:
+        m_Texture: {fileID: 2800000, guid: 98e43adcc985bb149b831619f60d36b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 8cd1385a751db2f4fbf63dad94abacc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _FresMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 98e43adcc985bb149b831619f60d36b5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NormalB
+      second:
+        m_Texture: {fileID: 2800000, guid: 8cd1385a751db2f4fbf63dad94abacc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NormalD
+      second:
+        m_Texture: {fileID: 2800000, guid: 8cd1385a751db2f4fbf63dad94abacc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NormalG
+      second:
+        m_Texture: {fileID: 2800000, guid: 8cd1385a751db2f4fbf63dad94abacc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NormalR
+      second:
+        m_Texture: {fileID: 2800000, guid: 8cd1385a751db2f4fbf63dad94abacc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _NormalS
+      second:
+        m_Texture: {fileID: 2800000, guid: 8cd1385a751db2f4fbf63dad94abacc6, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _SpecMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _AsperityExponent
+      second: 1.75
+    - first:
+        name: _AsperityIntensity
+      second: 0.23214287
+    - first:
+        name: _DiffuseIntensity
+      second: 0.91071427
+    - first:
+        name: _FresnelSpread
+      second: 3
+    - first:
+        name: _FresnelStrength
+      second: 0.01
+    - first:
+        name: _Shininess
+      second: 0.27
+    - first:
+        name: _SpecularExponent
+      second: 5
+    - first:
+        name: _SpecularIntensity
+      second: 0.14285715
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.8455882, g: 0.8455882, b: 0.8455882, a: 1}
+    - first:
+        name: _FresnelColor
+      second: {r: 1, g: 1, b: 1, a: 1}
+    - first:
+        name: _SSSColor
+      second: {r: 0.8235294, g: 0.79930794, b: 0.79930794, a: 1}
+    - first:
+        name: _SpecColor
+      second: {r: 0.051470578, g: 0.051470578, b: 0.051470578, a: 1}
