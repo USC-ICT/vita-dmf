@@ -1,0 +1,2258 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000010920065740}
+  m_IsPrefabParent: 1
+--- !u!1 &1000010056405368
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012148211348}
+  - 114: {fileID: 114000010889000514}
+  m_Layer: 0
+  m_Name: Badge_Real-estateDeveloper
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010071791340
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012643913840}
+  - 114: {fileID: 114000010522600414}
+  m_Layer: 0
+  m_Name: Badge_Survivor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010080083004
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013022785576}
+  - 114: {fileID: 114000010620058872}
+  m_Layer: 0
+  m_Name: Badge_MovingUp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010212329378
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012448557222}
+  - 114: {fileID: 114000010507615542}
+  m_Layer: 0
+  m_Name: Badge_TheBig10
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010244446274
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000014273580070}
+  - 114: {fileID: 114000012124675956}
+  m_Layer: 0
+  m_Name: Badge_AngerManagement
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010336271928
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011501436304}
+  - 114: {fileID: 114000013967836014}
+  m_Layer: 0
+  m_Name: Badge_BlueChipAward
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010409340714
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000014008596096}
+  - 114: {fileID: 114000012212958384}
+  m_Layer: 0
+  m_Name: Badge_AboveAndBeyond
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010409780728
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012168319576}
+  - 114: {fileID: 114000013627429034}
+  m_Layer: 0
+  m_Name: Badge_TicTacToe
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010659224108
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013162339828}
+  - 114: {fileID: 114000013296073690}
+  m_Layer: 0
+  m_Name: Badge_ClosingBell
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010909722812
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012726778282}
+  - 114: {fileID: 114000011242065994}
+  m_Layer: 0
+  m_Name: Badge_MoodRingGeorge
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000010920065740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010103405980}
+  - 114: {fileID: 114000010497445966}
+  m_Layer: 0
+  m_Name: BadgesPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011048328124
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011564451340}
+  - 114: {fileID: 114000012252830214}
+  m_Layer: 0
+  m_Name: Badge_CEOAwardClosing
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011131383486
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012035024106}
+  - 114: {fileID: 114000010156676048}
+  m_Layer: 0
+  m_Name: Badge_VicePresident
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011177687392
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013055394804}
+  - 114: {fileID: 114000010637764118}
+  m_Layer: 0
+  m_Name: Badge_AmazingJob
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011400331598
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010658899620}
+  - 114: {fileID: 114000010035031082}
+  m_Layer: 0
+  m_Name: Badge_CommunicationCertification
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011439985174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013329895834}
+  - 114: {fileID: 114000011198654222}
+  m_Layer: 0
+  m_Name: Badge_MoodRingMichelle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011480473658
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013897727366}
+  - 114: {fileID: 114000011770823170}
+  m_Layer: 0
+  m_Name: Badge_PracticeMakesPerfect
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011566163720
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011383069026}
+  - 114: {fileID: 114000012674960212}
+  m_Layer: 0
+  m_Name: Badge_FirstStep
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011573812190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010697540428}
+  - 114: {fileID: 114000012709752902}
+  m_Layer: 0
+  m_Name: Badge_OfficeParty
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011732916022
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012903030186}
+  - 114: {fileID: 114000011938375156}
+  m_Layer: 0
+  m_Name: Badge_Consistency
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011751751208
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011934699424}
+  - 114: {fileID: 114000013825085000}
+  m_Layer: 0
+  m_Name: Badge_Silver20
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011785507796
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000014198405318}
+  - 114: {fileID: 114000011385902168}
+  m_Layer: 0
+  m_Name: Badge_BrandingChamp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011787486010
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013965197214}
+  - 114: {fileID: 114000011695651356}
+  m_Layer: 0
+  m_Name: Badge_YouDidIt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011788192992
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012292476868}
+  - 114: {fileID: 114000010941473034}
+  m_Layer: 0
+  m_Name: Badge_CEOAwardInterviewResponses
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011929100556
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013288782648}
+  - 114: {fileID: 114000014127203704}
+  m_Layer: 0
+  m_Name: Badge_GangsAllHere
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000011954100572
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011279297280}
+  - 114: {fileID: 114000013002387166}
+  m_Layer: 0
+  m_Name: Badge_MoodRingMaria
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012168383912
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000014250456492}
+  - 114: {fileID: 114000011655420616}
+  m_Layer: 0
+  m_Name: Badge_Bronze15
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012192667892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013695168708}
+  - 114: {fileID: 114000012885273276}
+  m_Layer: 0
+  m_Name: Badge_Intern
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012350103846
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000014133547946}
+  - 114: {fileID: 114000011764878382}
+  m_Layer: 0
+  m_Name: Badge_LearnersPermit
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012466451922
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010596249426}
+  - 114: {fileID: 114000012110858136}
+  m_Layer: 0
+  m_Name: Badge_CompanyPicnic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012551420592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012109861672}
+  - 114: {fileID: 114000012640869604}
+  m_Layer: 0
+  m_Name: Badge_CEOAwardSelfPromoting
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012627439918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012391320062}
+  - 114: {fileID: 114000010442898074}
+  m_Layer: 0
+  m_Name: Badge_Bingo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012675423472
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012909888176}
+  - 114: {fileID: 114000012262551794}
+  m_Layer: 0
+  m_Name: Badge_GoldenHello
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012795585414
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010551379452}
+  - 114: {fileID: 114000013100072862}
+  m_Layer: 0
+  m_Name: Badge_ClassAct
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012941465140
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012257808442}
+  - 114: {fileID: 114000012040122810}
+  m_Layer: 0
+  m_Name: Badge_MoodRingKevin
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000012997494808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010779182242}
+  - 114: {fileID: 114000012589811990}
+  m_Layer: 0
+  m_Name: Badge_President
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013009761574
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013484160632}
+  - 114: {fileID: 114000014047648784}
+  m_Layer: 0
+  m_Name: Badge_DressForSuccess
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013082020204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013269217636}
+  - 114: {fileID: 114000012752228976}
+  m_Layer: 0
+  m_Name: Badge_Executive
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013106584440
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012264630402}
+  - 114: {fileID: 114000011348958320}
+  m_Layer: 0
+  m_Name: Badge_HighFive
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013109593616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010698656070}
+  - 114: {fileID: 114000012568441624}
+  m_Layer: 0
+  m_Name: Badge_Promotion
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013249469244
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011869428410}
+  - 114: {fileID: 114000010751333822}
+  m_Layer: 0
+  m_Name: Badge_CEOAwardActiveListening
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013280247660
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010804371408}
+  - 114: {fileID: 114000013139750090}
+  m_Layer: 0
+  m_Name: Badge_CEOAwardFirstImpressions
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013395951860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011602530520}
+  - 114: {fileID: 114000010729312896}
+  m_Layer: 0
+  m_Name: Badge_Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013488360372
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011356716040}
+  - 114: {fileID: 114000013882816950}
+  m_Layer: 0
+  m_Name: Badge_TheBig5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013626005754
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011601403070}
+  - 114: {fileID: 114000013790666800}
+  m_Layer: 0
+  m_Name: Badge_MoodRingAlex
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013688228128
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012729131614}
+  - 114: {fileID: 114000013665657292}
+  m_Layer: 0
+  m_Name: Badge_MoodRingBarbara
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013738499964
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000010196947342}
+  - 114: {fileID: 114000012457123590}
+  m_Layer: 0
+  m_Name: Badge_WorkerBee
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000013956893444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011653227908}
+  - 114: {fileID: 114000010519826440}
+  m_Layer: 0
+  m_Name: Badge_Golden24
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000014054714592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000011699174620}
+  - 114: {fileID: 114000012536370338}
+  m_Layer: 0
+  m_Name: Badge_GreatJob
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1000014150237480
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000012560849526}
+  - 114: {fileID: 114000013829632616}
+  m_Layer: 0
+  m_Name: Badge_RoadToSuccess
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000010103405980
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010920065740}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children:
+  - {fileID: 4000012264630402}
+  - {fileID: 4000012168319576}
+  - {fileID: 4000013484160632}
+  - {fileID: 4000012391320062}
+  - {fileID: 4000013022785576}
+  - {fileID: 4000013695168708}
+  - {fileID: 4000011602530520}
+  - {fileID: 4000013269217636}
+  - {fileID: 4000012035024106}
+  - {fileID: 4000010779182242}
+  - {fileID: 4000013897727366}
+  - {fileID: 4000010804371408}
+  - {fileID: 4000012292476868}
+  - {fileID: 4000012109861672}
+  - {fileID: 4000011869428410}
+  - {fileID: 4000011564451340}
+  - {fileID: 4000012909888176}
+  - {fileID: 4000011501436304}
+  - {fileID: 4000014198405318}
+  - {fileID: 4000010658899620}
+  - {fileID: 4000013162339828}
+  - {fileID: 4000010551379452}
+  - {fileID: 4000010196947342}
+  - {fileID: 4000014008596096}
+  - {fileID: 4000010698656070}
+  - {fileID: 4000014133547946}
+  - {fileID: 4000014273580070}
+  - {fileID: 4000011601403070}
+  - {fileID: 4000012729131614}
+  - {fileID: 4000012726778282}
+  - {fileID: 4000012257808442}
+  - {fileID: 4000011279297280}
+  - {fileID: 4000013329895834}
+  - {fileID: 4000010697540428}
+  - {fileID: 4000012148211348}
+  - {fileID: 4000010596249426}
+  - {fileID: 4000013288782648}
+  - {fileID: 4000011699174620}
+  - {fileID: 4000013055394804}
+  - {fileID: 4000011356716040}
+  - {fileID: 4000012448557222}
+  - {fileID: 4000014250456492}
+  - {fileID: 4000011934699424}
+  - {fileID: 4000011653227908}
+  - {fileID: 4000012903030186}
+  - {fileID: 4000013965197214}
+  - {fileID: 4000012643913840}
+  - {fileID: 4000012560849526}
+  - {fileID: 4000011383069026}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!4 &4000010196947342
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013738499964}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 22
+--- !u!4 &4000010551379452
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012795585414}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 21
+--- !u!4 &4000010596249426
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012466451922}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 35
+--- !u!4 &4000010658899620
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011400331598}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 19
+--- !u!4 &4000010697540428
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011573812190}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 33
+--- !u!4 &4000010698656070
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013109593616}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 24
+--- !u!4 &4000010779182242
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012997494808}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 9
+--- !u!4 &4000010804371408
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013280247660}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 11
+--- !u!4 &4000011279297280
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011954100572}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 31
+--- !u!4 &4000011356716040
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013488360372}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 39
+--- !u!4 &4000011383069026
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011566163720}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 48
+--- !u!4 &4000011501436304
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010336271928}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 17
+--- !u!4 &4000011564451340
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011048328124}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 15
+--- !u!4 &4000011601403070
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013626005754}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 27
+--- !u!4 &4000011602530520
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013395951860}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 6
+--- !u!4 &4000011653227908
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013956893444}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 43
+--- !u!4 &4000011699174620
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014054714592}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 37
+--- !u!4 &4000011869428410
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013249469244}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 14
+--- !u!4 &4000011934699424
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011751751208}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 42
+--- !u!4 &4000012035024106
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011131383486}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 8
+--- !u!4 &4000012109861672
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012551420592}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 13
+--- !u!4 &4000012148211348
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010056405368}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 34
+--- !u!4 &4000012168319576
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010409780728}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 1
+--- !u!4 &4000012257808442
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012941465140}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 30
+--- !u!4 &4000012264630402
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013106584440}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 0
+--- !u!4 &4000012292476868
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011788192992}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 12
+--- !u!4 &4000012391320062
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012627439918}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 3
+--- !u!4 &4000012448557222
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010212329378}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 40
+--- !u!4 &4000012560849526
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014150237480}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 47
+--- !u!4 &4000012643913840
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010071791340}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 46
+--- !u!4 &4000012726778282
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010909722812}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 29
+--- !u!4 &4000012729131614
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013688228128}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 28
+--- !u!4 &4000012903030186
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011732916022}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 44
+--- !u!4 &4000012909888176
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012675423472}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 16
+--- !u!4 &4000013022785576
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010080083004}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 4
+--- !u!4 &4000013055394804
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011177687392}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 38
+--- !u!4 &4000013162339828
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010659224108}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 20
+--- !u!4 &4000013269217636
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013082020204}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 7
+--- !u!4 &4000013288782648
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011929100556}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 36
+--- !u!4 &4000013329895834
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011439985174}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 32
+--- !u!4 &4000013484160632
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013009761574}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 2
+--- !u!4 &4000013695168708
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012192667892}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 5
+--- !u!4 &4000013897727366
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011480473658}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 10
+--- !u!4 &4000013965197214
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011787486010}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 45
+--- !u!4 &4000014008596096
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010409340714}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 23
+--- !u!4 &4000014133547946
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012350103846}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 25
+--- !u!4 &4000014198405318
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011785507796}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 18
+--- !u!4 &4000014250456492
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012168383912}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 41
+--- !u!4 &4000014273580070
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010244446274}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 4000010103405980}
+  m_RootOrder: 26
+--- !u!114 &114000010035031082
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011400331598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Communication Certification
+  m_badgeDescription: 'Personal best Active Listening score '
+  m_badgeIcon: {fileID: 21300000, guid: 419575d24c1579c41bc77029b83e29ec, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 98530a7e20490ea4da20239f29b9e7cc, type: 3}
+--- !u!114 &114000010156676048
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011131383486}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Vice President
+  m_badgeDescription: Total MIAS score between 17 - 19
+  m_badgeIcon: {fileID: 21300000, guid: ed482228703e04b4bbf04cece734f88f, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 4b72bfa01b331e940bb75744c71248b5, type: 3}
+--- !u!114 &114000010442898074
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012627439918}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Bingo
+  m_badgeDescription: Earned a 5 on 5 assignments in a row
+  m_badgeIcon: {fileID: 21300000, guid: f3ba51973ab97e141a615bc41b6ae376, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: c7a07192e88d9604cb917b8d76207976, type: 3}
+--- !u!114 &114000010497445966
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010920065740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46e482b9472f7ed42a0883682b122982, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114000010507615542
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010212329378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: The Big 10
+  m_badgeDescription: Ten assignments completed
+  m_badgeIcon: {fileID: 21300000, guid: 1b6a4376c3a1a5e428a434390c5ac910, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: b25d12b58f8c1cc4b98d1ca366dbf689, type: 3}
+--- !u!114 &114000010519826440
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013956893444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Golden 24
+  m_badgeDescription: Twenty-four assignments completed
+  m_badgeIcon: {fileID: 21300000, guid: c048f57319122d84b8bdce6e60efe1c1, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 314919e03b475954b83cd4d89b92d953, type: 3}
+--- !u!114 &114000010522600414
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010071791340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Survivor
+  m_badgeDescription: Completed first Hostile interview
+  m_badgeIcon: {fileID: 21300000, guid: 20c29e663aed1bd4db77e68e5d68d43b, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: bc205b852d387c04e99d8a2e8f06b284, type: 3}
+--- !u!114 &114000010620058872
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010080083004}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Moving Up
+  m_badgeDescription: Latest assignment score improved over previous
+  m_badgeIcon: {fileID: 21300000, guid: cea4ceeb662e7c7448f498e6d6788fd2, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 2d4ecde4bff781848890595ca0650a3c, type: 3}
+--- !u!114 &114000010637764118
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011177687392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Amazing Job
+  m_badgeDescription: First MIAS Session score of 4
+  m_badgeIcon: {fileID: 21300000, guid: 47d4cceb09cd21944bca914126b45517, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 6adeefc625aa17d42b7dfee07e87be0f, type: 3}
+--- !u!114 &114000010729312896
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013395951860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Manager
+  m_badgeDescription: Total MIAS score between 9 - 12
+  m_badgeIcon: {fileID: 21300000, guid: 6e656c55103023149a9509dc48ecfa8d, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: c6788d4cfea1f894d8cea64a5fcaf194, type: 3}
+--- !u!114 &114000010751333822
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013249469244}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: CEO Award Active Listening
+  m_badgeDescription: Greatest strength in Active Listening
+  m_badgeIcon: {fileID: 21300000, guid: 179025cd82624ba4884aa7f70a2996df, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: d3341293264a1304fa37ad61db781d51, type: 3}
+--- !u!114 &114000010889000514
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010056405368}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Real-estate Developer
+  m_badgeDescription: All environments unlocked
+  m_badgeIcon: {fileID: 21300000, guid: ba867e23f9d6ad2438b0f9868914b509, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: f51806a5da4e756478d54bc7b4dc5b0e, type: 3}
+--- !u!114 &114000010941473034
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011788192992}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: CEO Award Interview Responses
+  m_badgeDescription: Greatest strength in Interview Responses
+  m_badgeIcon: {fileID: 21300000, guid: 90f8a412f1be57e46a1353bce48ff019, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 01634011febf7b94da696b85cb7144f6, type: 3}
+--- !u!114 &114000011198654222
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011439985174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: 'Mood Ring: Michelle'
+  m_badgeDescription: Unlocked all dispositions for Michelle
+  m_badgeIcon: {fileID: 21300000, guid: d57916a92151f1642bc0a8ef65d077db, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: a0b248e6e3e3f384584a4397572d1002, type: 3}
+--- !u!114 &114000011242065994
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010909722812}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: 'Mood Ring: George'
+  m_badgeDescription: Unlocked all dispositions for George
+  m_badgeIcon: {fileID: 21300000, guid: d87af6402c09ab2468145ce7da84cca3, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 32831051dce00a349b94d4badeaeaf35, type: 3}
+--- !u!114 &114000011348958320
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013106584440}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: High Five
+  m_badgeDescription: Scored a 5 on an assignment
+  m_badgeIcon: {fileID: 21300000, guid: dd6e4a64899455d44a56049241f7df3b, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: b783293e2fd784d4f8bcbb73e724b862, type: 3}
+--- !u!114 &114000011385902168
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011785507796}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Branding Champ
+  m_badgeDescription: 'Personal best Self-Promoting score '
+  m_badgeIcon: {fileID: 21300000, guid: 16909eacdf2387f45962de71c7adcb88, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 8c362fa2057cf4c4cbf4b85c37eb29c5, type: 3}
+--- !u!114 &114000011655420616
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012168383912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Bronze 15
+  m_badgeDescription: Fifteen assignments completed
+  m_badgeIcon: {fileID: 21300000, guid: 35ebb02156077f54b8d62830379e7c5a, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 067484baf74cdc04886e69291563ae57, type: 3}
+--- !u!114 &114000011695651356
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011787486010}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: You Did It
+  m_badgeDescription: Completed first Soft-touch interview
+  m_badgeIcon: {fileID: 21300000, guid: 7d380a5a46467ec4dbe6395566bf0688, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 8c886335a7a25704593eab045755fb1e, type: 3}
+--- !u!114 &114000011764878382
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012350103846}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Learner's Permit
+  m_badgeDescription: First Practice Session completed
+  m_badgeIcon: {fileID: 21300000, guid: c9e69bfa2fc30774a9e86823f97f35ca, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 7f53ac863d0ce8943859890adab30e44, type: 3}
+--- !u!114 &114000011770823170
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011480473658}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Practice Makes Perfect
+  m_badgeDescription: Beat your previous top score
+  m_badgeIcon: {fileID: 21300000, guid: 8b7db0e6941f5b24c9b37c7f5e8844f0, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: bd7a86ea06a76b946b074e169cc5ac79, type: 3}
+--- !u!114 &114000011938375156
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011732916022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Consistency
+  m_badgeDescription: Logged into system 10 business days in a row
+  m_badgeIcon: {fileID: 21300000, guid: adde1a986d0250f4e9e382c58db54979, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 801ed985938d3af4892fb0d60fe314e6, type: 3}
+--- !u!114 &114000012040122810
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012941465140}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: 'Mood Ring: Kevin'
+  m_badgeDescription: Unlocked all dispositions for Kevin
+  m_badgeIcon: {fileID: 21300000, guid: 41c8c7d79d8aaa14aa5feea25dfe163e, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 2be3a39b1fd9f9b46b78d432c88a04ae, type: 3}
+--- !u!114 &114000012110858136
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012466451922}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Company Picnic
+  m_badgeDescription: First character unlocked
+  m_badgeIcon: {fileID: 21300000, guid: 8bb8ec4b649910144a785816c4b6e987, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 6816c359ec1d86147abcbbe50a02bf55, type: 3}
+--- !u!114 &114000012124675956
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010244446274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Anger Management
+  m_badgeDescription: First disposition unlocked
+  m_badgeIcon: {fileID: 21300000, guid: 829c7df259f91964a92d77bed84b6121, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 904ef97cf5089ee419553dc6b6207586, type: 3}
+--- !u!114 &114000012212958384
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010409340714}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Above and Beyond
+  m_badgeDescription: Recognition of practice above and beyond class assignments
+  m_badgeIcon: {fileID: 21300000, guid: 653618daeffb8d54f80cd1df6ad372a6, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 24324605626ee7248adb2a3cb868f3c3, type: 3}
+--- !u!114 &114000012252830214
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011048328124}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: CEO Award Closing
+  m_badgeDescription: Greatest strength in Closing
+  m_badgeIcon: {fileID: 21300000, guid: d4237f4ba5f2e4e44b8b13d312e5201e, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: d4841a8a585fd3649a448fcfe4543c9d, type: 3}
+--- !u!114 &114000012262551794
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012675423472}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Golden Hello
+  m_badgeDescription: Personal best First Impressions score
+  m_badgeIcon: {fileID: 21300000, guid: 6b2577760d3820c4b82634636564d8f9, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 0f542fcc61f090349a8bcbf63f16082c, type: 3}
+--- !u!114 &114000012457123590
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013738499964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Worker Bee
+  m_badgeDescription: Recognition of consistent hard work
+  m_badgeIcon: {fileID: 21300000, guid: becf2f536de417645b7bb4bf0a0370a4, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: ad75a58a1bafd0641802f67c20d56325, type: 3}
+--- !u!114 &114000012536370338
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014054714592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Great Job
+  m_badgeDescription: First MIAS Session score of 3
+  m_badgeIcon: {fileID: 21300000, guid: 1ce0faf9d7e6b9f42909c784325abced, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: b261b78a54f4ecb4795ad9c2a7c4ee83, type: 3}
+--- !u!114 &114000012568441624
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013109593616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Promotion
+  m_badgeDescription: Recognition of huge score improvements
+  m_badgeIcon: {fileID: 21300000, guid: 61a858c2e3f3fdf4dbccd8df334b69ce, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 2de7f04d3e37e5e4bb1689f1121b4de0, type: 3}
+--- !u!114 &114000012589811990
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012997494808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: President
+  m_badgeDescription: Total MIAS score of 20
+  m_badgeIcon: {fileID: 21300000, guid: e5adcd57c1295ac40b92253317151e9b, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 0d27c00c9e73faf479247b34d5573b03, type: 3}
+--- !u!114 &114000012640869604
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012551420592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: CEO Award Self-Promoting
+  m_badgeDescription: Greatest strength in Self-Promoting
+  m_badgeIcon: {fileID: 21300000, guid: 4b3a514b134df6d4fb689ed762cda683, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 51c371e4140144a49b048fcfc6ec6a11, type: 3}
+--- !u!114 &114000012674960212
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011566163720}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: First Step
+  m_badgeDescription: Logged in for the first time
+  m_badgeIcon: {fileID: 21300000, guid: c368e971f5a4fd44facf3a797a279dee, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 86d4e28b22863a142a60bab93331349c, type: 3}
+--- !u!114 &114000012709752902
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011573812190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Office Party
+  m_badgeDescription: First environment unlocked
+  m_badgeIcon: {fileID: 21300000, guid: 8c5c2beef5a23394f8c3c56ccf23840d, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 1f9c4a644ab9662489b1cf2a9a1a317b, type: 3}
+--- !u!114 &114000012752228976
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013082020204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Executive
+  m_badgeDescription: Total MIAS score between 13 - 16
+  m_badgeIcon: {fileID: 21300000, guid: 3878dd5316a7fb349ab1835969796455, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 12e1e3e8a7110fd4d8b3200a036f07e0, type: 3}
+--- !u!114 &114000012885273276
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012192667892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Intern
+  m_badgeDescription: Total MIAS score between 5 - 8
+  m_badgeIcon: {fileID: 21300000, guid: 6c798ae0745105d41b3df3a4e463c51f, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: f0f6414fd9c0b554a905848e44a2a21c, type: 3}
+--- !u!114 &114000013002387166
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011954100572}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: 'Mood Ring: Maria'
+  m_badgeDescription: Unlocked all dispositions for Maria
+  m_badgeIcon: {fileID: 21300000, guid: 8eb63334ab3baf748b799f8bfe6ef7fa, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: c10ac4b627f883644b6697361ba1f5d3, type: 3}
+--- !u!114 &114000013100072862
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000012795585414}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Class Act
+  m_badgeDescription: "Entire class\u2019s assignment scores improved"
+  m_badgeIcon: {fileID: 21300000, guid: 8cfcd34ce3b199b40ad74d6b96340637, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 8e90f1a950a7ac94186a7a91eb9d5b94, type: 3}
+--- !u!114 &114000013139750090
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013280247660}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: CEO Award First Impressions
+  m_badgeDescription: Greatest strength in First Impressions
+  m_badgeIcon: {fileID: 21300000, guid: 31d43182a0505a8499f47a77bbc0c544, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: abbc34194cd4cda47bf0c891d77a3da8, type: 3}
+--- !u!114 &114000013296073690
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010659224108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Closing Bell
+  m_badgeDescription: 'Personal best Closing score '
+  m_badgeIcon: {fileID: 21300000, guid: 64becd5e4f0fcd747a15163389e40ab1, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: a39525f20c814e24f9340bb4da21fd22, type: 3}
+--- !u!114 &114000013627429034
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010409780728}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Tic-Tac-Toe
+  m_badgeDescription: Three scores of 5 in a row
+  m_badgeIcon: {fileID: 21300000, guid: efa081e0be32f0d4d89ca782b9d28d4b, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 80ea031b68d41634ca21d9e52171c6ef, type: 3}
+--- !u!114 &114000013665657292
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013688228128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: 'Mood Ring: Barbara'
+  m_badgeDescription: Unlocked all dispositions for Barbara
+  m_badgeIcon: {fileID: 21300000, guid: b121800c54cb1b34b9dff8cbe3814cb8, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 92f5ba15066a9d64ba28b482de615919, type: 3}
+--- !u!114 &114000013790666800
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013626005754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: 'Mood Ring: Alex'
+  m_badgeDescription: Unlocked all dispositions for Alex
+  m_badgeIcon: {fileID: 21300000, guid: 3aca8570a4aeadb4d8a5954044f43613, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 1fd9c46f4addf5d4da22dcba5b012ffc, type: 3}
+--- !u!114 &114000013825085000
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011751751208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Silver 20
+  m_badgeDescription: Twenty assignments completed
+  m_badgeIcon: {fileID: 21300000, guid: 71c2c0ed4f86abc41b08db918ed9092c, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 8297d1a72c8f2fa4d84ead306f6b2f08, type: 3}
+--- !u!114 &114000013829632616
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000014150237480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Road To Success
+  m_badgeDescription: Completed first Neutral interview
+  m_badgeIcon: {fileID: 21300000, guid: 5acde1a403a4bc644a0b1c29c111a573, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 499099ef62b91ac4ca084bdda768dfc6, type: 3}
+--- !u!114 &114000013882816950
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013488360372}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: The Big 5
+  m_badgeDescription: Five assignments completed
+  m_badgeIcon: {fileID: 21300000, guid: 5e4c998568489024688028a398626117, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 0c3a099900ae35548b5c2c1e3227194f, type: 3}
+--- !u!114 &114000013967836014
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000010336271928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Blue Chip Award
+  m_badgeDescription: 'Personal best Interview Responses score '
+  m_badgeIcon: {fileID: 21300000, guid: a9fc9adf43a2d714d96b2664e19c101a, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 8b7e6044619449c428af2ab0c73cb7a6, type: 3}
+--- !u!114 &114000014047648784
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013009761574}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Dress For Success
+  m_badgeDescription: All assignments turned in on time this week
+  m_badgeIcon: {fileID: 21300000, guid: 6aaebed65298e0148b9e7384fcc023e6, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 56434edcac13caa4481be318c8160ed1, type: 3}
+--- !u!114 &114000014127203704
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000011929100556}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b02ad00fcf6c6fb46a9f924e8ade6e32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_badgeName: Gangs All Here
+  m_badgeDescription: All characters unlocked
+  m_badgeIcon: {fileID: 21300000, guid: 9dafb70a08d41bc4aa79fa481739b596, type: 3}
+  m_badgeLockedIcon: {fileID: 21300000, guid: 65e6e9cf7fd36f44fb6564975a509f42, type: 3}
